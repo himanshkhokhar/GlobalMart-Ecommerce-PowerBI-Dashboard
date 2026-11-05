@@ -1,0 +1,3501 @@
+CustomerKey,CustomerName,Segment,AcquisitionChannel,AcquisitionYear,RegionKey
+1,Joseph Johnson,Corporate,Online,2021,4
+2,Brenda Garcia,Corporate,Online,2021,8
+3,Nicholas Hill,Consumer,Online,2023,18
+4,Rebecca Anderson,Consumer,Online,2024,25
+5,Christopher Hall,Consumer,Online,2021,25
+6,Michelle Miller,Consumer,Online,2024,20
+7,Emily Williams,Corporate,In-Store,2024,13
+8,David Scott,Consumer,In-Store,2024,12
+9,Anna Gonzalez,Corporate,Online,2021,10
+10,David Anderson,Home Office,Online,2022,12
+11,Christopher White,Consumer,In-Store,2023,22
+12,Barbara Hill,Corporate,In-Store,2021,15
+13,Timothy Moore,Home Office,In-Store,2022,22
+14,Carol Roberts,Corporate,Online,2021,11
+15,Stephanie Moore,Consumer,Direct Sales,2022,23
+16,Kenneth Wilson,Corporate,Online,2024,15
+17,Charles Taylor,Consumer,Partner,2022,24
+18,Scott Ramirez,Home Office,Online,2021,5
+19,Angela Young,Consumer,Online,2021,21
+20,Christopher Baker,Consumer,Online,2022,15
+21,Shirley Taylor,Home Office,Partner,2021,24
+22,Joseph Baker,Home Office,Partner,2023,11
+23,Joseph Jackson,Consumer,In-Store,2024,24
+24,Emily Allen,Corporate,In-Store,2021,21
+25,Joshua Green,Consumer,Online,2022,6
+26,Brenda Roberts,Home Office,Direct Sales,2023,16
+27,John Davis,Home Office,Partner,2024,10
+28,Donald Brown,Consumer,In-Store,2021,24
+29,Gary Jones,Home Office,In-Store,2021,22
+30,Jacob Scott,Consumer,In-Store,2023,7
+31,Brenda Carter,Corporate,Online,2022,22
+32,Melissa Lewis,Home Office,In-Store,2021,3
+33,Michelle Johnson,Corporate,Online,2021,3
+34,Linda Anderson,Consumer,Online,2022,17
+35,Donald Moore,Corporate,Online,2021,19
+36,Anna Walker,Consumer,In-Store,2022,4
+37,Richard Nelson,Consumer,Online,2022,24
+38,Michael Baker,Corporate,In-Store,2021,24
+39,Michelle Miller,Consumer,Online,2022,14
+40,Nancy Moore,Consumer,Partner,2021,18
+41,Richard Brown,Corporate,In-Store,2021,3
+42,Donald Hernandez,Consumer,In-Store,2024,2
+43,Lisa Harris,Consumer,Online,2024,15
+44,Andrew Ramirez,Corporate,Partner,2023,22
+45,Gary Martinez,Consumer,Online,2021,24
+46,Brenda Brown,Corporate,Online,2023,17
+47,Shirley Hernandez,Consumer,In-Store,2024,3
+48,William Baker,Home Office,Online,2024,19
+49,Ashley Nguyen,Corporate,In-Store,2022,19
+50,Larry King,Consumer,Online,2023,11
+51,Donald Taylor,Consumer,In-Store,2021,11
+52,Barbara Smith,Consumer,Direct Sales,2024,3
+53,Stephen Wilson,Consumer,Online,2022,3
+54,Ashley White,Consumer,Online,2022,10
+55,Shirley Smith,Corporate,In-Store,2024,4
+56,Sarah Taylor,Consumer,Online,2022,9
+57,Andrew Hill,Consumer,Online,2023,9
+58,Nicholas Young,Consumer,Direct Sales,2021,21
+59,Jason Moore,Consumer,Online,2021,9
+60,Christopher Mitchell,Consumer,Partner,2022,4
+61,Barbara Hall,Home Office,In-Store,2024,19
+62,Jonathan Martinez,Consumer,Online,2022,2
+63,Amanda Wilson,Corporate,In-Store,2022,18
+64,Edward Flores,Corporate,Direct Sales,2021,6
+65,Daniel Clark,Consumer,Partner,2022,14
+66,Ashley Moore,Consumer,Partner,2022,2
+67,Jacob Anderson,Consumer,Direct Sales,2022,8
+68,Mark Johnson,Corporate,Online,2021,3
+69,Dorothy Thompson,Corporate,Online,2024,18
+70,Kevin Johnson,Consumer,Direct Sales,2021,9
+71,Robert Miller,Corporate,Online,2023,14
+72,Angela Davis,Consumer,In-Store,2021,23
+73,Sharon Smith,Consumer,Partner,2023,24
+74,Betty White,Consumer,Direct Sales,2024,20
+75,Kenneth Nelson,Home Office,Partner,2022,10
+76,Edward Lee,Consumer,Online,2021,14
+77,Timothy Baker,Corporate,Online,2022,13
+78,Jonathan Smith,Consumer,Online,2023,20
+79,Carol Robinson,Consumer,In-Store,2022,24
+80,Lisa Nelson,Consumer,In-Store,2023,11
+81,Elizabeth Carter,Consumer,Online,2023,5
+82,Patricia Williams,Consumer,In-Store,2024,3
+83,Ryan Clark,Home Office,In-Store,2023,13
+84,Amy Sanchez,Consumer,In-Store,2021,25
+85,Susan Roberts,Consumer,Online,2024,17
+86,Cynthia Brown,Corporate,Direct Sales,2021,5
+87,Cynthia Nelson,Corporate,In-Store,2022,25
+88,Jeffrey Flores,Corporate,Direct Sales,2022,18
+89,Laura Hernandez,Corporate,In-Store,2021,8
+90,Dorothy Roberts,Corporate,In-Store,2021,15
+91,Barbara Rivera,Consumer,Online,2022,18
+92,David Rodriguez,Consumer,Online,2021,7
+93,William Clark,Consumer,In-Store,2022,7
+94,Rebecca Harris,Home Office,In-Store,2023,25
+95,Anna Harris,Consumer,Direct Sales,2021,13
+96,Rebecca Wright,Corporate,In-Store,2023,8
+97,Gary Anderson,Consumer,In-Store,2022,22
+98,Stephanie Campbell,Consumer,In-Store,2021,20
+99,Stephen Johnson,Home Office,In-Store,2023,3
+100,Jason Rodriguez,Home Office,Online,2021,11
+101,Margaret Robinson,Consumer,Partner,2022,25
+102,Rebecca Taylor,Corporate,In-Store,2023,2
+103,Brian Anderson,Corporate,Partner,2023,25
+104,Patricia Thomas,Consumer,Online,2021,5
+105,Jacob Nelson,Consumer,Direct Sales,2022,9
+106,Melissa Hernandez,Corporate,Direct Sales,2023,25
+107,Christopher Martin,Consumer,Online,2022,22
+108,Timothy Sanchez,Home Office,Online,2023,21
+109,Ashley Miller,Corporate,Online,2023,4
+110,Larry Williams,Consumer,Online,2022,17
+111,Michelle Smith,Home Office,Partner,2021,12
+112,Ryan Rivera,Consumer,Online,2022,21
+113,Paul Flores,Corporate,In-Store,2022,14
+114,Pamela Moore,Consumer,Online,2024,9
+115,Laura Thomas,Corporate,In-Store,2023,11
+116,Patricia Young,Home Office,Online,2021,9
+117,Michelle Moore,Home Office,Partner,2021,1
+118,Eric Gonzalez,Consumer,Partner,2022,25
+119,Donald Hall,Consumer,Partner,2022,1
+120,Elizabeth Jackson,Consumer,In-Store,2022,19
+121,Melissa Walker,Corporate,Online,2024,18
+122,Kevin Thompson,Corporate,Online,2021,4
+123,Matthew Lee,Consumer,In-Store,2023,6
+124,Matthew Wilson,Corporate,Online,2023,25
+125,Shirley Hill,Consumer,Online,2021,8
+126,George Lopez,Consumer,Partner,2021,2
+127,Michael Scott,Consumer,Direct Sales,2023,25
+128,Gary Miller,Home Office,In-Store,2022,15
+129,Michelle Lopez,Home Office,Online,2024,4
+130,William Sanchez,Consumer,In-Store,2023,5
+131,Karen Torres,Home Office,Online,2021,18
+132,Rebecca Hill,Corporate,In-Store,2023,13
+133,Laura Lewis,Consumer,In-Store,2022,19
+134,Linda Flores,Home Office,Online,2023,21
+135,Margaret Taylor,Corporate,Online,2021,3
+136,Christopher Smith,Consumer,In-Store,2022,2
+137,Sandra Jackson,Corporate,Partner,2022,22
+138,Sandra Taylor,Corporate,In-Store,2023,7
+139,Jason Davis,Corporate,In-Store,2024,5
+140,Barbara Brown,Consumer,Online,2023,19
+141,Andrew Lewis,Consumer,In-Store,2023,9
+142,Nicholas Wright,Consumer,Online,2021,14
+143,Carol Hill,Consumer,Online,2024,19
+144,Pamela Johnson,Home Office,In-Store,2021,2
+145,Daniel Walker,Consumer,Online,2021,19
+146,Sharon Green,Corporate,Direct Sales,2022,14
+147,Kevin Lee,Corporate,Partner,2022,23
+148,Amy Jackson,Corporate,Online,2023,2
+149,Ryan Garcia,Consumer,Online,2024,13
+150,Angela Smith,Corporate,In-Store,2022,7
+151,Eric White,Corporate,In-Store,2022,2
+152,Anthony Moore,Corporate,Direct Sales,2022,23
+153,Gary Davis,Consumer,In-Store,2023,23
+154,Christopher Martin,Corporate,In-Store,2021,4
+155,Cynthia Davis,Corporate,Online,2024,10
+156,Angela Rivera,Consumer,Partner,2024,8
+157,Ryan Scott,Consumer,Online,2023,24
+158,Sarah Jones,Consumer,Partner,2022,17
+159,Paul Smith,Consumer,Online,2023,22
+160,Gary Martinez,Consumer,In-Store,2022,25
+161,Brenda Harris,Consumer,Online,2021,23
+162,Donald Torres,Consumer,Partner,2022,11
+163,Jacob Rivera,Home Office,Online,2024,21
+164,Karen Young,Home Office,Online,2024,11
+165,Richard Lewis,Consumer,Direct Sales,2021,5
+166,Edward Adams,Home Office,Online,2023,9
+167,Michelle Flores,Corporate,In-Store,2024,22
+168,Stephen Harris,Home Office,In-Store,2024,16
+169,Brenda Williams,Corporate,Online,2023,10
+170,Sandra Mitchell,Consumer,Direct Sales,2023,23
+171,Richard Lewis,Consumer,Online,2021,11
+172,Linda Jackson,Consumer,Online,2021,14
+173,Larry Baker,Corporate,Online,2021,13
+174,Donald Young,Home Office,Online,2022,9
+175,Ryan Taylor,Corporate,Direct Sales,2022,10
+176,Brenda Hernandez,Consumer,Direct Sales,2024,10
+177,Jason Hall,Consumer,Partner,2021,13
+178,Kathleen Miller,Consumer,In-Store,2022,23
+179,Kimberly Johnson,Home Office,In-Store,2021,19
+180,Michael Hill,Corporate,Partner,2024,25
+181,Sandra Hill,Corporate,Online,2021,9
+182,Sarah Green,Consumer,In-Store,2021,15
+183,Robert Nguyen,Consumer,Online,2024,11
+184,Rebecca Lopez,Consumer,Partner,2024,12
+185,Shirley Allen,Home Office,Partner,2021,16
+186,Kimberly Mitchell,Home Office,Partner,2022,3
+187,Charles Carter,Home Office,Partner,2023,13
+188,Emma White,Consumer,Online,2021,4
+189,Ryan White,Corporate,In-Store,2023,21
+190,Melissa Miller,Corporate,In-Store,2023,18
+191,Carol Flores,Consumer,Online,2023,23
+192,Joshua Adams,Consumer,Online,2024,10
+193,Amy Davis,Consumer,Direct Sales,2021,15
+194,Melissa Nelson,Home Office,In-Store,2022,19
+195,Karen Clark,Corporate,Partner,2023,9
+196,Robert Hall,Consumer,Online,2024,12
+197,Richard Baker,Consumer,Direct Sales,2023,2
+198,Ronald Moore,Consumer,Online,2024,15
+199,Elizabeth Nelson,Consumer,In-Store,2024,2
+200,Kevin Thomas,Home Office,Partner,2021,25
+201,Jonathan Wilson,Corporate,Partner,2021,25
+202,Charles Hill,Consumer,Partner,2021,5
+203,Brenda Taylor,Corporate,Online,2024,5
+204,Mary Thompson,Corporate,Online,2022,6
+205,Emily Brown,Consumer,Online,2021,3
+206,Jacob Lewis,Corporate,In-Store,2021,17
+207,Mark Flores,Consumer,Partner,2024,17
+208,Joshua Robinson,Corporate,Online,2024,13
+209,Jason Baker,Consumer,Partner,2022,3
+210,Carol Hill,Consumer,Online,2023,19
+211,Jonathan Rivera,Consumer,Direct Sales,2022,15
+212,Nicholas Hill,Consumer,Partner,2021,21
+213,Jonathan Campbell,Home Office,Online,2024,14
+214,Michelle Robinson,Consumer,Partner,2022,11
+215,Steven White,Home Office,In-Store,2022,3
+216,David Garcia,Consumer,Partner,2022,5
+217,Emma Brown,Corporate,In-Store,2022,4
+218,Edward Thompson,Home Office,Direct Sales,2022,24
+219,Michael Jackson,Corporate,Online,2022,7
+220,Karen Nelson,Consumer,Partner,2022,18
+221,Melissa Davis,Corporate,In-Store,2023,18
+222,Emma Johnson,Corporate,In-Store,2023,1
+223,Nancy Moore,Corporate,Online,2022,1
+224,Nancy Martinez,Corporate,Online,2021,21
+225,Patricia Garcia,Corporate,Online,2022,11
+226,Christopher White,Consumer,Online,2024,20
+227,David Brown,Consumer,Partner,2021,3
+228,Paul Lewis,Corporate,In-Store,2022,9
+229,Margaret Carter,Consumer,Online,2021,22
+230,Pamela Young,Corporate,Online,2021,20
+231,Linda Smith,Consumer,Direct Sales,2023,25
+232,Steven Jackson,Consumer,Online,2023,6
+233,Thomas Harris,Corporate,Online,2022,22
+234,Amanda Jones,Consumer,Partner,2022,15
+235,Barbara Lee,Corporate,In-Store,2023,14
+236,Kimberly Davis,Consumer,Direct Sales,2021,20
+237,Ryan Hall,Home Office,Online,2024,8
+238,Sharon Nguyen,Consumer,Online,2024,24
+239,Michelle Anderson,Consumer,Online,2022,4
+240,Shirley Allen,Consumer,Partner,2022,21
+241,Charles Thomas,Consumer,Online,2021,5
+242,Barbara Lopez,Home Office,In-Store,2022,19
+243,Scott Lewis,Corporate,Direct Sales,2023,20
+244,Carol Green,Consumer,Online,2022,21
+245,Joshua Moore,Corporate,Online,2021,15
+246,Laura Williams,Consumer,Partner,2021,3
+247,Nicholas Harris,Consumer,In-Store,2023,2
+248,Laura Torres,Corporate,Online,2022,5
+249,Linda Lewis,Consumer,Direct Sales,2022,23
+250,David Allen,Corporate,Online,2023,15
+251,Shirley King,Corporate,Online,2024,13
+252,Edward Roberts,Consumer,In-Store,2023,21
+253,Kevin Jones,Consumer,In-Store,2022,9
+254,Karen Perez,Consumer,In-Store,2024,10
+255,Ronald Rodriguez,Corporate,Direct Sales,2022,13
+256,Kevin Rodriguez,Corporate,Partner,2023,22
+257,Shirley Garcia,Corporate,Online,2022,12
+258,Donna Lopez,Home Office,Online,2023,7
+259,Mark Rodriguez,Consumer,Online,2023,17
+260,Brenda Mitchell,Home Office,Online,2022,25
+261,Thomas Hill,Consumer,Online,2024,25
+262,Lisa Campbell,Consumer,Online,2023,8
+263,Jeffrey Flores,Consumer,Partner,2022,18
+264,Donald Martin,Home Office,Partner,2024,7
+265,Melissa Baker,Home Office,Direct Sales,2022,10
+266,Timothy Allen,Corporate,Direct Sales,2023,20
+267,Sarah Taylor,Consumer,In-Store,2022,4
+268,Eric Davis,Consumer,Partner,2021,17
+269,Charles Ramirez,Consumer,Direct Sales,2023,12
+270,Patricia Clark,Consumer,In-Store,2021,3
+271,Melissa Anderson,Consumer,Direct Sales,2024,21
+272,Kevin Martinez,Consumer,Online,2023,23
+273,Sarah Carter,Corporate,Online,2021,3
+274,John Taylor,Consumer,Online,2024,20
+275,Shirley Ramirez,Consumer,Online,2022,2
+276,Donald Clark,Corporate,In-Store,2021,16
+277,Stephen Johnson,Corporate,In-Store,2023,10
+278,Jason Smith,Corporate,Online,2022,22
+279,David King,Home Office,Online,2022,17
+280,Nicholas Scott,Consumer,Partner,2021,13
+281,Melissa Taylor,Corporate,Online,2021,8
+282,Susan Roberts,Corporate,Partner,2021,12
+283,Brenda Perez,Corporate,Online,2023,15
+284,Kathleen Green,Consumer,Online,2023,15
+285,Robert Jackson,Consumer,Partner,2024,11
+286,Donna Allen,Consumer,Partner,2022,2
+287,Matthew Jackson,Consumer,Partner,2024,11
+288,Paul Davis,Corporate,Online,2022,15
+289,Deborah Perez,Home Office,In-Store,2022,17
+290,Paul Garcia,Corporate,Online,2023,6
+291,Brenda Jackson,Consumer,Online,2023,10
+292,Laura Hill,Corporate,Online,2022,15
+293,Jennifer Campbell,Home Office,Online,2024,9
+294,Linda Jones,Corporate,Online,2022,24
+295,Christopher Johnson,Consumer,In-Store,2023,2
+296,Thomas Jones,Consumer,In-Store,2022,19
+297,Robert Hill,Consumer,Online,2022,15
+298,Barbara Torres,Consumer,Online,2022,9
+299,Ashley Davis,Consumer,Online,2022,18
+300,Jessica Taylor,Corporate,Partner,2021,20
+301,Andrew Hall,Home Office,In-Store,2021,3
+302,Laura Lopez,Home Office,Online,2021,22
+303,Kenneth Nelson,Consumer,Online,2022,10
+304,Christopher Rivera,Corporate,Partner,2021,12
+305,Angela Anderson,Consumer,Online,2021,16
+306,Patricia White,Corporate,Online,2023,18
+307,Thomas Flores,Home Office,Online,2022,23
+308,Kathleen King,Consumer,Online,2022,5
+309,Kenneth Adams,Consumer,In-Store,2022,5
+310,Jonathan Green,Corporate,Partner,2021,17
+311,Linda Davis,Consumer,Online,2021,23
+312,Mark Thompson,Home Office,In-Store,2021,3
+313,Steven Gonzalez,Corporate,In-Store,2021,10
+314,Stephen Garcia,Consumer,Online,2024,5
+315,Lisa Nelson,Corporate,Direct Sales,2022,19
+316,Jennifer Johnson,Consumer,Direct Sales,2023,9
+317,Anthony Roberts,Corporate,In-Store,2021,21
+318,Brenda Jackson,Corporate,Online,2021,22
+319,Stephanie Martin,Consumer,In-Store,2021,14
+320,Kathleen Robinson,Consumer,In-Store,2022,23
+321,Kenneth Campbell,Home Office,Online,2022,25
+322,Melissa Allen,Corporate,Online,2022,9
+323,Laura Thomas,Consumer,Online,2024,20
+324,Rebecca Thomas,Home Office,Direct Sales,2023,19
+325,Kenneth Gonzalez,Corporate,In-Store,2022,16
+326,Donna Young,Consumer,Direct Sales,2022,8
+327,Margaret Nguyen,Consumer,Online,2022,21
+328,Jacob Jackson,Corporate,Partner,2022,9
+329,George Carter,Consumer,Online,2021,18
+330,Matthew White,Corporate,Online,2022,25
+331,Jonathan Moore,Corporate,In-Store,2023,5
+332,Richard Sanchez,Consumer,Direct Sales,2022,12
+333,Charles Gonzalez,Corporate,Online,2021,2
+334,Sarah Rivera,Consumer,In-Store,2022,20
+335,Angela Rodriguez,Consumer,In-Store,2021,20
+336,Joshua Nguyen,Consumer,Partner,2022,23
+337,Larry Martin,Consumer,Online,2022,4
+338,Rebecca Nguyen,Consumer,Direct Sales,2024,21
+339,Patricia Hill,Consumer,Direct Sales,2023,25
+340,Scott Torres,Consumer,Online,2022,17
+341,Timothy Martinez,Corporate,Online,2022,23
+342,Joseph Gonzalez,Consumer,Online,2021,23
+343,Anthony Clark,Consumer,In-Store,2022,24
+344,Linda Rivera,Consumer,Online,2022,22
+345,Kathleen King,Consumer,Direct Sales,2022,18
+346,Michelle Wright,Consumer,Partner,2023,21
+347,Emily Flores,Consumer,Direct Sales,2021,10
+348,Mark Martin,Corporate,Partner,2023,16
+349,Kenneth Walker,Consumer,Direct Sales,2023,9
+350,Andrew Davis,Corporate,In-Store,2024,13
+351,Brian Roberts,Corporate,Online,2021,23
+352,David Thompson,Home Office,In-Store,2023,7
+353,Betty Wright,Consumer,In-Store,2021,4
+354,Pamela Thomas,Consumer,In-Store,2022,21
+355,Sandra Brown,Consumer,Online,2022,22
+356,Sarah Smith,Home Office,Direct Sales,2021,21
+357,Jacob Walker,Corporate,Partner,2021,10
+358,Linda Roberts,Consumer,In-Store,2022,24
+359,Robert Lopez,Consumer,Partner,2024,2
+360,Ronald Young,Consumer,Partner,2024,10
+361,Robert Smith,Consumer,In-Store,2024,11
+362,Andrew Robinson,Home Office,In-Store,2022,5
+363,Nicholas Robinson,Consumer,Partner,2022,24
+364,Ryan Adams,Consumer,Online,2023,10
+365,Larry Baker,Corporate,Online,2024,13
+366,Jason Allen,Consumer,Online,2021,5
+367,Kathleen Lee,Home Office,Online,2022,15
+368,Paul Perez,Consumer,Partner,2021,21
+369,George Hall,Consumer,In-Store,2022,6
+370,Stephanie Baker,Consumer,Direct Sales,2023,10
+371,Jessica Green,Home Office,Online,2023,8
+372,Sarah Walker,Consumer,Partner,2023,14
+373,Jonathan Walker,Corporate,Partner,2023,25
+374,Ashley Baker,Corporate,Partner,2021,15
+375,Shirley Rivera,Consumer,Direct Sales,2021,18
+376,Nicholas Gonzalez,Corporate,Online,2022,17
+377,Jeffrey Davis,Corporate,Partner,2022,17
+378,Laura Brown,Consumer,In-Store,2022,2
+379,Emma Robinson,Corporate,Online,2021,9
+380,James Mitchell,Consumer,Online,2022,23
+381,William Wright,Home Office,Direct Sales,2021,16
+382,Robert Jackson,Consumer,Partner,2023,24
+383,Rebecca White,Home Office,Online,2024,13
+384,Timothy Garcia,Corporate,In-Store,2022,21
+385,Brian Davis,Consumer,In-Store,2022,24
+386,Mark Smith,Corporate,Direct Sales,2022,24
+387,Brenda Ramirez,Corporate,Partner,2021,12
+388,Karen Moore,Consumer,Partner,2023,2
+389,Rebecca Flores,Corporate,Direct Sales,2021,7
+390,William Miller,Corporate,Online,2023,2
+391,Ashley Mitchell,Consumer,Online,2022,25
+392,Linda Rodriguez,Consumer,Online,2023,24
+393,Anna Lee,Corporate,Partner,2023,8
+394,Joshua Martinez,Home Office,In-Store,2022,9
+395,Linda Scott,Home Office,Partner,2024,21
+396,Jason Scott,Consumer,Direct Sales,2024,22
+397,Timothy King,Consumer,Online,2021,13
+398,Nancy Carter,Corporate,Online,2021,23
+399,Charles Robinson,Home Office,In-Store,2024,18
+400,Shirley Rodriguez,Consumer,Online,2022,3
+401,Laura White,Consumer,Partner,2021,9
+402,Timothy Baker,Corporate,Online,2021,25
+403,Pamela Campbell,Corporate,Online,2021,11
+404,Joshua Smith,Consumer,Online,2023,24
+405,Kathleen Thomas,Corporate,Partner,2022,8
+406,Jonathan Lee,Corporate,Online,2022,12
+407,Donna Taylor,Consumer,Direct Sales,2022,24
+408,Jacob Carter,Corporate,Direct Sales,2022,14
+409,Jennifer Torres,Home Office,Partner,2021,18
+410,Scott Nguyen,Corporate,Online,2021,8
+411,Timothy Torres,Corporate,In-Store,2023,22
+412,Michelle Taylor,Corporate,In-Store,2023,24
+413,Gary Robinson,Consumer,Partner,2021,24
+414,Brenda Young,Consumer,Direct Sales,2024,2
+415,Shirley Williams,Corporate,Online,2023,2
+416,James Clark,Consumer,In-Store,2021,5
+417,Mary Wilson,Consumer,Online,2023,22
+418,Kathleen Nelson,Consumer,Online,2022,1
+419,John King,Corporate,In-Store,2021,17
+420,Sharon Lopez,Consumer,Online,2021,7
+421,Shirley Taylor,Corporate,Online,2022,12
+422,Stephanie Robinson,Corporate,Direct Sales,2021,22
+423,David Adams,Home Office,In-Store,2021,13
+424,Timothy Harris,Corporate,Online,2021,6
+425,David Young,Home Office,In-Store,2022,4
+426,Shirley Williams,Consumer,Direct Sales,2023,19
+427,Jacob Moore,Consumer,Online,2024,18
+428,Larry Nelson,Consumer,Direct Sales,2022,7
+429,Pamela Martinez,Corporate,Partner,2022,3
+430,Joshua Hernandez,Corporate,In-Store,2024,22
+431,Brenda Perez,Consumer,Partner,2023,23
+432,David Allen,Corporate,Online,2021,8
+433,Barbara Perez,Corporate,In-Store,2023,25
+434,Carol Johnson,Corporate,Partner,2022,8
+435,Amanda Scott,Home Office,Online,2023,22
+436,Timothy Garcia,Corporate,Online,2021,3
+437,David Moore,Consumer,Partner,2023,24
+438,Deborah Lee,Consumer,Online,2024,15
+439,George Carter,Consumer,Online,2021,15
+440,Emma Scott,Consumer,Online,2021,18
+441,Elizabeth Hill,Corporate,Online,2022,10
+442,Edward Harris,Corporate,Partner,2022,8
+443,Anna King,Consumer,Online,2021,10
+444,Paul Young,Consumer,Online,2021,10
+445,Kathleen Jones,Consumer,Direct Sales,2023,16
+446,Betty Robinson,Consumer,Online,2024,11
+447,Timothy Perez,Consumer,Online,2023,21
+448,Sarah Martin,Consumer,Direct Sales,2021,11
+449,Daniel Sanchez,Home Office,Online,2023,16
+450,Anna Thomas,Consumer,Online,2023,12
+451,Joseph Torres,Consumer,Direct Sales,2021,25
+452,Jonathan Johnson,Home Office,In-Store,2023,15
+453,Kimberly Hall,Consumer,Partner,2023,22
+454,Amy Rodriguez,Corporate,Online,2023,23
+455,Jason Harris,Consumer,Direct Sales,2022,13
+456,Stephen Allen,Home Office,Partner,2022,2
+457,George Hall,Home Office,In-Store,2023,3
+458,Susan Roberts,Consumer,In-Store,2021,20
+459,Jennifer Torres,Home Office,In-Store,2022,25
+460,Kevin Ramirez,Consumer,Online,2021,24
+461,Eric Scott,Corporate,In-Store,2022,13
+462,Cynthia Roberts,Corporate,In-Store,2021,1
+463,Kathleen Miller,Consumer,Direct Sales,2021,24
+464,Charles Thompson,Consumer,In-Store,2021,16
+465,Brian Walker,Consumer,Partner,2022,3
+466,Joshua Williams,Corporate,Online,2024,21
+467,Susan Baker,Corporate,Direct Sales,2023,17
+468,Daniel Scott,Consumer,In-Store,2024,8
+469,Stephanie Green,Consumer,In-Store,2022,1
+470,Betty Lewis,Corporate,Online,2023,7
+471,Dorothy Carter,Corporate,Partner,2022,18
+472,Nancy White,Consumer,In-Store,2021,16
+473,Shirley Green,Consumer,Online,2022,4
+474,Brian Thompson,Home Office,In-Store,2023,23
+475,Joshua Flores,Corporate,In-Store,2022,8
+476,Donna Davis,Consumer,In-Store,2022,14
+477,Sarah Torres,Consumer,Online,2023,23
+478,Daniel Scott,Consumer,Online,2021,15
+479,Michael Thompson,Home Office,In-Store,2021,13
+480,Emma Allen,Corporate,Online,2022,23
+481,Jeffrey Young,Consumer,In-Store,2023,8
+482,Kimberly Williams,Consumer,In-Store,2021,15
+483,Larry Mitchell,Corporate,In-Store,2022,19
+484,Joseph Moore,Corporate,Partner,2022,25
+485,Jennifer Carter,Corporate,In-Store,2024,4
+486,Ashley Martin,Home Office,Online,2021,3
+487,Jeffrey Davis,Corporate,Online,2023,19
+488,Brian Rivera,Corporate,Online,2023,7
+489,Anthony Brown,Corporate,In-Store,2023,6
+490,Carol Rivera,Consumer,In-Store,2024,17
+491,Richard Rodriguez,Home Office,Partner,2024,9
+492,Thomas Hall,Home Office,Online,2023,8
+493,Ronald Young,Consumer,In-Store,2023,13
+494,Laura Jones,Corporate,Direct Sales,2021,17
+495,Dorothy Hall,Home Office,Online,2024,11
+496,Scott Smith,Home Office,Partner,2021,15
+497,Amanda Jones,Corporate,Online,2024,7
+498,Amy Moore,Consumer,Online,2022,5
+499,Larry Young,Corporate,Direct Sales,2023,2
+500,Richard Green,Corporate,In-Store,2021,6
+501,Jeffrey Robinson,Consumer,Direct Sales,2021,23
+502,Thomas Adams,Consumer,Partner,2024,3
+503,George Taylor,Consumer,In-Store,2023,2
+504,Ronald Green,Consumer,In-Store,2021,21
+505,Elizabeth Rivera,Consumer,Online,2021,19
+506,Mark King,Corporate,Online,2023,4
+507,Jason Hall,Consumer,Online,2022,24
+508,Susan Miller,Consumer,Direct Sales,2021,25
+509,Sarah Adams,Home Office,Online,2022,1
+510,Lisa Lewis,Consumer,Online,2023,14
+511,Jeffrey Wilson,Consumer,Online,2023,19
+512,Deborah Thompson,Home Office,Online,2021,9
+513,David Thomas,Corporate,In-Store,2023,25
+514,Patricia Nelson,Home Office,Online,2023,7
+515,Ronald Jackson,Corporate,Partner,2023,8
+516,Amy Harris,Consumer,In-Store,2023,17
+517,Mary White,Home Office,Online,2024,19
+518,Rebecca White,Corporate,Online,2022,25
+519,Barbara Johnson,Corporate,Online,2021,2
+520,Ronald Allen,Consumer,Partner,2023,14
+521,Stephanie Garcia,Corporate,In-Store,2021,3
+522,Donna Garcia,Consumer,Online,2023,18
+523,Carol Sanchez,Corporate,Partner,2023,21
+524,William Martin,Corporate,Partner,2024,2
+525,Ashley Garcia,Home Office,Online,2023,2
+526,Donna Nelson,Corporate,Partner,2021,23
+527,Sarah Hall,Consumer,In-Store,2022,17
+528,Emily Hernandez,Consumer,Partner,2024,24
+529,Jessica Roberts,Home Office,Online,2022,17
+530,William Taylor,Corporate,In-Store,2021,15
+531,Angela White,Consumer,Partner,2021,6
+532,Steven Roberts,Consumer,In-Store,2023,8
+533,Angela Smith,Consumer,Partner,2021,16
+534,George Harris,Home Office,Online,2024,2
+535,Jonathan Rivera,Corporate,Online,2022,14
+536,Kenneth Moore,Corporate,In-Store,2021,22
+537,Michael Lopez,Consumer,In-Store,2021,13
+538,William Robinson,Home Office,Partner,2022,3
+539,Jonathan Robinson,Consumer,Online,2022,10
+540,Ashley Robinson,Consumer,Direct Sales,2024,25
+541,Betty Campbell,Home Office,Partner,2021,1
+542,Edward Johnson,Consumer,Online,2024,1
+543,Kevin Smith,Corporate,Online,2023,10
+544,Susan Wilson,Corporate,Online,2022,2
+545,Charles Rivera,Consumer,Online,2021,17
+546,Edward Hall,Home Office,In-Store,2023,19
+547,Richard Allen,Consumer,Partner,2021,19
+548,Linda Ramirez,Corporate,Online,2021,11
+549,Ronald Hall,Corporate,Online,2022,8
+550,Barbara Gonzalez,Consumer,Partner,2021,4
+551,Lisa Lewis,Consumer,Online,2022,25
+552,Anthony Lewis,Consumer,Online,2021,6
+553,Joshua Rivera,Corporate,Online,2024,11
+554,Charles Garcia,Corporate,Direct Sales,2022,2
+555,Joshua Taylor,Corporate,Online,2024,15
+556,Emma Mitchell,Corporate,Online,2021,5
+557,Jessica Smith,Consumer,Partner,2021,7
+558,Stephanie White,Corporate,Direct Sales,2021,19
+559,Emily Jones,Consumer,Online,2024,15
+560,Thomas Garcia,Home Office,Partner,2022,2
+561,Cynthia Brown,Consumer,In-Store,2023,13
+562,Amy Johnson,Consumer,Online,2022,6
+563,Dorothy Moore,Consumer,Online,2023,20
+564,Ashley Adams,Consumer,Online,2022,2
+565,Elizabeth Moore,Consumer,Online,2023,17
+566,Ashley Green,Home Office,In-Store,2021,13
+567,Amanda Walker,Corporate,In-Store,2024,17
+568,Carol Harris,Consumer,Online,2023,1
+569,Dorothy Brown,Corporate,In-Store,2022,19
+570,Sandra Hernandez,Consumer,In-Store,2021,24
+571,Linda Carter,Home Office,Online,2024,13
+572,Amanda Lopez,Consumer,In-Store,2023,23
+573,Amanda Nguyen,Consumer,Partner,2024,19
+574,Charles Torres,Home Office,Partner,2023,16
+575,Brenda Martin,Consumer,Online,2021,20
+576,Mark Johnson,Corporate,Online,2024,7
+577,Thomas Perez,Corporate,Direct Sales,2024,11
+578,Linda Johnson,Consumer,Partner,2021,4
+579,Shirley White,Home Office,Online,2024,13
+580,Pamela Miller,Consumer,Online,2024,24
+581,Sharon Green,Home Office,In-Store,2021,18
+582,Amanda Anderson,Corporate,Partner,2022,24
+583,Kimberly Rodriguez,Consumer,Online,2023,19
+584,Ronald Roberts,Home Office,Online,2023,20
+585,Mark Green,Corporate,Direct Sales,2021,24
+586,Barbara Thomas,Consumer,Online,2023,3
+587,Kevin Lewis,Consumer,Online,2023,12
+588,Steven Miller,Corporate,Online,2022,14
+589,Lisa Clark,Consumer,Online,2022,4
+590,Kathleen Torres,Corporate,In-Store,2021,3
+591,Robert Jackson,Consumer,Online,2021,11
+592,Lisa Harris,Consumer,Online,2024,3
+593,Michelle Hill,Home Office,Direct Sales,2023,14
+594,Lisa Hill,Home Office,Online,2021,7
+595,Matthew Clark,Corporate,Partner,2023,9
+596,Andrew Martin,Consumer,Online,2022,16
+597,Karen Brown,Consumer,Online,2021,22
+598,Kathleen Gonzalez,Consumer,Online,2023,3
+599,Jacob Davis,Consumer,Online,2022,22
+600,Emily Garcia,Corporate,Online,2022,13
+601,Melissa Lopez,Consumer,Online,2022,8
+602,Paul Torres,Consumer,Partner,2023,3
+603,Brian Wright,Consumer,Partner,2021,2
+604,Deborah King,Consumer,In-Store,2024,16
+605,Anna Thomas,Consumer,Online,2024,23
+606,Robert Allen,Corporate,In-Store,2022,20
+607,Charles Davis,Home Office,Online,2024,6
+608,Margaret Gonzalez,Consumer,Online,2024,14
+609,Betty Green,Consumer,In-Store,2022,24
+610,William Garcia,Consumer,Online,2022,9
+611,Eric Robinson,Home Office,Online,2023,19
+612,Eric Clark,Consumer,Online,2022,19
+613,Richard Miller,Corporate,Online,2021,18
+614,Brian Clark,Consumer,In-Store,2022,16
+615,Robert Lopez,Consumer,Online,2023,23
+616,Stephanie Williams,Consumer,Partner,2023,2
+617,Jacob Moore,Home Office,Online,2023,10
+618,Donna Moore,Home Office,Partner,2023,8
+619,Sarah Martin,Home Office,Online,2023,9
+620,Rebecca Hill,Corporate,Online,2021,14
+621,Gary Carter,Consumer,Online,2021,6
+622,William Martin,Corporate,Online,2023,17
+623,Larry Johnson,Consumer,Partner,2021,2
+624,Ashley Williams,Consumer,Direct Sales,2023,9
+625,Melissa Robinson,Consumer,In-Store,2021,1
+626,Donald White,Consumer,Online,2024,16
+627,Pamela Scott,Consumer,Online,2024,24
+628,Elizabeth Jackson,Consumer,Online,2024,25
+629,Margaret Anderson,Corporate,In-Store,2021,14
+630,Angela Johnson,Home Office,Direct Sales,2023,16
+631,Thomas Adams,Consumer,Partner,2021,20
+632,Donna Rivera,Home Office,In-Store,2022,13
+633,Brian Robinson,Consumer,In-Store,2023,20
+634,Ronald Nguyen,Consumer,In-Store,2023,12
+635,Emma Adams,Corporate,Online,2023,16
+636,William Perez,Home Office,In-Store,2024,9
+637,Joshua Gonzalez,Consumer,Partner,2024,20
+638,Stephanie Nelson,Consumer,Online,2021,16
+639,Kimberly Taylor,Home Office,Online,2023,19
+640,Anna Gonzalez,Consumer,Partner,2023,21
+641,Jacob Nelson,Consumer,Online,2021,22
+642,Emma Lopez,Consumer,In-Store,2023,24
+643,Emma Carter,Home Office,Direct Sales,2024,21
+644,Elizabeth Anderson,Consumer,Partner,2022,11
+645,Melissa Taylor,Corporate,In-Store,2021,2
+646,Scott Nguyen,Home Office,Online,2024,17
+647,Jessica Baker,Consumer,Online,2021,5
+648,Sarah Gonzalez,Consumer,Direct Sales,2024,15
+649,Charles Lee,Home Office,Online,2021,11
+650,Daniel Lee,Corporate,Online,2021,25
+651,Lisa Torres,Corporate,In-Store,2023,3
+652,Thomas Flores,Consumer,Online,2022,16
+653,Deborah Smith,Consumer,Online,2022,1
+654,Carol Carter,Corporate,Online,2023,21
+655,Ashley Anderson,Corporate,Online,2021,13
+656,Nicholas Nguyen,Consumer,Online,2021,10
+657,Ryan Campbell,Corporate,In-Store,2022,22
+658,Sarah Perez,Home Office,In-Store,2023,6
+659,Stephanie Johnson,Consumer,Partner,2021,24
+660,John Nguyen,Consumer,Online,2023,2
+661,Timothy Green,Consumer,In-Store,2021,2
+662,Susan Adams,Corporate,Online,2021,15
+663,Timothy Davis,Corporate,In-Store,2021,23
+664,Mary Martin,Consumer,Online,2022,20
+665,Sarah Clark,Corporate,Online,2023,4
+666,Andrew Davis,Corporate,In-Store,2023,25
+667,Emily King,Home Office,Online,2022,6
+668,Jennifer Scott,Consumer,Online,2024,11
+669,Donald Smith,Consumer,Online,2021,19
+670,Amy Martinez,Home Office,Partner,2021,24
+671,Richard Taylor,Corporate,In-Store,2024,9
+672,Cynthia Brown,Consumer,Online,2021,10
+673,George Baker,Consumer,Partner,2021,25
+674,Jennifer Smith,Home Office,In-Store,2021,12
+675,Jeffrey Flores,Consumer,Partner,2022,11
+676,Nancy Davis,Consumer,Direct Sales,2021,13
+677,Kathleen Clark,Corporate,Partner,2021,23
+678,Linda Hernandez,Consumer,Direct Sales,2022,19
+679,Jeffrey Lopez,Corporate,Partner,2023,22
+680,Thomas Walker,Home Office,Online,2022,2
+681,William Taylor,Corporate,Online,2024,17
+682,Anna Campbell,Corporate,Direct Sales,2023,11
+683,Eric King,Corporate,In-Store,2022,24
+684,Ashley Walker,Consumer,In-Store,2022,18
+685,Michael Smith,Corporate,Online,2024,16
+686,Lisa Jones,Corporate,Online,2022,9
+687,Michael Allen,Consumer,In-Store,2022,8
+688,David Robinson,Consumer,In-Store,2021,16
+689,Laura Lee,Consumer,In-Store,2023,4
+690,Stephanie Clark,Consumer,In-Store,2023,20
+691,Joshua Allen,Corporate,In-Store,2022,11
+692,George Brown,Corporate,Partner,2022,25
+693,Jacob Rivera,Corporate,Partner,2021,25
+694,Mark Smith,Consumer,Partner,2024,10
+695,Jonathan King,Consumer,Online,2024,16
+696,Sarah Rivera,Corporate,Online,2021,7
+697,Matthew Davis,Home Office,Online,2022,7
+698,Michelle Miller,Corporate,Online,2023,22
+699,Pamela Davis,Corporate,In-Store,2023,17
+700,Sarah Young,Consumer,Partner,2022,14
+701,Scott Walker,Home Office,Partner,2024,23
+702,Scott Lopez,Corporate,Online,2022,20
+703,Carol Allen,Home Office,Online,2023,23
+704,Ashley Moore,Consumer,Online,2021,5
+705,Sarah Clark,Corporate,Direct Sales,2022,23
+706,Jonathan Lee,Corporate,Direct Sales,2023,7
+707,Anthony Flores,Corporate,In-Store,2024,5
+708,Daniel Allen,Corporate,In-Store,2023,25
+709,Amanda Scott,Consumer,In-Store,2023,14
+710,Stephen Jackson,Home Office,Online,2021,4
+711,Patricia Harris,Consumer,In-Store,2021,25
+712,Christopher Jackson,Corporate,Online,2021,10
+713,Anthony Carter,Corporate,Online,2022,20
+714,Emma Anderson,Corporate,In-Store,2021,23
+715,Andrew Hall,Corporate,Direct Sales,2022,22
+716,Kenneth Scott,Consumer,Partner,2021,25
+717,Jeffrey Anderson,Home Office,Partner,2023,25
+718,Pamela Wright,Corporate,Online,2023,7
+719,Kimberly Lewis,Consumer,In-Store,2021,6
+720,Angela Davis,Consumer,Online,2022,5
+721,Christopher Nguyen,Home Office,Online,2022,5
+722,Jennifer Martinez,Home Office,In-Store,2023,21
+723,Joshua Young,Corporate,In-Store,2021,23
+724,Kenneth King,Consumer,Online,2021,17
+725,Christopher Clark,Corporate,Online,2022,7
+726,Kevin Perez,Consumer,Online,2023,17
+727,Jacob Scott,Corporate,Direct Sales,2021,22
+728,Brian Lewis,Consumer,In-Store,2024,8
+729,Jennifer Baker,Home Office,Online,2023,4
+730,Deborah Taylor,Corporate,Online,2024,25
+731,Melissa Allen,Corporate,Online,2021,21
+732,Matthew Lee,Consumer,Direct Sales,2021,25
+733,Stephen Wright,Consumer,Online,2023,25
+734,Margaret Baker,Consumer,Online,2022,23
+735,Sharon Adams,Corporate,Online,2023,1
+736,Ryan Rivera,Consumer,Online,2021,9
+737,Emma Jones,Corporate,Online,2021,13
+738,Laura Green,Consumer,Online,2022,4
+739,Stephen Smith,Corporate,In-Store,2023,19
+740,Jennifer Hall,Home Office,Online,2022,10
+741,Joshua Hill,Consumer,Partner,2022,13
+742,Patricia Walker,Consumer,Online,2023,18
+743,Kimberly Green,Consumer,In-Store,2024,24
+744,Melissa Smith,Corporate,In-Store,2021,1
+745,Anna Hill,Consumer,In-Store,2021,7
+746,Brian Wilson,Consumer,In-Store,2022,6
+747,Nancy Anderson,Corporate,Online,2021,22
+748,Larry Brown,Home Office,Direct Sales,2024,15
+749,Jonathan Jones,Consumer,Online,2021,24
+750,Scott Young,Home Office,Online,2023,8
+751,Richard Jackson,Corporate,Direct Sales,2022,15
+752,Kevin Flores,Corporate,In-Store,2021,19
+753,George Lee,Home Office,Online,2022,8
+754,Sharon Moore,Home Office,Online,2023,16
+755,Cynthia Lewis,Consumer,Online,2022,6
+756,David Moore,Home Office,Online,2022,9
+757,Barbara Campbell,Consumer,Online,2022,1
+758,Scott Nguyen,Consumer,In-Store,2024,18
+759,Emily Wright,Home Office,In-Store,2023,5
+760,George Sanchez,Consumer,Partner,2023,10
+761,Sarah Robinson,Consumer,Online,2022,1
+762,Donald Flores,Corporate,Partner,2021,6
+763,Daniel Torres,Home Office,In-Store,2024,24
+764,Kathleen Thompson,Consumer,Partner,2021,9
+765,Melissa Anderson,Consumer,Online,2024,12
+766,Deborah Walker,Home Office,Direct Sales,2021,21
+767,Carol Miller,Corporate,In-Store,2023,24
+768,Emily Nguyen,Corporate,Online,2023,12
+769,Pamela Adams,Home Office,Online,2021,8
+770,Eric Sanchez,Consumer,Partner,2022,16
+771,James Allen,Home Office,Online,2021,17
+772,Dorothy Wilson,Consumer,Online,2023,4
+773,Sandra Clark,Corporate,Partner,2022,16
+774,Kathleen Wilson,Corporate,In-Store,2022,8
+775,Jennifer Rodriguez,Corporate,Online,2023,2
+776,Anna Martinez,Consumer,Online,2021,13
+777,Larry Green,Consumer,Partner,2023,10
+778,David Wilson,Consumer,Direct Sales,2024,6
+779,Mark Clark,Corporate,Partner,2023,6
+780,Angela Taylor,Consumer,In-Store,2024,20
+781,Pamela Jones,Consumer,Online,2021,7
+782,Eric Allen,Corporate,Partner,2023,6
+783,Jacob Flores,Corporate,Partner,2022,25
+784,Jessica Garcia,Consumer,Online,2023,1
+785,Sharon King,Consumer,Partner,2023,14
+786,Sandra Walker,Corporate,Online,2023,24
+787,Anna Miller,Consumer,Online,2023,3
+788,Andrew Hill,Home Office,Online,2021,23
+789,James Torres,Corporate,In-Store,2022,7
+790,Kenneth Clark,Consumer,Online,2023,9
+791,Emily Wright,Consumer,Online,2021,22
+792,Ronald Carter,Consumer,In-Store,2022,6
+793,Melissa Scott,Corporate,Online,2022,12
+794,Ronald Mitchell,Consumer,Partner,2021,8
+795,Laura Hall,Home Office,Online,2022,11
+796,Jonathan Flores,Corporate,Partner,2021,21
+797,James Garcia,Corporate,In-Store,2023,3
+798,William Taylor,Consumer,Online,2021,13
+799,Stephanie Flores,Corporate,Online,2024,2
+800,Daniel Green,Consumer,Online,2024,17
+801,Andrew Gonzalez,Consumer,In-Store,2022,8
+802,Lisa Baker,Consumer,Online,2021,6
+803,Elizabeth Moore,Corporate,Online,2022,19
+804,Betty King,Consumer,Partner,2024,18
+805,Andrew Campbell,Corporate,Direct Sales,2022,9
+806,Mark Hill,Home Office,In-Store,2022,1
+807,Emily Lopez,Consumer,Online,2021,10
+808,Michelle Davis,Corporate,Direct Sales,2024,19
+809,Steven Hall,Consumer,Online,2022,8
+810,Michelle Roberts,Consumer,In-Store,2023,1
+811,Kathleen Davis,Consumer,Online,2023,8
+812,Sandra Lee,Consumer,Online,2022,23
+813,Emily Thomas,Consumer,Online,2023,11
+814,Barbara Scott,Home Office,In-Store,2022,19
+815,Paul Lopez,Home Office,In-Store,2024,16
+816,Betty Thomas,Corporate,Partner,2021,7
+817,Ashley Flores,Consumer,Partner,2021,3
+818,Amy Flores,Consumer,Partner,2024,16
+819,Melissa Flores,Consumer,Direct Sales,2024,19
+820,Dorothy Young,Consumer,Partner,2022,13
+821,Mark Carter,Corporate,Online,2023,16
+822,Brenda Williams,Consumer,Online,2023,6
+823,Ryan Davis,Corporate,In-Store,2023,1
+824,Anthony Harris,Corporate,Online,2023,9
+825,Nancy Scott,Consumer,Online,2024,11
+826,George Lopez,Consumer,Online,2023,12
+827,George Sanchez,Consumer,Online,2021,19
+828,Sandra Miller,Corporate,Partner,2022,13
+829,Betty Martinez,Corporate,Partner,2022,1
+830,Daniel Clark,Consumer,Direct Sales,2024,17
+831,Stephen Campbell,Consumer,In-Store,2021,19
+832,Michael Sanchez,Consumer,Online,2021,9
+833,Jacob Green,Consumer,Partner,2021,12
+834,Emma Scott,Home Office,Online,2021,4
+835,Brian Baker,Home Office,Online,2022,21
+836,Stephen Lopez,Home Office,Online,2022,17
+837,Gary Roberts,Corporate,Direct Sales,2022,10
+838,Cynthia Green,Home Office,Partner,2023,11
+839,Rebecca Green,Corporate,Online,2024,3
+840,Christopher Perez,Consumer,Online,2021,9
+841,Ronald Moore,Home Office,Partner,2024,24
+842,Pamela King,Home Office,Online,2021,1
+843,Thomas Campbell,Consumer,Online,2023,24
+844,David Wilson,Consumer,Online,2021,16
+845,Jonathan Brown,Consumer,Online,2023,3
+846,Susan Taylor,Corporate,Online,2024,13
+847,Donna Anderson,Consumer,Online,2023,5
+848,Shirley Hernandez,Consumer,In-Store,2024,11
+849,Jacob Robinson,Home Office,In-Store,2021,15
+850,Sarah Hall,Corporate,In-Store,2022,24
+851,Larry Ramirez,Corporate,In-Store,2022,12
+852,Kathleen Wright,Consumer,Online,2022,14
+853,Emily Martinez,Consumer,Online,2023,5
+854,Brian Jackson,Consumer,Online,2024,25
+855,Kathleen Martin,Consumer,Online,2021,8
+856,James Scott,Consumer,Online,2022,13
+857,Ashley Hernandez,Corporate,In-Store,2023,8
+858,Emily Garcia,Consumer,Online,2023,20
+859,Paul Jackson,Corporate,In-Store,2021,7
+860,William Lopez,Consumer,Online,2022,15
+861,Paul Hall,Corporate,Online,2021,2
+862,Stephen Johnson,Consumer,Online,2021,23
+863,Jeffrey Campbell,Consumer,Online,2021,7
+864,Michelle Clark,Consumer,Partner,2024,15
+865,Robert Perez,Consumer,Partner,2021,9
+866,Ronald Jones,Corporate,Online,2024,9
+867,Timothy Smith,Consumer,Partner,2021,25
+868,Jeffrey Thomas,Corporate,Online,2022,25
+869,Richard King,Corporate,Online,2022,10
+870,Carol Hernandez,Corporate,Online,2024,17
+871,Jessica Taylor,Consumer,Online,2022,2
+872,Margaret Davis,Consumer,Online,2021,9
+873,Scott Davis,Consumer,Online,2024,19
+874,Jacob Hall,Corporate,Online,2021,6
+875,Amy Garcia,Corporate,Online,2024,25
+876,Linda Brown,Consumer,Online,2022,4
+877,Thomas Young,Consumer,Direct Sales,2023,25
+878,Brian Lewis,Corporate,Online,2022,24
+879,Sarah Taylor,Home Office,In-Store,2022,10
+880,Brenda Hall,Consumer,In-Store,2022,11
+881,Cynthia Moore,Home Office,In-Store,2024,6
+882,William King,Consumer,Online,2021,12
+883,Ryan Smith,Corporate,In-Store,2023,1
+884,George Roberts,Corporate,Online,2021,18
+885,Deborah Gonzalez,Corporate,In-Store,2022,20
+886,Andrew Lee,Consumer,Online,2021,22
+887,William Williams,Corporate,Online,2024,7
+888,Susan Young,Consumer,Online,2023,13
+889,Gary King,Corporate,In-Store,2021,8
+890,Barbara Smith,Home Office,Online,2022,3
+891,Cynthia Green,Consumer,In-Store,2024,14
+892,Melissa Rivera,Consumer,In-Store,2022,24
+893,Barbara Martin,Consumer,Online,2022,4
+894,Sandra Wright,Consumer,Online,2023,19
+895,Daniel Scott,Corporate,Online,2021,21
+896,Anna Thompson,Corporate,Partner,2022,4
+897,Lisa Lopez,Corporate,In-Store,2023,18
+898,Jeffrey Thompson,Home Office,In-Store,2024,12
+899,Edward Carter,Corporate,Partner,2022,8
+900,Larry Wright,Consumer,Partner,2024,9
+901,George Lewis,Consumer,Online,2023,10
+902,John King,Consumer,Direct Sales,2021,8
+903,Margaret Lee,Consumer,Partner,2023,9
+904,Jonathan Allen,Corporate,Direct Sales,2021,2
+905,Ryan Thompson,Consumer,Online,2024,8
+906,Sandra Taylor,Corporate,Online,2022,7
+907,Barbara Campbell,Consumer,In-Store,2022,23
+908,Anna Miller,Corporate,Online,2023,19
+909,Timothy Garcia,Corporate,Direct Sales,2022,14
+910,Rebecca Davis,Home Office,Online,2023,20
+911,Mary Green,Corporate,Online,2022,2
+912,Kenneth Wright,Corporate,Online,2023,5
+913,Michael Baker,Corporate,Online,2022,20
+914,Anna Allen,Consumer,Online,2023,5
+915,Thomas Perez,Consumer,In-Store,2021,13
+916,Emily Garcia,Consumer,Online,2023,25
+917,Sarah Walker,Corporate,In-Store,2023,7
+918,Emma Flores,Home Office,In-Store,2021,9
+919,Sharon Lee,Corporate,In-Store,2021,14
+920,Jason White,Consumer,Online,2023,1
+921,Donna Hernandez,Home Office,In-Store,2024,15
+922,Charles Lewis,Consumer,Partner,2021,12
+923,Karen Carter,Corporate,Online,2023,8
+924,Charles Jackson,Consumer,In-Store,2021,15
+925,Jacob Johnson,Consumer,Partner,2021,18
+926,Eric Carter,Consumer,In-Store,2023,5
+927,John Harris,Corporate,In-Store,2021,6
+928,Linda Jackson,Consumer,In-Store,2021,15
+929,Mary Jones,Consumer,Online,2024,22
+930,George Miller,Consumer,Partner,2023,8
+931,Timothy Allen,Home Office,Online,2022,20
+932,Stephen Garcia,Consumer,In-Store,2022,23
+933,John Williams,Consumer,In-Store,2022,13
+934,Christopher Johnson,Consumer,Online,2023,8
+935,Nicholas Moore,Corporate,In-Store,2024,1
+936,Emma Moore,Consumer,Online,2022,5
+937,Elizabeth Campbell,Consumer,Direct Sales,2023,21
+938,Sandra Clark,Consumer,Online,2024,20
+939,Kevin Lewis,Corporate,Online,2021,18
+940,Betty Rodriguez,Consumer,Partner,2022,5
+941,Sharon Roberts,Consumer,Direct Sales,2024,11
+942,William Scott,Corporate,Partner,2021,5
+943,Patricia Carter,Consumer,Direct Sales,2024,10
+944,Jeffrey Mitchell,Home Office,Direct Sales,2024,9
+945,Karen Roberts,Consumer,Online,2021,20
+946,Paul Hill,Corporate,Online,2021,22
+947,Patricia Thompson,Consumer,Partner,2021,20
+948,Jacob Rivera,Corporate,Online,2022,16
+949,Sarah Hernandez,Consumer,Online,2023,1
+950,Paul Clark,Consumer,In-Store,2021,7
+951,William Lopez,Home Office,Direct Sales,2024,16
+952,Carol Robinson,Home Office,Online,2023,20
+953,Timothy Campbell,Consumer,In-Store,2023,20
+954,Stephen King,Corporate,Partner,2021,4
+955,Laura Robinson,Corporate,Online,2024,17
+956,Stephen Sanchez,Home Office,Online,2022,25
+957,Michael Gonzalez,Consumer,Online,2022,10
+958,Cynthia Hernandez,Consumer,In-Store,2021,17
+959,Charles Robinson,Corporate,In-Store,2023,4
+960,Nancy Roberts,Corporate,Direct Sales,2022,13
+961,Edward Lee,Consumer,Online,2023,23
+962,Betty Robinson,Consumer,Online,2023,23
+963,Christopher Rivera,Corporate,Online,2023,21
+964,George Garcia,Corporate,Online,2023,17
+965,Christopher Harris,Corporate,Online,2021,11
+966,Larry Nelson,Home Office,Online,2021,25
+967,Michael Clark,Consumer,Partner,2024,10
+968,Nancy Davis,Home Office,Direct Sales,2021,25
+969,Steven Smith,Consumer,Partner,2022,1
+970,Amy Thomas,Consumer,In-Store,2022,15
+971,David Hill,Corporate,Online,2022,20
+972,Emma Wilson,Consumer,Online,2023,2
+973,Charles Williams,Corporate,Partner,2021,3
+974,Michael Miller,Consumer,Online,2023,20
+975,Anna Scott,Consumer,In-Store,2022,2
+976,Elizabeth Roberts,Consumer,Online,2022,3
+977,Jason Scott,Consumer,In-Store,2021,9
+978,Kevin King,Consumer,Online,2021,2
+979,Susan Torres,Corporate,In-Store,2024,16
+980,Andrew Ramirez,Corporate,Online,2022,20
+981,Amanda Rodriguez,Corporate,In-Store,2023,16
+982,Amy Lopez,Home Office,Online,2021,7
+983,James Davis,Consumer,In-Store,2021,7
+984,Rebecca Clark,Consumer,Online,2023,7
+985,Mary Green,Consumer,Online,2023,10
+986,Joshua Allen,Corporate,Partner,2021,11
+987,Michelle Sanchez,Corporate,In-Store,2021,6
+988,Matthew Perez,Corporate,Direct Sales,2022,16
+989,Robert Adams,Consumer,Online,2022,18
+990,Kevin Robinson,Corporate,Online,2023,17
+991,Joshua Torres,Corporate,Online,2022,7
+992,Anna Baker,Consumer,Direct Sales,2023,3
+993,Karen Moore,Home Office,Online,2022,18
+994,Lisa Torres,Corporate,Online,2021,25
+995,Donna Rivera,Home Office,Partner,2021,3
+996,Amy Thomas,Consumer,Partner,2022,17
+997,Joshua Lopez,Consumer,Partner,2023,3
+998,Jeffrey Allen,Consumer,In-Store,2022,7
+999,Michelle Walker,Corporate,In-Store,2023,5
+1000,Richard King,Corporate,Online,2023,15
+1001,Deborah Rivera,Home Office,Online,2022,2
+1002,Elizabeth Perez,Consumer,Online,2022,22
+1003,Donna Johnson,Corporate,Online,2024,11
+1004,Betty Gonzalez,Consumer,In-Store,2023,22
+1005,Jessica Moore,Consumer,Online,2021,20
+1006,Emma Allen,Consumer,In-Store,2022,9
+1007,Charles Rivera,Corporate,In-Store,2021,10
+1008,Michelle Wright,Consumer,Online,2022,22
+1009,Michael Miller,Consumer,Online,2022,23
+1010,Pamela Green,Corporate,In-Store,2023,10
+1011,Kevin Gonzalez,Corporate,In-Store,2022,25
+1012,Cynthia Torres,Consumer,Partner,2024,15
+1013,Richard Robinson,Consumer,In-Store,2023,16
+1014,Sandra Anderson,Consumer,Direct Sales,2021,12
+1015,Ronald Lopez,Corporate,In-Store,2023,11
+1016,Ryan Young,Consumer,In-Store,2022,15
+1017,Lisa Jackson,Corporate,In-Store,2021,4
+1018,Stephanie Rivera,Corporate,Online,2023,10
+1019,Stephen Robinson,Consumer,Online,2023,18
+1020,Christopher Walker,Consumer,Online,2023,19
+1021,Sharon Ramirez,Corporate,Online,2023,6
+1022,Barbara Mitchell,Home Office,In-Store,2022,19
+1023,Cynthia Lee,Corporate,Partner,2021,13
+1024,William Hill,Consumer,Partner,2023,13
+1025,Carol Young,Corporate,Online,2021,5
+1026,Scott Carter,Corporate,Online,2021,5
+1027,Laura Wright,Consumer,In-Store,2022,7
+1028,Kenneth Martin,Corporate,Direct Sales,2022,14
+1029,Brian Garcia,Corporate,In-Store,2022,5
+1030,Kimberly Brown,Consumer,In-Store,2021,23
+1031,Emma Thompson,Consumer,Online,2021,14
+1032,Pamela Sanchez,Corporate,Partner,2022,14
+1033,Brenda Wilson,Corporate,In-Store,2021,13
+1034,George Clark,Consumer,Direct Sales,2023,5
+1035,Mary Jones,Corporate,Online,2024,22
+1036,Sharon Rodriguez,Consumer,In-Store,2022,15
+1037,Jason Flores,Consumer,In-Store,2022,15
+1038,Deborah Thompson,Consumer,Online,2021,16
+1039,Donald Rivera,Consumer,Online,2022,12
+1040,Robert Williams,Corporate,Partner,2021,16
+1041,David Martinez,Corporate,In-Store,2024,25
+1042,Dorothy Robinson,Consumer,In-Store,2023,8
+1043,Jacob Green,Corporate,Direct Sales,2021,21
+1044,Brenda Nguyen,Consumer,Online,2022,25
+1045,Mary Walker,Consumer,Direct Sales,2022,11
+1046,Rebecca Thompson,Home Office,Partner,2021,2
+1047,Joshua Campbell,Corporate,Online,2023,19
+1048,Lisa Torres,Consumer,Direct Sales,2023,20
+1049,Patricia Jackson,Consumer,Online,2021,9
+1050,Steven Rodriguez,Corporate,Online,2021,24
+1051,Joseph Hill,Consumer,In-Store,2021,15
+1052,Melissa Lopez,Consumer,Partner,2022,17
+1053,Robert Perez,Home Office,Direct Sales,2023,5
+1054,Amy Carter,Home Office,Partner,2021,15
+1055,Lisa Wilson,Corporate,Partner,2021,9
+1056,Joseph Brown,Consumer,Online,2022,24
+1057,Stephen Anderson,Consumer,Partner,2022,5
+1058,Shirley Ramirez,Consumer,Direct Sales,2022,22
+1059,Kenneth King,Corporate,Online,2024,21
+1060,Amanda Ramirez,Corporate,In-Store,2021,9
+1061,Paul Miller,Consumer,In-Store,2022,22
+1062,Donald Campbell,Corporate,Partner,2022,22
+1063,Nancy Lee,Corporate,In-Store,2024,1
+1064,Edward Miller,Corporate,In-Store,2022,24
+1065,Andrew Taylor,Consumer,Online,2021,20
+1066,Margaret Hill,Corporate,Partner,2021,20
+1067,Thomas Harris,Corporate,Direct Sales,2022,6
+1068,Joseph Hall,Consumer,Online,2023,3
+1069,Ryan Moore,Corporate,In-Store,2023,25
+1070,Carol Taylor,Consumer,Online,2023,13
+1071,Deborah Perez,Home Office,Online,2023,6
+1072,Jeffrey Jones,Consumer,Direct Sales,2023,6
+1073,Gary Miller,Consumer,Partner,2021,21
+1074,Susan Lewis,Corporate,Online,2021,19
+1075,Steven Roberts,Consumer,Direct Sales,2021,21
+1076,James Williams,Corporate,Online,2023,13
+1077,Anna Smith,Consumer,Direct Sales,2022,14
+1078,Stephanie Campbell,Corporate,Partner,2022,1
+1079,Deborah Hall,Corporate,In-Store,2022,12
+1080,Kevin Baker,Consumer,Online,2024,21
+1081,Elizabeth White,Corporate,Direct Sales,2021,15
+1082,Kimberly Adams,Consumer,In-Store,2024,22
+1083,Matthew Martin,Corporate,Direct Sales,2023,12
+1084,Gary Garcia,Home Office,Online,2021,2
+1085,Matthew Johnson,Corporate,In-Store,2022,3
+1086,Brenda Adams,Consumer,In-Store,2024,15
+1087,John Williams,Consumer,Online,2023,13
+1088,Jessica Wilson,Corporate,In-Store,2022,22
+1089,Stephen Martinez,Corporate,Online,2021,24
+1090,Charles Young,Corporate,In-Store,2024,2
+1091,Ashley Hall,Corporate,Online,2023,10
+1092,Richard Robinson,Corporate,Partner,2021,4
+1093,Joseph Young,Corporate,In-Store,2021,7
+1094,Jason Perez,Corporate,Direct Sales,2023,11
+1095,Jessica Baker,Corporate,Online,2024,7
+1096,Jennifer Nguyen,Consumer,Online,2021,25
+1097,Rebecca Hernandez,Corporate,In-Store,2022,19
+1098,Jennifer Rodriguez,Consumer,Partner,2023,25
+1099,Christopher Johnson,Home Office,Online,2021,3
+1100,Pamela Jackson,Consumer,Partner,2023,23
+1101,Thomas Wilson,Consumer,Online,2022,8
+1102,Daniel Flores,Corporate,In-Store,2023,20
+1103,Elizabeth Green,Corporate,Online,2022,18
+1104,Donald Gonzalez,Consumer,In-Store,2021,12
+1105,Brenda Allen,Consumer,Partner,2023,9
+1106,Michael Gonzalez,Consumer,Online,2024,16
+1107,Amy Lopez,Consumer,Direct Sales,2021,12
+1108,Andrew Wilson,Consumer,Online,2023,25
+1109,Ryan Williams,Consumer,Online,2022,6
+1110,Patricia Young,Consumer,Online,2021,15
+1111,Pamela Nguyen,Consumer,Online,2023,11
+1112,Sandra Roberts,Consumer,Online,2021,14
+1113,Betty Harris,Home Office,Online,2023,2
+1114,Sharon Martinez,Consumer,In-Store,2021,12
+1115,Sarah Robinson,Corporate,In-Store,2024,7
+1116,Kevin Rodriguez,Consumer,In-Store,2021,4
+1117,Cynthia Robinson,Consumer,Partner,2021,10
+1118,Christopher Green,Home Office,Direct Sales,2022,18
+1119,Sandra Garcia,Consumer,In-Store,2024,7
+1120,Pamela Walker,Corporate,Online,2023,24
+1121,Ashley Thomas,Consumer,In-Store,2024,19
+1122,Karen Torres,Home Office,Online,2021,16
+1123,Nicholas Williams,Consumer,Online,2023,23
+1124,Richard Lewis,Consumer,Online,2023,23
+1125,Edward Wilson,Consumer,Online,2023,3
+1126,John Walker,Corporate,Online,2022,19
+1127,Scott Johnson,Home Office,In-Store,2021,23
+1128,Stephanie Lopez,Corporate,Online,2022,21
+1129,James Green,Consumer,Direct Sales,2022,2
+1130,Kimberly Ramirez,Corporate,In-Store,2023,19
+1131,Anthony Baker,Consumer,Direct Sales,2023,2
+1132,Angela Baker,Consumer,Online,2022,15
+1133,Jennifer White,Consumer,In-Store,2023,18
+1134,Anthony Rodriguez,Home Office,Online,2021,16
+1135,Scott Hall,Consumer,Partner,2021,12
+1136,Paul Allen,Corporate,Online,2021,12
+1137,Laura Young,Consumer,Partner,2022,18
+1138,Stephen Jackson,Consumer,Online,2023,23
+1139,William Gonzalez,Home Office,In-Store,2021,6
+1140,Andrew Jones,Consumer,Online,2023,16
+1141,Karen Wilson,Corporate,In-Store,2021,22
+1142,Brenda Rodriguez,Consumer,Online,2023,1
+1143,Kimberly Gonzalez,Consumer,Partner,2021,17
+1144,Kevin Clark,Corporate,In-Store,2023,16
+1145,Pamela Nelson,Corporate,Partner,2022,10
+1146,Larry Rodriguez,Home Office,Online,2023,8
+1147,Kathleen White,Home Office,Partner,2021,12
+1148,Andrew Robinson,Home Office,In-Store,2021,18
+1149,Andrew Lopez,Home Office,Partner,2023,22
+1150,Karen Hernandez,Consumer,Online,2022,5
+1151,Jeffrey Taylor,Consumer,Online,2023,22
+1152,Kenneth Thompson,Consumer,Online,2024,18
+1153,Joshua Davis,Home Office,Online,2022,5
+1154,Ryan Lee,Consumer,Direct Sales,2022,17
+1155,Kevin Adams,Corporate,In-Store,2021,25
+1156,Anna Nelson,Consumer,In-Store,2024,15
+1157,Michelle Hall,Consumer,In-Store,2021,22
+1158,Jonathan Davis,Consumer,Online,2024,15
+1159,Amanda Garcia,Consumer,In-Store,2021,17
+1160,Mark Roberts,Consumer,Online,2022,15
+1161,Elizabeth Allen,Consumer,In-Store,2023,17
+1162,Linda Nelson,Consumer,Online,2024,12
+1163,Deborah White,Consumer,Online,2022,15
+1164,Emma Garcia,Consumer,Direct Sales,2023,14
+1165,Jeffrey Jackson,Consumer,Partner,2024,24
+1166,Rebecca Rodriguez,Corporate,In-Store,2021,10
+1167,Jacob King,Home Office,Online,2024,25
+1168,Timothy Garcia,Consumer,In-Store,2021,6
+1169,Emma Robinson,Corporate,Partner,2021,6
+1170,Timothy Jackson,Corporate,Online,2023,19
+1171,Joshua Young,Corporate,In-Store,2021,1
+1172,Karen Taylor,Consumer,In-Store,2023,4
+1173,Andrew Clark,Consumer,Direct Sales,2023,1
+1174,Jessica Carter,Consumer,Direct Sales,2021,24
+1175,George Nguyen,Consumer,Online,2021,22
+1176,Jacob Hall,Corporate,Online,2023,1
+1177,Emily Hernandez,Corporate,Online,2022,23
+1178,Sarah Thompson,Consumer,Online,2022,12
+1179,Michael Jackson,Consumer,In-Store,2021,7
+1180,Nancy Carter,Consumer,Partner,2022,11
+1181,Joshua Moore,Corporate,In-Store,2021,19
+1182,Amanda Martinez,Consumer,In-Store,2022,16
+1183,Edward Perez,Home Office,Online,2021,17
+1184,Mark Gonzalez,Corporate,In-Store,2023,17
+1185,Stephen Rivera,Corporate,Partner,2021,15
+1186,Barbara Davis,Corporate,Direct Sales,2022,10
+1187,George Rodriguez,Corporate,Direct Sales,2023,25
+1188,Michelle Lopez,Corporate,Online,2023,8
+1189,Thomas Hall,Consumer,Online,2021,5
+1190,David Ramirez,Corporate,Partner,2021,25
+1191,Kathleen Carter,Consumer,Online,2021,22
+1192,Angela Nguyen,Consumer,Online,2021,3
+1193,Joshua Nelson,Consumer,Online,2021,20
+1194,Anthony Nguyen,Home Office,Online,2022,3
+1195,Charles Mitchell,Home Office,Direct Sales,2022,6
+1196,Nicholas Roberts,Corporate,Online,2022,4
+1197,Scott Carter,Consumer,Online,2021,10
+1198,Lisa Carter,Corporate,Direct Sales,2021,7
+1199,Nicholas Rivera,Consumer,In-Store,2021,22
+1200,Susan Lopez,Corporate,Direct Sales,2022,17
+1201,Sandra Clark,Consumer,Direct Sales,2021,4
+1202,Eric Rodriguez,Consumer,Online,2021,24
+1203,Jennifer Garcia,Consumer,Online,2021,20
+1204,Donna Baker,Home Office,Online,2022,10
+1205,Jason Gonzalez,Home Office,Direct Sales,2023,22
+1206,Melissa Lopez,Consumer,In-Store,2023,13
+1207,Jeffrey King,Corporate,Online,2021,13
+1208,Pamela Miller,Corporate,Direct Sales,2021,12
+1209,Betty Perez,Consumer,Partner,2022,8
+1210,Jason Campbell,Consumer,Partner,2023,19
+1211,Paul Carter,Corporate,In-Store,2022,16
+1212,Stephanie Young,Consumer,Online,2022,4
+1213,Steven Young,Consumer,In-Store,2021,4
+1214,Michael Jones,Consumer,Online,2021,20
+1215,Carol Martinez,Consumer,In-Store,2023,22
+1216,Eric Roberts,Consumer,In-Store,2021,16
+1217,Gary Allen,Consumer,Online,2024,18
+1218,John Carter,Consumer,Online,2024,13
+1219,Laura Lee,Home Office,Online,2021,6
+1220,Emma Nelson,Home Office,Online,2023,16
+1221,Sharon Rodriguez,Consumer,Online,2023,19
+1222,Gary Nelson,Corporate,In-Store,2022,18
+1223,Christopher Allen,Consumer,Online,2023,13
+1224,Amanda Roberts,Home Office,Online,2021,2
+1225,Thomas White,Consumer,Partner,2021,21
+1226,Michelle Harris,Consumer,Online,2022,12
+1227,Linda Nelson,Consumer,Online,2022,3
+1228,William Martin,Consumer,Online,2022,2
+1229,Ryan Nelson,Home Office,In-Store,2024,9
+1230,John Hall,Consumer,Online,2022,19
+1231,Deborah Lee,Corporate,Partner,2021,22
+1232,Anthony Perez,Consumer,Partner,2023,6
+1233,Joshua White,Home Office,Online,2023,3
+1234,Stephen Wilson,Consumer,Online,2024,13
+1235,Mark Flores,Corporate,Online,2024,4
+1236,Pamela Perez,Consumer,In-Store,2022,14
+1237,Anthony Thompson,Corporate,In-Store,2022,10
+1238,Sharon Nelson,Corporate,Online,2022,20
+1239,Angela Robinson,Corporate,In-Store,2024,21
+1240,Eric Lopez,Corporate,Online,2024,24
+1241,Cynthia Moore,Home Office,In-Store,2023,25
+1242,Sharon Torres,Corporate,Online,2021,15
+1243,Charles Thomas,Consumer,In-Store,2022,14
+1244,Edward Lee,Home Office,Direct Sales,2023,14
+1245,Paul Jackson,Corporate,Online,2023,13
+1246,Donald Davis,Consumer,Online,2023,10
+1247,Cynthia Young,Corporate,Online,2023,2
+1248,Betty Hernandez,Consumer,Online,2023,9
+1249,Jonathan Lopez,Corporate,Online,2023,1
+1250,Linda Garcia,Consumer,Online,2021,14
+1251,George Nelson,Corporate,Online,2024,24
+1252,Sarah Thomas,Consumer,Partner,2024,17
+1253,Scott Roberts,Home Office,Online,2024,8
+1254,Jessica Roberts,Corporate,Online,2023,13
+1255,Donald Ramirez,Consumer,Online,2021,9
+1256,Jeffrey Clark,Consumer,In-Store,2022,12
+1257,Joseph Lee,Corporate,In-Store,2021,9
+1258,Charles White,Consumer,Online,2022,21
+1259,Robert Mitchell,Corporate,Direct Sales,2023,22
+1260,Donald Taylor,Corporate,Online,2024,12
+1261,Jessica Wright,Home Office,Partner,2022,13
+1262,Steven Martin,Consumer,Partner,2021,7
+1263,Christopher Lewis,Corporate,Partner,2023,14
+1264,Robert Moore,Home Office,Partner,2024,16
+1265,Edward Perez,Corporate,Partner,2023,6
+1266,Emily Allen,Consumer,Online,2023,18
+1267,Carol Robinson,Corporate,Partner,2023,6
+1268,Jeffrey Adams,Consumer,Online,2023,11
+1269,Anna Garcia,Consumer,Online,2023,25
+1270,Thomas Hill,Corporate,Partner,2022,16
+1271,Sarah Taylor,Consumer,In-Store,2022,10
+1272,Betty Garcia,Consumer,Online,2024,19
+1273,Mark Johnson,Home Office,Direct Sales,2023,21
+1274,Sandra Garcia,Home Office,Online,2023,6
+1275,Michael Sanchez,Corporate,In-Store,2021,12
+1276,Lisa Torres,Consumer,Partner,2022,15
+1277,Amy Davis,Consumer,Online,2024,9
+1278,Andrew Mitchell,Consumer,Online,2024,20
+1279,Margaret Jackson,Corporate,Online,2021,5
+1280,Patricia Jackson,Home Office,Online,2022,8
+1281,Melissa Nguyen,Corporate,In-Store,2021,5
+1282,Carol Hall,Consumer,Online,2022,14
+1283,Steven Jones,Consumer,Online,2022,8
+1284,Jacob Thompson,Home Office,Direct Sales,2024,20
+1285,Jennifer Smith,Consumer,In-Store,2022,13
+1286,Melissa Rodriguez,Home Office,In-Store,2023,9
+1287,Lisa Allen,Consumer,Online,2022,3
+1288,Kenneth Rivera,Corporate,Online,2021,2
+1289,Thomas Young,Home Office,Partner,2023,14
+1290,Andrew Taylor,Corporate,Partner,2021,11
+1291,Sharon Hernandez,Consumer,Direct Sales,2023,5
+1292,Emma Nelson,Corporate,Online,2021,2
+1293,Sandra Lopez,Consumer,Online,2023,14
+1294,Joseph Young,Consumer,Online,2023,16
+1295,Ryan Young,Consumer,Partner,2021,12
+1296,Elizabeth Wilson,Home Office,Online,2021,17
+1297,Paul Torres,Home Office,In-Store,2023,1
+1298,Shirley Roberts,Corporate,Online,2021,25
+1299,Amy Baker,Consumer,Online,2021,22
+1300,Jessica Sanchez,Consumer,Direct Sales,2021,11
+1301,Karen Johnson,Consumer,Partner,2023,15
+1302,Paul Hill,Corporate,Online,2021,20
+1303,Laura Lee,Home Office,Direct Sales,2024,19
+1304,Thomas Wilson,Home Office,Partner,2021,2
+1305,Barbara Scott,Home Office,Online,2022,6
+1306,Donald Roberts,Home Office,Online,2024,6
+1307,Deborah Roberts,Consumer,In-Store,2024,5
+1308,Jessica Martin,Consumer,Online,2023,10
+1309,Thomas Thompson,Corporate,Partner,2022,16
+1310,Laura Harris,Consumer,In-Store,2022,25
+1311,Jason White,Corporate,Online,2022,2
+1312,Angela Perez,Home Office,In-Store,2023,23
+1313,Karen Young,Corporate,In-Store,2021,15
+1314,Sharon Garcia,Home Office,In-Store,2021,5
+1315,Joshua Thomas,Corporate,Online,2021,3
+1316,Jennifer Allen,Consumer,Online,2021,22
+1317,Larry Taylor,Consumer,In-Store,2023,1
+1318,Joseph Mitchell,Corporate,Online,2021,13
+1319,Jennifer Garcia,Consumer,Partner,2022,24
+1320,Ryan Carter,Corporate,In-Store,2021,6
+1321,Margaret Lopez,Consumer,Direct Sales,2021,22
+1322,Susan Ramirez,Corporate,Online,2021,6
+1323,Kathleen Robinson,Corporate,Partner,2024,20
+1324,Gary Martin,Corporate,Direct Sales,2022,22
+1325,Ronald Martin,Consumer,Online,2021,1
+1326,Matthew Johnson,Consumer,In-Store,2023,14
+1327,Stephen Gonzalez,Consumer,Partner,2021,14
+1328,John Davis,Consumer,Online,2023,16
+1329,Jacob Johnson,Home Office,In-Store,2021,19
+1330,Ronald Brown,Consumer,Online,2024,14
+1331,Rebecca Young,Corporate,In-Store,2022,10
+1332,Robert Young,Consumer,In-Store,2023,22
+1333,Gary Anderson,Corporate,In-Store,2022,11
+1334,Jonathan Jones,Consumer,In-Store,2024,4
+1335,Amy Flores,Home Office,Online,2023,1
+1336,Christopher Jackson,Corporate,In-Store,2022,17
+1337,Mark Nguyen,Home Office,Online,2023,23
+1338,Cynthia Rodriguez,Home Office,Partner,2022,14
+1339,George Walker,Corporate,Partner,2023,10
+1340,Elizabeth Nelson,Consumer,Online,2021,16
+1341,Richard Clark,Home Office,In-Store,2021,18
+1342,Michael Johnson,Consumer,Online,2023,6
+1343,Nicholas Williams,Corporate,Online,2021,8
+1344,Jessica Scott,Consumer,Online,2022,12
+1345,Jennifer Roberts,Home Office,Online,2021,23
+1346,Angela Hill,Corporate,Partner,2024,15
+1347,Ryan Carter,Consumer,Online,2023,4
+1348,Emma Williams,Consumer,Online,2021,7
+1349,George Hernandez,Corporate,Partner,2023,16
+1350,Richard Martinez,Corporate,Online,2021,7
+1351,Jeffrey Clark,Corporate,Online,2024,16
+1352,Michelle Jackson,Consumer,Online,2022,25
+1353,Rebecca White,Corporate,Online,2023,17
+1354,Rebecca Anderson,Consumer,Online,2024,15
+1355,Eric Baker,Consumer,Online,2021,1
+1356,Eric Jones,Consumer,Online,2024,6
+1357,Sharon Brown,Consumer,Online,2024,5
+1358,Anna Brown,Home Office,Direct Sales,2023,17
+1359,Kimberly Clark,Consumer,In-Store,2022,10
+1360,Kenneth Thompson,Consumer,Online,2022,5
+1361,Stephanie Lewis,Corporate,Direct Sales,2023,20
+1362,Jeffrey Hall,Consumer,Partner,2023,25
+1363,Betty Martin,Consumer,In-Store,2022,24
+1364,Thomas King,Home Office,Online,2021,18
+1365,Donna King,Consumer,In-Store,2021,18
+1366,Pamela Taylor,Consumer,Partner,2023,17
+1367,Joseph Campbell,Consumer,Online,2023,12
+1368,Jessica Brown,Corporate,Direct Sales,2022,19
+1369,James Robinson,Consumer,Online,2023,19
+1370,Larry Rivera,Home Office,In-Store,2022,20
+1371,Sandra Thompson,Consumer,In-Store,2023,19
+1372,Sarah Rivera,Consumer,Partner,2021,17
+1373,Scott Gonzalez,Corporate,Online,2021,23
+1374,Jason Clark,Consumer,Online,2024,16
+1375,Margaret Lewis,Consumer,In-Store,2022,18
+1376,Eric Roberts,Consumer,Online,2022,14
+1377,Jeffrey Hall,Home Office,In-Store,2024,6
+1378,Charles Allen,Consumer,Partner,2021,23
+1379,Angela King,Consumer,Online,2022,24
+1380,Christopher Scott,Consumer,Direct Sales,2023,14
+1381,Joseph Davis,Consumer,Online,2022,4
+1382,Melissa Martin,Home Office,Online,2022,5
+1383,Charles Nguyen,Consumer,Direct Sales,2022,10
+1384,Margaret Lopez,Corporate,In-Store,2021,12
+1385,William Williams,Consumer,In-Store,2022,11
+1386,Timothy Walker,Corporate,Partner,2021,5
+1387,Nicholas Green,Consumer,Online,2022,24
+1388,Carol Garcia,Corporate,In-Store,2022,8
+1389,Ronald Perez,Corporate,Direct Sales,2024,24
+1390,Dorothy Adams,Consumer,Online,2021,21
+1391,Donna Scott,Corporate,In-Store,2021,20
+1392,Brenda Torres,Corporate,Direct Sales,2022,25
+1393,Jacob Allen,Home Office,Online,2024,6
+1394,John Moore,Corporate,Online,2023,19
+1395,Jeffrey Garcia,Corporate,In-Store,2022,2
+1396,Gary Johnson,Consumer,Online,2021,17
+1397,Kenneth Harris,Consumer,Online,2021,6
+1398,Andrew Martinez,Consumer,Partner,2021,14
+1399,Lisa Brown,Corporate,Online,2021,2
+1400,Joshua Harris,Consumer,Online,2024,9
+1401,Timothy Davis,Consumer,Online,2023,8
+1402,Amy Allen,Corporate,Online,2021,2
+1403,Kenneth Robinson,Corporate,Online,2021,21
+1404,Sandra Johnson,Consumer,Direct Sales,2023,8
+1405,Emma Adams,Corporate,Online,2022,3
+1406,Nicholas Wilson,Corporate,Online,2022,6
+1407,Ashley Wright,Home Office,Direct Sales,2022,2
+1408,James Robinson,Home Office,In-Store,2023,6
+1409,James Brown,Home Office,In-Store,2023,22
+1410,Timothy Thompson,Home Office,Online,2024,10
+1411,Jennifer Hernandez,Corporate,In-Store,2022,13
+1412,Jessica Rodriguez,Corporate,Direct Sales,2024,7
+1413,Nicholas Lee,Home Office,Direct Sales,2023,25
+1414,Laura Moore,Consumer,Direct Sales,2022,15
+1415,Kevin Johnson,Home Office,Online,2024,20
+1416,Jacob Smith,Home Office,In-Store,2022,23
+1417,Gary Carter,Consumer,Online,2024,21
+1418,Barbara Wright,Consumer,Partner,2023,22
+1419,Jessica Thompson,Home Office,Online,2023,13
+1420,Daniel Roberts,Corporate,Direct Sales,2021,12
+1421,Matthew Lewis,Consumer,Partner,2023,22
+1422,Amanda Gonzalez,Consumer,In-Store,2022,23
+1423,Mark Anderson,Home Office,Direct Sales,2021,16
+1424,Anthony Smith,Consumer,Partner,2022,9
+1425,Larry Allen,Consumer,In-Store,2023,19
+1426,Larry Lopez,Consumer,Online,2021,9
+1427,Larry Anderson,Home Office,Partner,2021,22
+1428,John Hall,Corporate,In-Store,2023,15
+1429,James Ramirez,Corporate,Direct Sales,2021,11
+1430,Sharon Clark,Consumer,In-Store,2022,12
+1431,Eric Carter,Consumer,Partner,2021,14
+1432,Stephen Lewis,Consumer,Online,2022,19
+1433,Patricia Mitchell,Consumer,In-Store,2024,8
+1434,Betty Hernandez,Consumer,Online,2023,1
+1435,Kathleen Ramirez,Corporate,In-Store,2023,11
+1436,Steven Thomas,Consumer,Online,2022,2
+1437,Kevin King,Corporate,Direct Sales,2023,20
+1438,Jeffrey Carter,Consumer,Online,2021,2
+1439,Robert Harris,Consumer,Partner,2021,5
+1440,Linda Lewis,Consumer,In-Store,2022,4
+1441,Linda Scott,Consumer,Partner,2022,20
+1442,Edward Anderson,Home Office,Partner,2023,15
+1443,Deborah Robinson,Corporate,Partner,2023,11
+1444,Patricia Robinson,Consumer,In-Store,2021,1
+1445,William Nguyen,Corporate,Online,2022,21
+1446,Angela Taylor,Consumer,In-Store,2023,6
+1447,Ashley Rodriguez,Corporate,Online,2022,14
+1448,Angela Adams,Corporate,Online,2024,25
+1449,Charles Martinez,Consumer,In-Store,2021,1
+1450,Eric Nguyen,Corporate,Online,2021,18
+1451,Michael Ramirez,Consumer,Direct Sales,2023,7
+1452,William Perez,Consumer,In-Store,2023,15
+1453,Kevin Nguyen,Corporate,Online,2021,11
+1454,Christopher Miller,Consumer,Partner,2021,8
+1455,James Green,Consumer,Online,2023,8
+1456,Kathleen Mitchell,Corporate,Partner,2023,13
+1457,Anthony Sanchez,Consumer,Direct Sales,2022,3
+1458,Amanda Johnson,Corporate,Online,2022,21
+1459,Scott Carter,Consumer,Direct Sales,2021,10
+1460,Daniel Anderson,Home Office,Partner,2022,18
+1461,Ashley Lopez,Consumer,Online,2021,4
+1462,John Baker,Consumer,In-Store,2024,11
+1463,Anthony Martin,Consumer,Online,2022,6
+1464,Shirley Flores,Home Office,Partner,2021,5
+1465,Thomas Gonzalez,Consumer,Online,2022,20
+1466,Jason Green,Consumer,Online,2023,7
+1467,Stephen Jackson,Corporate,Online,2021,9
+1468,Thomas Allen,Home Office,Direct Sales,2021,3
+1469,Jacob Nelson,Corporate,Online,2022,21
+1470,Angela White,Consumer,In-Store,2022,12
+1471,Shirley Hall,Consumer,Direct Sales,2022,19
+1472,Stephanie Green,Home Office,In-Store,2021,8
+1473,Betty Lewis,Home Office,Online,2022,13
+1474,Anna Hernandez,Home Office,Online,2022,5
+1475,David Jackson,Consumer,Online,2023,15
+1476,Angela Flores,Consumer,In-Store,2022,12
+1477,Amy Lee,Consumer,Online,2022,9
+1478,Barbara Thompson,Home Office,Online,2022,18
+1479,David Moore,Home Office,Online,2021,2
+1480,Brenda Gonzalez,Consumer,In-Store,2021,24
+1481,Dorothy Gonzalez,Corporate,Direct Sales,2024,25
+1482,Brenda Taylor,Consumer,Online,2023,13
+1483,Stephanie Nguyen,Corporate,Online,2023,25
+1484,Karen Sanchez,Consumer,Partner,2021,8
+1485,Eric Nguyen,Corporate,Partner,2023,15
+1486,Michelle Garcia,Consumer,Online,2023,23
+1487,Rebecca Wilson,Consumer,Partner,2021,5
+1488,Anna Rodriguez,Consumer,Partner,2022,22
+1489,Amanda Perez,Consumer,Online,2023,25
+1490,Stephen Martin,Consumer,Online,2023,5
+1491,Karen Perez,Corporate,Partner,2024,19
+1492,Ronald Harris,Consumer,Online,2022,7
+1493,Jacob Miller,Consumer,Direct Sales,2023,10
+1494,Elizabeth Hernandez,Consumer,In-Store,2021,23
+1495,Gary Johnson,Consumer,Online,2024,10
+1496,Anthony Anderson,Consumer,In-Store,2022,12
+1497,Eric Smith,Consumer,Partner,2022,6
+1498,Joseph Rodriguez,Corporate,In-Store,2021,7
+1499,Thomas Wilson,Consumer,Partner,2023,6
+1500,Anna Martin,Corporate,In-Store,2023,9
+1501,Betty Smith,Home Office,Online,2023,20
+1502,Ashley King,Consumer,In-Store,2022,15
+1503,Anna Williams,Corporate,Online,2024,15
+1504,Brian Hall,Home Office,Partner,2022,6
+1505,Rebecca Thomas,Consumer,In-Store,2022,13
+1506,Nancy Hall,Corporate,Online,2024,8
+1507,Christopher Moore,Home Office,In-Store,2023,3
+1508,Margaret Young,Consumer,Partner,2021,12
+1509,Barbara Carter,Consumer,Partner,2022,15
+1510,Lisa Taylor,Consumer,Online,2021,21
+1511,Cynthia Harris,Consumer,Online,2021,2
+1512,Mary Taylor,Consumer,Direct Sales,2022,24
+1513,Cynthia Young,Consumer,Online,2023,23
+1514,Jeffrey Rodriguez,Consumer,Online,2021,1
+1515,Richard Lopez,Consumer,In-Store,2022,3
+1516,Mary Baker,Consumer,Online,2021,23
+1517,Robert Baker,Corporate,Online,2021,21
+1518,Eric Adams,Corporate,In-Store,2021,23
+1519,Donna Lewis,Consumer,Online,2023,25
+1520,Betty Thomas,Consumer,Online,2021,14
+1521,Patricia Smith,Consumer,Online,2023,8
+1522,Richard Nelson,Consumer,Online,2022,4
+1523,Carol Lee,Corporate,Online,2021,18
+1524,Ronald Ramirez,Consumer,Online,2022,6
+1525,Mary Sanchez,Corporate,Online,2021,8
+1526,William Nelson,Corporate,In-Store,2022,3
+1527,Margaret Clark,Consumer,In-Store,2024,4
+1528,Stephen Torres,Consumer,Direct Sales,2023,21
+1529,Deborah Baker,Home Office,Partner,2021,6
+1530,Kenneth Nelson,Consumer,Online,2023,19
+1531,Laura Harris,Consumer,Partner,2022,23
+1532,Mary Anderson,Consumer,Partner,2021,8
+1533,Jason Carter,Consumer,Online,2021,16
+1534,Kimberly Gonzalez,Consumer,Online,2021,24
+1535,Jeffrey Mitchell,Home Office,Online,2022,25
+1536,Jennifer King,Corporate,Online,2023,25
+1537,Patricia Anderson,Home Office,Online,2021,18
+1538,Michael Nelson,Home Office,Partner,2023,8
+1539,Timothy King,Consumer,Online,2021,16
+1540,William Gonzalez,Consumer,Direct Sales,2024,5
+1541,Elizabeth Lopez,Corporate,Partner,2024,8
+1542,Nicholas Garcia,Consumer,In-Store,2021,7
+1543,Ashley Ramirez,Consumer,Online,2021,15
+1544,Betty Moore,Home Office,In-Store,2024,12
+1545,Ronald Harris,Consumer,Online,2022,24
+1546,Sharon Carter,Consumer,Direct Sales,2022,25
+1547,Timothy Ramirez,Home Office,Partner,2024,20
+1548,Stephen Martinez,Corporate,Online,2022,10
+1549,Ryan Jackson,Consumer,In-Store,2021,5
+1550,Jacob Gonzalez,Consumer,Online,2021,17
+1551,Melissa Young,Consumer,Online,2022,24
+1552,Melissa Harris,Consumer,In-Store,2023,14
+1553,Robert Davis,Consumer,In-Store,2021,14
+1554,Steven Roberts,Home Office,Partner,2022,16
+1555,Melissa Hall,Consumer,Online,2022,8
+1556,Ashley Walker,Consumer,Partner,2023,22
+1557,Patricia Hall,Corporate,Online,2023,22
+1558,Charles Taylor,Consumer,In-Store,2023,6
+1559,Mary Davis,Corporate,In-Store,2024,13
+1560,Pamela Garcia,Consumer,Online,2022,14
+1561,Steven Hall,Consumer,Direct Sales,2023,13
+1562,Pamela Martin,Corporate,Partner,2024,3
+1563,Susan Green,Corporate,Partner,2023,9
+1564,Anthony Mitchell,Consumer,Online,2024,16
+1565,James Miller,Consumer,In-Store,2022,21
+1566,Andrew Campbell,Consumer,Online,2021,5
+1567,Betty Young,Consumer,Direct Sales,2022,7
+1568,Nancy Gonzalez,Consumer,Online,2023,9
+1569,Edward Lewis,Corporate,In-Store,2024,6
+1570,David Jackson,Consumer,Online,2021,1
+1571,Scott Thomas,Consumer,In-Store,2021,2
+1572,Paul Carter,Home Office,In-Store,2023,2
+1573,Richard Wilson,Corporate,Online,2023,25
+1574,Paul Young,Consumer,Online,2022,12
+1575,Michelle Lee,Corporate,Direct Sales,2023,13
+1576,Linda Thompson,Home Office,Partner,2021,23
+1577,Stephanie Campbell,Corporate,Direct Sales,2021,4
+1578,Shirley Moore,Home Office,Partner,2021,15
+1579,Jacob Allen,Consumer,Online,2024,11
+1580,John Green,Consumer,Online,2023,11
+1581,Jeffrey Anderson,Corporate,Online,2023,3
+1582,Brian Ramirez,Home Office,Direct Sales,2022,22
+1583,Richard Campbell,Consumer,In-Store,2023,17
+1584,Anna Rivera,Consumer,Online,2023,10
+1585,Jonathan Robinson,Consumer,Online,2021,22
+1586,Brenda Thomas,Consumer,Online,2024,23
+1587,Elizabeth Miller,Consumer,Partner,2021,11
+1588,Deborah Roberts,Consumer,Partner,2023,22
+1589,Jessica Nelson,Consumer,In-Store,2023,3
+1590,Kevin Anderson,Home Office,Partner,2023,21
+1591,Michelle Harris,Home Office,Partner,2023,21
+1592,Emma Ramirez,Corporate,Online,2021,3
+1593,Joseph Garcia,Consumer,In-Store,2021,4
+1594,Anna White,Consumer,Online,2022,24
+1595,James Martin,Consumer,In-Store,2024,14
+1596,Kenneth Roberts,Consumer,In-Store,2023,17
+1597,Pamela Anderson,Consumer,Online,2024,11
+1598,Charles Jackson,Corporate,In-Store,2022,20
+1599,Andrew Martinez,Corporate,Partner,2023,2
+1600,Kenneth Martin,Consumer,In-Store,2021,23
+1601,Anna Walker,Corporate,Online,2021,13
+1602,Linda Perez,Consumer,Partner,2024,8
+1603,Michael Roberts,Consumer,In-Store,2022,22
+1604,Christopher Johnson,Corporate,Online,2023,12
+1605,Ronald Sanchez,Consumer,Partner,2021,7
+1606,Jonathan Sanchez,Consumer,Online,2023,2
+1607,Joshua Robinson,Corporate,In-Store,2022,16
+1608,Kimberly Martinez,Consumer,Partner,2021,21
+1609,Mary White,Corporate,In-Store,2023,5
+1610,Timothy Ramirez,Corporate,Online,2021,12
+1611,Jacob Lopez,Home Office,Online,2022,11
+1612,Pamela Ramirez,Home Office,In-Store,2022,2
+1613,Jessica Thomas,Consumer,Online,2023,6
+1614,Timothy Roberts,Corporate,Partner,2023,25
+1615,Cynthia Adams,Consumer,In-Store,2022,1
+1616,Jessica Davis,Consumer,In-Store,2023,17
+1617,Mark Johnson,Corporate,Direct Sales,2022,23
+1618,Richard Nguyen,Consumer,In-Store,2023,14
+1619,Joshua Torres,Consumer,Online,2023,18
+1620,Nancy Sanchez,Corporate,Online,2022,18
+1621,Shirley Young,Consumer,Partner,2022,21
+1622,Jessica Carter,Corporate,Direct Sales,2024,6
+1623,Nancy Smith,Corporate,Partner,2021,5
+1624,Anna Wilson,Corporate,Online,2021,25
+1625,Robert Garcia,Home Office,In-Store,2022,18
+1626,Lisa Ramirez,Home Office,In-Store,2021,2
+1627,Eric Jackson,Corporate,Online,2022,23
+1628,Kenneth King,Home Office,Direct Sales,2023,17
+1629,Anthony Hall,Consumer,Partner,2021,7
+1630,Charles Martin,Home Office,Online,2021,18
+1631,Margaret Nguyen,Consumer,Online,2023,3
+1632,Jonathan Taylor,Consumer,In-Store,2021,15
+1633,David Taylor,Corporate,Direct Sales,2021,7
+1634,Barbara Green,Corporate,Direct Sales,2023,7
+1635,Melissa Torres,Corporate,Partner,2023,14
+1636,Karen Lee,Home Office,Online,2021,20
+1637,Ashley Jones,Consumer,In-Store,2023,14
+1638,William Perez,Corporate,Online,2022,9
+1639,Charles Anderson,Consumer,Online,2024,8
+1640,Timothy Miller,Corporate,Online,2022,10
+1641,Pamela Young,Consumer,Online,2022,10
+1642,Jonathan Moore,Corporate,Direct Sales,2021,25
+1643,Deborah Lopez,Consumer,Partner,2024,18
+1644,Jonathan Hill,Home Office,Online,2023,9
+1645,Mary Baker,Consumer,Online,2021,13
+1646,Larry Mitchell,Consumer,Direct Sales,2023,12
+1647,Ashley Baker,Corporate,Partner,2021,12
+1648,Cynthia Allen,Consumer,Direct Sales,2022,23
+1649,Sandra Martin,Corporate,Online,2022,25
+1650,Kenneth Garcia,Corporate,Online,2021,3
+1651,Lisa Torres,Consumer,Partner,2022,16
+1652,Mary Ramirez,Corporate,Direct Sales,2021,16
+1653,Angela Baker,Home Office,Direct Sales,2023,13
+1654,Mary Flores,Consumer,Partner,2021,14
+1655,Stephen Mitchell,Consumer,Direct Sales,2023,17
+1656,Jennifer Hill,Consumer,Online,2024,25
+1657,Shirley Anderson,Consumer,Online,2021,12
+1658,Michael Ramirez,Consumer,Online,2024,11
+1659,Ashley Wright,Home Office,Partner,2021,16
+1660,Kimberly Taylor,Consumer,Partner,2022,7
+1661,Donna Adams,Consumer,Direct Sales,2024,20
+1662,Gary Brown,Consumer,In-Store,2022,12
+1663,Susan Smith,Consumer,Partner,2022,1
+1664,Richard Ramirez,Consumer,Online,2022,5
+1665,Edward Davis,Home Office,Online,2023,9
+1666,Mark Walker,Consumer,Online,2022,6
+1667,Stephen Moore,Consumer,Online,2024,6
+1668,Sarah Thompson,Corporate,Online,2024,23
+1669,Betty Davis,Consumer,Online,2022,24
+1670,Kevin Williams,Consumer,Online,2022,22
+1671,Paul Davis,Consumer,In-Store,2023,23
+1672,Thomas Lee,Corporate,Partner,2022,24
+1673,Deborah Rodriguez,Consumer,Online,2021,5
+1674,Brian Allen,Consumer,In-Store,2021,11
+1675,Jason Hill,Corporate,Online,2021,16
+1676,David Carter,Consumer,In-Store,2023,6
+1677,Ashley Moore,Corporate,Partner,2024,8
+1678,Jason Gonzalez,Consumer,Partner,2021,24
+1679,Nicholas Flores,Consumer,Direct Sales,2023,21
+1680,Karen Anderson,Consumer,Online,2021,7
+1681,Charles Ramirez,Consumer,Online,2024,13
+1682,Edward King,Consumer,In-Store,2021,11
+1683,Jason Walker,Consumer,Online,2021,4
+1684,Paul White,Consumer,Online,2022,11
+1685,Michael Lopez,Consumer,Online,2023,7
+1686,Andrew Walker,Consumer,In-Store,2022,9
+1687,Gary White,Consumer,Online,2023,22
+1688,Jonathan Roberts,Home Office,Online,2023,12
+1689,Pamela King,Corporate,Online,2021,19
+1690,Deborah Garcia,Home Office,Online,2023,4
+1691,Jennifer Nguyen,Home Office,Direct Sales,2023,7
+1692,Laura Miller,Consumer,In-Store,2022,24
+1693,Jacob Carter,Consumer,Partner,2021,7
+1694,Rebecca Scott,Corporate,Direct Sales,2023,18
+1695,Brian White,Consumer,Partner,2024,3
+1696,Kathleen Clark,Corporate,Direct Sales,2023,6
+1697,Dorothy Hall,Home Office,Online,2024,2
+1698,Matthew Mitchell,Corporate,In-Store,2022,17
+1699,Barbara Hernandez,Consumer,In-Store,2022,13
+1700,Stephanie Hill,Consumer,Online,2021,7
+1701,Pamela Hall,Consumer,Direct Sales,2022,17
+1702,Shirley Taylor,Consumer,Online,2023,18
+1703,Jessica Hernandez,Consumer,In-Store,2021,21
+1704,Charles Moore,Home Office,Online,2023,21
+1705,Ashley Wilson,Corporate,Online,2022,20
+1706,Melissa Lee,Consumer,Partner,2022,24
+1707,Sarah Clark,Home Office,Online,2024,21
+1708,Mary Thompson,Consumer,Direct Sales,2021,1
+1709,Stephen Nelson,Home Office,Partner,2023,4
+1710,Timothy Adams,Consumer,In-Store,2023,7
+1711,Jeffrey Anderson,Consumer,Online,2023,25
+1712,Ronald Martinez,Consumer,Partner,2022,5
+1713,Kathleen Garcia,Consumer,In-Store,2023,6
+1714,Matthew Torres,Consumer,Partner,2023,1
+1715,Donna Hernandez,Home Office,Partner,2023,7
+1716,William Martinez,Consumer,Online,2024,13
+1717,Richard Campbell,Corporate,Partner,2023,20
+1718,Richard Harris,Consumer,Online,2021,21
+1719,Jennifer Rodriguez,Consumer,Online,2021,21
+1720,Mary Smith,Home Office,Online,2023,11
+1721,David Gonzalez,Consumer,Partner,2024,6
+1722,Donna Perez,Consumer,Online,2022,9
+1723,Brenda Davis,Consumer,Online,2022,4
+1724,Angela Clark,Consumer,Direct Sales,2021,14
+1725,Deborah Martinez,Consumer,Online,2024,22
+1726,Deborah Baker,Home Office,Partner,2021,6
+1727,Joseph Anderson,Consumer,Direct Sales,2022,20
+1728,Kevin Davis,Consumer,Direct Sales,2021,2
+1729,Karen Lopez,Consumer,Online,2021,14
+1730,Karen Nelson,Corporate,In-Store,2021,4
+1731,Paul Young,Corporate,Direct Sales,2023,23
+1732,Barbara Smith,Home Office,Direct Sales,2023,5
+1733,Kenneth Martinez,Consumer,Partner,2023,16
+1734,William Davis,Corporate,Direct Sales,2021,3
+1735,Carol Rodriguez,Consumer,Online,2022,14
+1736,Kathleen Hall,Home Office,In-Store,2023,5
+1737,Ashley Harris,Consumer,In-Store,2022,18
+1738,Stephen Anderson,Consumer,In-Store,2022,19
+1739,Mark Hall,Consumer,Online,2021,1
+1740,George Scott,Consumer,Online,2021,12
+1741,George Roberts,Corporate,Online,2021,18
+1742,Rebecca Thomas,Consumer,Online,2023,4
+1743,Charles Harris,Corporate,In-Store,2022,2
+1744,Susan Nelson,Corporate,In-Store,2023,6
+1745,Patricia Martinez,Consumer,Online,2021,19
+1746,Rebecca Martinez,Corporate,In-Store,2021,17
+1747,Joshua Walker,Consumer,Online,2023,23
+1748,Mary Jackson,Consumer,Online,2023,20
+1749,Daniel Allen,Consumer,Online,2022,15
+1750,Jonathan Rivera,Corporate,Direct Sales,2022,23
+1751,Sandra Ramirez,Home Office,Online,2021,13
+1752,Thomas Mitchell,Consumer,In-Store,2021,6
+1753,Emma Hill,Home Office,Partner,2022,11
+1754,Stephanie Harris,Consumer,Partner,2023,7
+1755,Paul Miller,Consumer,Online,2023,11
+1756,Patricia Thomas,Consumer,In-Store,2021,20
+1757,Mary Carter,Home Office,Online,2021,2
+1758,Donald Moore,Consumer,In-Store,2021,16
+1759,Jennifer Brown,Consumer,Direct Sales,2021,12
+1760,Andrew Sanchez,Consumer,Online,2022,12
+1761,Thomas Hall,Corporate,Online,2024,17
+1762,Richard Allen,Corporate,Online,2023,13
+1763,Kathleen Nguyen,Home Office,Online,2021,22
+1764,Cynthia Garcia,Home Office,Online,2023,7
+1765,Charles Roberts,Corporate,Direct Sales,2022,24
+1766,Eric Roberts,Consumer,Partner,2022,12
+1767,Sharon Williams,Home Office,Partner,2022,7
+1768,Barbara Martinez,Corporate,Direct Sales,2021,1
+1769,Charles Roberts,Home Office,In-Store,2024,3
+1770,Amy Miller,Consumer,Online,2021,3
+1771,Dorothy Torres,Consumer,Online,2021,25
+1772,Ryan Taylor,Home Office,Direct Sales,2023,15
+1773,Sarah Davis,Home Office,In-Store,2022,10
+1774,Stephanie Clark,Home Office,Direct Sales,2021,12
+1775,Angela Flores,Home Office,Online,2023,17
+1776,Laura Taylor,Home Office,Direct Sales,2021,21
+1777,Linda Mitchell,Corporate,In-Store,2022,5
+1778,Susan Jackson,Consumer,In-Store,2024,8
+1779,Deborah Robinson,Corporate,Online,2022,18
+1780,Cynthia Miller,Consumer,Partner,2024,13
+1781,Sharon Gonzalez,Consumer,Online,2022,20
+1782,Gary Wilson,Corporate,In-Store,2021,2
+1783,Brenda Martinez,Home Office,Online,2021,19
+1784,Robert Hill,Corporate,Online,2023,14
+1785,Jacob Wilson,Consumer,Partner,2024,22
+1786,Jason Moore,Consumer,Online,2021,9
+1787,Stephanie Garcia,Consumer,Partner,2024,17
+1788,Margaret Nelson,Home Office,Online,2021,14
+1789,Michelle Carter,Consumer,Online,2024,16
+1790,Jacob Wright,Corporate,Online,2023,12
+1791,Anna Harris,Corporate,In-Store,2024,7
+1792,Barbara Campbell,Corporate,In-Store,2022,24
+1793,Kenneth Smith,Consumer,In-Store,2021,11
+1794,Joseph Baker,Consumer,In-Store,2021,15
+1795,Thomas Green,Consumer,Direct Sales,2021,7
+1796,Matthew Clark,Corporate,Partner,2023,7
+1797,Brian Wilson,Home Office,Direct Sales,2022,1
+1798,Melissa White,Consumer,Direct Sales,2022,4
+1799,Amy Adams,Home Office,Online,2022,18
+1800,Jason King,Home Office,Online,2024,15
+1801,Jason White,Consumer,In-Store,2022,13
+1802,Andrew Nelson,Corporate,Online,2021,20
+1803,Richard Garcia,Corporate,Online,2023,20
+1804,Edward Miller,Consumer,Partner,2024,4
+1805,Jeffrey Allen,Corporate,Online,2021,14
+1806,Margaret Anderson,Corporate,In-Store,2021,16
+1807,Jessica Thompson,Home Office,Direct Sales,2022,21
+1808,Ronald Smith,Home Office,Partner,2022,9
+1809,Emily Martin,Corporate,Partner,2022,8
+1810,James Clark,Consumer,Online,2023,17
+1811,Kenneth Perez,Consumer,In-Store,2022,18
+1812,Ronald Gonzalez,Corporate,Online,2021,19
+1813,Jason Rodriguez,Home Office,Online,2023,13
+1814,Kenneth King,Consumer,Online,2023,5
+1815,Nicholas Davis,Corporate,Partner,2024,21
+1816,Emily Scott,Consumer,Online,2021,1
+1817,Sharon Smith,Corporate,In-Store,2021,23
+1818,Brenda Garcia,Corporate,Online,2023,15
+1819,Amanda Lopez,Consumer,Direct Sales,2021,18
+1820,Ashley Campbell,Corporate,Partner,2023,22
+1821,Michael Moore,Consumer,Online,2021,19
+1822,Susan Davis,Consumer,In-Store,2021,10
+1823,Emily Lopez,Consumer,In-Store,2022,7
+1824,Ronald Miller,Consumer,Online,2021,21
+1825,Barbara Wilson,Corporate,Online,2022,15
+1826,Christopher Lopez,Consumer,Direct Sales,2023,21
+1827,Robert Davis,Home Office,Direct Sales,2022,20
+1828,Brenda Smith,Consumer,Partner,2024,7
+1829,Patricia Wright,Consumer,In-Store,2021,12
+1830,Joseph Wilson,Consumer,Online,2021,23
+1831,Thomas Moore,Consumer,Online,2021,23
+1832,Jonathan Adams,Consumer,Partner,2022,17
+1833,Stephanie Gonzalez,Consumer,Online,2024,23
+1834,Dorothy Sanchez,Consumer,Partner,2023,6
+1835,Anthony Campbell,Consumer,Direct Sales,2022,24
+1836,Paul Lee,Corporate,In-Store,2022,19
+1837,Amanda White,Home Office,Partner,2022,2
+1838,Angela Taylor,Corporate,Online,2023,21
+1839,Shirley Thompson,Consumer,Online,2023,14
+1840,Nancy Thompson,Consumer,Online,2022,5
+1841,Kenneth Davis,Consumer,In-Store,2023,7
+1842,Cynthia Torres,Corporate,Direct Sales,2022,13
+1843,Andrew Hill,Consumer,Online,2022,23
+1844,Barbara Torres,Home Office,Online,2023,11
+1845,Kenneth Gonzalez,Consumer,Partner,2022,9
+1846,Rebecca Davis,Consumer,Online,2022,13
+1847,Donald Torres,Consumer,Online,2023,19
+1848,James Robinson,Consumer,Partner,2022,18
+1849,Shirley Williams,Consumer,Online,2022,14
+1850,Joshua Moore,Consumer,Online,2021,25
+1851,Kenneth Young,Corporate,Online,2023,15
+1852,Amy Adams,Home Office,Online,2022,20
+1853,Susan Johnson,Consumer,Partner,2021,11
+1854,Sharon Anderson,Consumer,Online,2024,12
+1855,Stephen Smith,Home Office,Partner,2021,2
+1856,Joseph Brown,Home Office,Online,2022,20
+1857,Timothy Moore,Corporate,Direct Sales,2023,4
+1858,Thomas Lee,Home Office,Partner,2024,14
+1859,Laura Nelson,Consumer,In-Store,2022,22
+1860,Gary Moore,Consumer,Partner,2021,9
+1861,Kimberly Rivera,Consumer,In-Store,2024,22
+1862,Anthony Hall,Consumer,Direct Sales,2021,1
+1863,Margaret Robinson,Corporate,Online,2021,7
+1864,Pamela Carter,Corporate,Partner,2023,10
+1865,Ryan Adams,Consumer,In-Store,2024,8
+1866,George Harris,Home Office,Partner,2022,25
+1867,Stephanie Gonzalez,Consumer,Online,2023,19
+1868,Susan Martinez,Consumer,Online,2021,1
+1869,Ryan Lopez,Consumer,In-Store,2022,12
+1870,Emily Davis,Home Office,Online,2022,5
+1871,Ronald Allen,Consumer,Online,2022,12
+1872,Richard Brown,Corporate,Partner,2022,10
+1873,Matthew Sanchez,Consumer,Online,2023,17
+1874,Sharon Miller,Corporate,In-Store,2024,8
+1875,Joseph Brown,Home Office,In-Store,2021,18
+1876,Richard Moore,Consumer,In-Store,2023,13
+1877,Ronald Miller,Consumer,Partner,2023,16
+1878,Anthony Hernandez,Corporate,Online,2021,20
+1879,Andrew Campbell,Consumer,Online,2024,20
+1880,Kathleen Mitchell,Consumer,Direct Sales,2021,11
+1881,William Hernandez,Consumer,Direct Sales,2021,1
+1882,Jacob Ramirez,Consumer,Online,2021,3
+1883,Lisa Baker,Corporate,Online,2022,16
+1884,Scott Smith,Consumer,Online,2021,1
+1885,Larry Baker,Home Office,Partner,2022,6
+1886,Charles Roberts,Consumer,Online,2023,15
+1887,Gary Mitchell,Consumer,In-Store,2023,9
+1888,George Robinson,Consumer,Online,2023,17
+1889,Kathleen Davis,Consumer,In-Store,2023,5
+1890,Edward Anderson,Corporate,Online,2022,8
+1891,Anna Mitchell,Corporate,Online,2021,3
+1892,Matthew Harris,Corporate,Direct Sales,2024,22
+1893,Brenda Lewis,Home Office,Partner,2021,22
+1894,Brian Perez,Consumer,Online,2024,10
+1895,Matthew Williams,Corporate,Partner,2024,4
+1896,Sharon Robinson,Corporate,Partner,2022,4
+1897,Mary Young,Home Office,Online,2023,17
+1898,Kimberly Flores,Corporate,Online,2022,3
+1899,Kimberly Smith,Consumer,Online,2023,4
+1900,Michael Young,Consumer,Online,2023,1
+1901,Michael Taylor,Consumer,Partner,2023,17
+1902,Emma Martinez,Home Office,Partner,2021,24
+1903,Betty Ramirez,Corporate,Online,2021,16
+1904,Amanda Thomas,Corporate,In-Store,2022,4
+1905,Emily Martin,Corporate,Online,2022,11
+1906,Scott Rodriguez,Corporate,Online,2021,18
+1907,Betty Martin,Consumer,Online,2024,15
+1908,Brenda Lopez,Consumer,Partner,2022,5
+1909,Shirley Lewis,Corporate,In-Store,2023,12
+1910,Cynthia Thompson,Consumer,Online,2022,1
+1911,Emma Johnson,Home Office,Online,2023,20
+1912,Joshua Thomas,Corporate,Online,2023,19
+1913,Kimberly Brown,Corporate,Online,2022,1
+1914,Cynthia Carter,Home Office,In-Store,2021,2
+1915,Paul Adams,Consumer,In-Store,2023,19
+1916,Kathleen Hall,Consumer,Online,2023,22
+1917,Angela Mitchell,Corporate,Partner,2022,18
+1918,Amy Rodriguez,Consumer,In-Store,2024,10
+1919,Donna Campbell,Home Office,Online,2022,23
+1920,Betty Davis,Consumer,Online,2024,17
+1921,Richard Thomas,Consumer,In-Store,2024,15
+1922,Ronald Brown,Home Office,Online,2022,6
+1923,Donald Wright,Consumer,In-Store,2022,22
+1924,Jessica Ramirez,Consumer,Online,2021,24
+1925,Donald Hernandez,Consumer,In-Store,2021,16
+1926,Kimberly Jackson,Corporate,Direct Sales,2022,22
+1927,Dorothy Sanchez,Consumer,Partner,2022,14
+1928,Charles Johnson,Consumer,Online,2022,19
+1929,Joshua Williams,Corporate,Direct Sales,2023,2
+1930,Amanda Rodriguez,Consumer,Partner,2021,6
+1931,Amanda Allen,Home Office,In-Store,2022,23
+1932,Shirley Harris,Consumer,Online,2021,21
+1933,Larry Perez,Consumer,Partner,2021,25
+1934,Joshua Sanchez,Consumer,Partner,2022,16
+1935,Nancy Torres,Corporate,In-Store,2023,9
+1936,Thomas Hall,Consumer,Direct Sales,2022,20
+1937,Stephanie Jones,Consumer,Partner,2021,4
+1938,Susan Young,Home Office,In-Store,2023,25
+1939,Donald Miller,Home Office,Online,2024,25
+1940,Rebecca Jones,Consumer,Online,2021,24
+1941,Barbara Lewis,Corporate,In-Store,2024,6
+1942,Carol Miller,Corporate,Online,2024,19
+1943,Emma Gonzalez,Consumer,In-Store,2023,8
+1944,Betty Mitchell,Consumer,Partner,2023,7
+1945,Elizabeth Nguyen,Consumer,Direct Sales,2021,2
+1946,Sarah Smith,Consumer,Online,2022,3
+1947,Michelle Lopez,Corporate,Direct Sales,2023,17
+1948,Amy Gonzalez,Corporate,In-Store,2022,12
+1949,Amanda Flores,Home Office,Partner,2023,15
+1950,Jason Green,Consumer,Online,2021,17
+1951,Joshua Miller,Consumer,Online,2023,11
+1952,John Anderson,Corporate,Online,2023,13
+1953,Amanda Jones,Home Office,Online,2021,18
+1954,Anna Thomas,Home Office,Direct Sales,2022,13
+1955,Linda Wright,Corporate,Online,2022,9
+1956,Patricia Williams,Consumer,Online,2022,25
+1957,Linda Rodriguez,Consumer,Partner,2022,25
+1958,Linda Thomas,Consumer,Partner,2022,20
+1959,Robert Thompson,Home Office,Direct Sales,2023,20
+1960,David Scott,Consumer,Online,2023,4
+1961,Robert Young,Consumer,In-Store,2022,10
+1962,Sandra Johnson,Home Office,Online,2023,7
+1963,Stephen Hill,Home Office,In-Store,2023,18
+1964,Kathleen Brown,Consumer,Online,2021,23
+1965,Jason Scott,Consumer,Online,2024,12
+1966,Amanda Gonzalez,Consumer,Direct Sales,2021,3
+1967,Pamela Smith,Consumer,Partner,2024,18
+1968,Larry Williams,Home Office,Online,2023,2
+1969,Barbara Brown,Consumer,Online,2021,12
+1970,Ashley Jackson,Consumer,Online,2023,22
+1971,Barbara Jones,Consumer,In-Store,2022,24
+1972,Amanda Anderson,Consumer,Online,2022,18
+1973,Kimberly Adams,Consumer,Direct Sales,2022,18
+1974,Nicholas Miller,Consumer,Direct Sales,2023,20
+1975,Gary Moore,Consumer,Direct Sales,2024,17
+1976,Sandra Martin,Corporate,Online,2022,5
+1977,Robert Thomas,Corporate,In-Store,2022,4
+1978,John Young,Corporate,Online,2023,10
+1979,David Brown,Consumer,In-Store,2022,13
+1980,Deborah Lewis,Consumer,Online,2021,14
+1981,Stephen Brown,Corporate,Online,2023,1
+1982,Michelle Taylor,Corporate,In-Store,2023,11
+1983,Sharon Ramirez,Corporate,Direct Sales,2023,4
+1984,Jonathan Harris,Home Office,Direct Sales,2021,18
+1985,Cynthia Ramirez,Corporate,In-Store,2022,6
+1986,Timothy Robinson,Corporate,Direct Sales,2021,1
+1987,Dorothy Baker,Home Office,Online,2021,18
+1988,Kimberly Perez,Corporate,Online,2021,9
+1989,Steven Adams,Corporate,In-Store,2021,19
+1990,Carol Taylor,Home Office,Online,2021,1
+1991,Cynthia Williams,Home Office,In-Store,2024,7
+1992,Edward Brown,Corporate,Online,2024,18
+1993,Kenneth Jones,Consumer,Online,2023,9
+1994,Amy Rodriguez,Consumer,Online,2024,21
+1995,Michael Anderson,Consumer,Online,2023,15
+1996,Scott Lee,Consumer,Partner,2021,23
+1997,Emily Taylor,Consumer,Partner,2024,18
+1998,Jennifer Hill,Consumer,Online,2022,4
+1999,Angela Jones,Consumer,Online,2022,22
+2000,Rebecca Jones,Corporate,Partner,2021,11
+2001,George Perez,Home Office,Direct Sales,2022,10
+2002,Patricia Hernandez,Consumer,Online,2021,19
+2003,Patricia Miller,Corporate,Partner,2022,25
+2004,Angela Nguyen,Corporate,Direct Sales,2022,19
+2005,Robert Nelson,Corporate,Online,2024,3
+2006,Barbara Anderson,Corporate,Direct Sales,2023,24
+2007,Rebecca Wright,Corporate,Partner,2022,2
+2008,Jacob Nelson,Corporate,Online,2021,19
+2009,Kimberly Thomas,Consumer,Partner,2024,8
+2010,Ryan Lee,Corporate,Online,2021,24
+2011,Edward White,Consumer,In-Store,2021,12
+2012,Kathleen Hill,Consumer,Partner,2021,5
+2013,Stephen Thomas,Corporate,Online,2023,5
+2014,Emily Jackson,Consumer,Online,2022,17
+2015,Charles Torres,Consumer,Direct Sales,2021,6
+2016,Ryan Smith,Consumer,Online,2023,23
+2017,Jacob Mitchell,Consumer,Partner,2024,1
+2018,Lisa Jones,Consumer,Partner,2024,14
+2019,Amanda Rodriguez,Consumer,In-Store,2023,4
+2020,Michelle Perez,Corporate,In-Store,2024,2
+2021,Barbara Mitchell,Home Office,Direct Sales,2024,21
+2022,Laura Mitchell,Corporate,Online,2022,5
+2023,Nancy Campbell,Corporate,Direct Sales,2024,3
+2024,Karen Smith,Corporate,Online,2023,13
+2025,Carol Lewis,Consumer,Partner,2021,25
+2026,Richard Anderson,Consumer,Online,2022,17
+2027,Scott Allen,Home Office,Online,2022,11
+2028,Daniel Martinez,Consumer,Direct Sales,2024,24
+2029,Anthony Ramirez,Consumer,In-Store,2023,4
+2030,Brian Jackson,Consumer,Online,2022,8
+2031,Lisa Jackson,Home Office,Online,2023,4
+2032,Sandra Nelson,Consumer,Online,2022,17
+2033,Lisa Johnson,Corporate,Online,2024,18
+2034,Matthew Smith,Consumer,Partner,2022,10
+2035,Anna Ramirez,Corporate,In-Store,2024,10
+2036,Joseph Rivera,Corporate,Partner,2022,14
+2037,Amy Taylor,Consumer,Online,2021,22
+2038,Joseph Thompson,Corporate,Partner,2021,3
+2039,Carol Hernandez,Consumer,Online,2023,17
+2040,Barbara Rivera,Corporate,Direct Sales,2021,4
+2041,Eric Lee,Consumer,In-Store,2024,21
+2042,Robert Green,Corporate,Online,2023,8
+2043,Betty Taylor,Consumer,In-Store,2021,16
+2044,Andrew Rodriguez,Consumer,Partner,2024,24
+2045,Margaret Smith,Consumer,In-Store,2023,23
+2046,Daniel Williams,Consumer,Online,2022,19
+2047,Donald Green,Consumer,In-Store,2024,10
+2048,Sandra Jackson,Corporate,In-Store,2023,20
+2049,Amanda Wright,Consumer,Online,2021,25
+2050,Andrew Clark,Home Office,Online,2023,4
+2051,Daniel Robinson,Home Office,In-Store,2022,13
+2052,Thomas Roberts,Home Office,Partner,2024,20
+2053,Edward Baker,Consumer,Online,2022,14
+2054,Linda Scott,Corporate,Online,2022,13
+2055,Jeffrey Ramirez,Consumer,Direct Sales,2021,24
+2056,Mark Perez,Corporate,Online,2022,8
+2057,Anna Hernandez,Corporate,Partner,2021,20
+2058,Kevin Rodriguez,Corporate,Online,2023,13
+2059,Elizabeth Roberts,Corporate,Direct Sales,2023,18
+2060,William Adams,Consumer,Online,2022,6
+2061,Stephen Sanchez,Home Office,Online,2023,12
+2062,Kevin Clark,Consumer,Partner,2024,2
+2063,John Carter,Home Office,Online,2022,16
+2064,Jennifer Hernandez,Consumer,Online,2023,23
+2065,Ashley Williams,Consumer,Online,2023,21
+2066,Stephanie Rodriguez,Corporate,Partner,2024,3
+2067,Barbara Allen,Corporate,Partner,2022,1
+2068,Brenda Hill,Home Office,Online,2023,13
+2069,Matthew Hill,Home Office,Partner,2022,24
+2070,John Martin,Consumer,Online,2021,21
+2071,Anna Walker,Consumer,Online,2021,14
+2072,Emma Moore,Consumer,Direct Sales,2022,8
+2073,Timothy Johnson,Home Office,Partner,2024,25
+2074,Brenda Rivera,Consumer,Online,2024,13
+2075,Sandra Lewis,Consumer,In-Store,2023,11
+2076,Charles Green,Home Office,Online,2021,16
+2077,Pamela Thomas,Consumer,Online,2024,17
+2078,Larry Carter,Consumer,Partner,2021,10
+2079,Michelle Martinez,Consumer,In-Store,2023,1
+2080,Paul Hall,Consumer,In-Store,2022,16
+2081,Kenneth Adams,Consumer,In-Store,2022,18
+2082,David Miller,Consumer,Online,2021,1
+2083,Christopher King,Corporate,Online,2022,4
+2084,Robert Ramirez,Consumer,In-Store,2022,5
+2085,Jonathan Clark,Consumer,Online,2022,10
+2086,Paul King,Consumer,Direct Sales,2022,6
+2087,Charles Jackson,Corporate,Online,2023,23
+2088,Melissa King,Corporate,In-Store,2021,11
+2089,Sarah Hernandez,Corporate,Partner,2021,14
+2090,Daniel Martinez,Consumer,Direct Sales,2021,23
+2091,Matthew Gonzalez,Corporate,In-Store,2022,2
+2092,Cynthia Hill,Consumer,Online,2022,8
+2093,Brian Green,Consumer,Online,2021,14
+2094,Scott Campbell,Consumer,In-Store,2022,9
+2095,Emma Wright,Corporate,Online,2023,4
+2096,Margaret Moore,Consumer,In-Store,2021,17
+2097,Pamela Adams,Corporate,Online,2023,19
+2098,Dorothy Mitchell,Home Office,In-Store,2022,6
+2099,James Anderson,Home Office,Online,2023,5
+2100,Charles Hernandez,Consumer,Online,2021,2
+2101,Sarah Allen,Corporate,Online,2022,10
+2102,Nicholas Carter,Consumer,In-Store,2022,13
+2103,Jacob Thompson,Consumer,In-Store,2022,20
+2104,Margaret Hernandez,Home Office,Partner,2023,14
+2105,Emma Lewis,Consumer,Partner,2023,18
+2106,Sharon Adams,Consumer,Online,2022,15
+2107,Brian Campbell,Consumer,In-Store,2024,7
+2108,Timothy White,Consumer,Partner,2021,15
+2109,George King,Consumer,In-Store,2022,12
+2110,Steven Allen,Home Office,In-Store,2021,9
+2111,Kathleen Sanchez,Consumer,In-Store,2021,21
+2112,Linda Torres,Corporate,Partner,2024,20
+2113,Ryan Young,Consumer,Partner,2023,18
+2114,Susan Williams,Consumer,In-Store,2023,23
+2115,Daniel Rodriguez,Consumer,Partner,2021,15
+2116,Linda Lee,Consumer,In-Store,2024,7
+2117,John Perez,Corporate,Partner,2022,23
+2118,Lisa Nguyen,Corporate,Online,2021,22
+2119,Stephanie Clark,Corporate,In-Store,2021,25
+2120,Nicholas Martinez,Corporate,Online,2022,9
+2121,Betty Hall,Consumer,Online,2023,1
+2122,Donna Moore,Corporate,Online,2022,23
+2123,Elizabeth Torres,Home Office,Online,2024,6
+2124,Elizabeth Lopez,Consumer,In-Store,2021,6
+2125,Mary Wilson,Corporate,In-Store,2024,8
+2126,Donna Baker,Corporate,Direct Sales,2021,25
+2127,Thomas Martin,Consumer,Partner,2021,5
+2128,Larry Lee,Consumer,Partner,2021,7
+2129,Daniel Jackson,Consumer,Online,2021,12
+2130,Scott White,Consumer,In-Store,2022,21
+2131,Lisa Williams,Home Office,In-Store,2021,19
+2132,Anthony Hall,Consumer,In-Store,2023,10
+2133,Anthony Perez,Corporate,In-Store,2023,9
+2134,Elizabeth Allen,Corporate,Online,2022,2
+2135,Joseph King,Corporate,Online,2021,19
+2136,Carol White,Corporate,In-Store,2024,11
+2137,Susan Green,Consumer,Direct Sales,2021,16
+2138,Kevin Perez,Corporate,Online,2024,10
+2139,Christopher Robinson,Corporate,Partner,2022,20
+2140,Ryan Nguyen,Corporate,Online,2022,8
+2141,Steven Campbell,Consumer,Online,2023,10
+2142,Jennifer Anderson,Corporate,Direct Sales,2022,14
+2143,Jason Roberts,Consumer,In-Store,2023,6
+2144,Angela Hernandez,Home Office,Direct Sales,2024,17
+2145,Betty Torres,Corporate,Online,2022,2
+2146,Elizabeth Martin,Corporate,Online,2022,13
+2147,Lisa Robinson,Consumer,Online,2024,10
+2148,Donna Garcia,Consumer,Partner,2022,24
+2149,Ashley Martinez,Corporate,Partner,2022,16
+2150,Christopher Thompson,Consumer,In-Store,2022,7
+2151,Jacob Nelson,Consumer,In-Store,2021,4
+2152,Deborah Rodriguez,Consumer,Direct Sales,2022,11
+2153,Andrew Baker,Corporate,Online,2022,3
+2154,Brian Young,Corporate,Direct Sales,2021,20
+2155,Daniel Roberts,Consumer,Online,2022,1
+2156,Ronald Jones,Corporate,Online,2021,7
+2157,Joshua Ramirez,Consumer,Online,2021,5
+2158,Andrew Martin,Consumer,Partner,2021,14
+2159,Daniel Hernandez,Consumer,In-Store,2021,3
+2160,Brian Baker,Corporate,In-Store,2022,1
+2161,Christopher Lee,Consumer,In-Store,2023,1
+2162,Gary Adams,Home Office,Online,2023,10
+2163,Jason Taylor,Corporate,Online,2023,15
+2164,Nicholas White,Corporate,Partner,2024,12
+2165,Joseph Lopez,Home Office,In-Store,2022,22
+2166,David Martinez,Consumer,Direct Sales,2023,9
+2167,Betty Allen,Corporate,Partner,2022,2
+2168,Cynthia Jackson,Consumer,Partner,2022,2
+2169,Melissa Taylor,Consumer,In-Store,2023,1
+2170,Brenda Moore,Consumer,Online,2021,11
+2171,Joshua Green,Consumer,Online,2023,18
+2172,Ronald Thomas,Consumer,In-Store,2021,5
+2173,Amy Ramirez,Home Office,Online,2022,20
+2174,Ashley Campbell,Corporate,In-Store,2021,11
+2175,Melissa Williams,Consumer,Direct Sales,2023,4
+2176,Timothy Allen,Home Office,Online,2024,24
+2177,Joshua Ramirez,Consumer,Online,2023,24
+2178,David Ramirez,Home Office,Partner,2022,10
+2179,Angela Wright,Home Office,Online,2023,12
+2180,Anna Walker,Consumer,Direct Sales,2021,23
+2181,Nancy Moore,Consumer,Online,2022,6
+2182,Andrew Moore,Consumer,Online,2023,22
+2183,Thomas Moore,Consumer,In-Store,2024,11
+2184,Richard Anderson,Consumer,Partner,2021,20
+2185,Andrew Campbell,Corporate,Partner,2023,21
+2186,Kevin Wright,Consumer,Direct Sales,2021,11
+2187,Kenneth Thompson,Corporate,Online,2024,16
+2188,Anthony Wright,Corporate,In-Store,2021,2
+2189,Anna Garcia,Corporate,In-Store,2022,7
+2190,Shirley White,Consumer,Partner,2022,15
+2191,Patricia Martinez,Corporate,Online,2022,14
+2192,Rebecca Carter,Consumer,Direct Sales,2022,16
+2193,Donald Harris,Home Office,Online,2023,4
+2194,Richard Sanchez,Consumer,Direct Sales,2022,6
+2195,Christopher Roberts,Corporate,Partner,2022,14
+2196,Amanda Carter,Consumer,Direct Sales,2021,25
+2197,George Green,Consumer,Direct Sales,2024,25
+2198,Kenneth Allen,Corporate,Online,2024,16
+2199,Cynthia Jackson,Corporate,Online,2024,6
+2200,Stephanie Jackson,Consumer,Partner,2023,21
+2201,Daniel Baker,Home Office,Online,2023,14
+2202,Edward Gonzalez,Corporate,In-Store,2021,20
+2203,Nicholas Garcia,Corporate,Partner,2024,11
+2204,Ashley Hernandez,Corporate,In-Store,2021,12
+2205,John Mitchell,Corporate,Partner,2022,17
+2206,Matthew Hernandez,Consumer,Partner,2021,16
+2207,Betty Lee,Consumer,Online,2021,19
+2208,Cynthia Robinson,Consumer,In-Store,2024,6
+2209,Cynthia Allen,Corporate,Partner,2024,6
+2210,Ashley Robinson,Corporate,Online,2023,22
+2211,Edward King,Home Office,Partner,2021,14
+2212,Emily Rivera,Corporate,Partner,2023,18
+2213,Patricia Lewis,Consumer,Partner,2021,13
+2214,Jennifer White,Consumer,Direct Sales,2023,15
+2215,Jason Davis,Consumer,Partner,2023,19
+2216,Joseph Campbell,Consumer,Online,2022,8
+2217,Kathleen Wilson,Consumer,Online,2023,15
+2218,Gary Carter,Consumer,Online,2021,15
+2219,Kevin Lewis,Corporate,In-Store,2023,25
+2220,Sarah Martinez,Corporate,Online,2024,19
+2221,George Rivera,Consumer,Direct Sales,2021,21
+2222,Donna Walker,Corporate,In-Store,2021,23
+2223,Thomas Martinez,Corporate,Partner,2021,8
+2224,Patricia Wilson,Corporate,Online,2021,12
+2225,Angela Mitchell,Home Office,In-Store,2022,6
+2226,Brian Adams,Consumer,Partner,2022,12
+2227,Timothy Young,Corporate,Partner,2022,16
+2228,Timothy Smith,Corporate,Online,2021,7
+2229,Mark Martinez,Consumer,Partner,2023,21
+2230,Betty Thompson,Consumer,In-Store,2023,1
+2231,Shirley Anderson,Corporate,Online,2021,21
+2232,Richard Perez,Consumer,Online,2024,24
+2233,Stephen Garcia,Home Office,Online,2022,8
+2234,Ashley Taylor,Corporate,Online,2024,8
+2235,Sandra Hall,Corporate,Online,2024,9
+2236,Jonathan Moore,Consumer,Online,2024,3
+2237,Thomas King,Consumer,Online,2021,25
+2238,Scott Walker,Consumer,In-Store,2023,11
+2239,Barbara Gonzalez,Consumer,Online,2022,4
+2240,Brenda Nguyen,Consumer,In-Store,2022,19
+2241,Sharon Davis,Corporate,Online,2023,19
+2242,Ryan Smith,Consumer,Online,2021,21
+2243,Daniel Perez,Consumer,In-Store,2024,10
+2244,Emily Wright,Consumer,Online,2022,10
+2245,Jeffrey Davis,Home Office,Direct Sales,2022,11
+2246,Angela Walker,Consumer,Online,2023,22
+2247,Joshua Miller,Home Office,Online,2023,18
+2248,Nancy Gonzalez,Corporate,Partner,2021,17
+2249,Donna Lee,Corporate,In-Store,2023,20
+2250,Anthony Torres,Corporate,Online,2021,13
+2251,Lisa Hernandez,Corporate,Online,2024,16
+2252,Rebecca Roberts,Corporate,Online,2021,10
+2253,Melissa Martinez,Consumer,Partner,2023,11
+2254,Laura Martin,Consumer,Online,2022,25
+2255,Stephanie Brown,Home Office,Online,2023,15
+2256,Dorothy Johnson,Corporate,Online,2023,9
+2257,Kimberly White,Consumer,Online,2022,18
+2258,Emma Mitchell,Consumer,Online,2022,9
+2259,Susan Jones,Consumer,Online,2022,24
+2260,Pamela Walker,Home Office,Direct Sales,2023,13
+2261,Gary Thomas,Consumer,In-Store,2022,4
+2262,Linda Green,Consumer,In-Store,2022,10
+2263,Joseph Walker,Consumer,Partner,2022,25
+2264,Edward Martinez,Home Office,In-Store,2022,18
+2265,Elizabeth Lewis,Consumer,In-Store,2023,9
+2266,Emma King,Corporate,In-Store,2021,25
+2267,William Hall,Corporate,Online,2024,25
+2268,Laura Mitchell,Home Office,Online,2022,15
+2269,George Perez,Consumer,Direct Sales,2021,20
+2270,John Rodriguez,Consumer,Online,2022,16
+2271,Michael King,Consumer,Direct Sales,2022,19
+2272,Sharon Williams,Home Office,Partner,2022,18
+2273,Gary Jackson,Corporate,In-Store,2023,19
+2274,Elizabeth Scott,Corporate,In-Store,2023,3
+2275,Anna Robinson,Corporate,Direct Sales,2023,25
+2276,Sharon Moore,Consumer,Direct Sales,2024,5
+2277,Kevin Jones,Consumer,In-Store,2022,25
+2278,Sharon Johnson,Consumer,Online,2023,13
+2279,John Smith,Consumer,Online,2021,8
+2280,Scott Baker,Corporate,In-Store,2023,7
+2281,Anna Thompson,Home Office,Partner,2022,7
+2282,Charles Wilson,Consumer,Online,2022,2
+2283,Thomas Wright,Consumer,Online,2024,8
+2284,Anthony Gonzalez,Consumer,Online,2021,7
+2285,Amanda Johnson,Consumer,Direct Sales,2022,13
+2286,Patricia Lewis,Home Office,Partner,2021,2
+2287,Laura Lewis,Consumer,Online,2022,4
+2288,Elizabeth Lopez,Consumer,In-Store,2022,6
+2289,Anthony Davis,Home Office,Partner,2022,11
+2290,Rebecca Gonzalez,Consumer,Online,2022,16
+2291,Steven Allen,Consumer,In-Store,2021,14
+2292,Stephanie Miller,Consumer,Direct Sales,2024,14
+2293,Joshua Anderson,Home Office,Online,2023,13
+2294,Jacob Johnson,Home Office,Online,2023,11
+2295,Jennifer Martinez,Home Office,Online,2021,17
+2296,Karen Rodriguez,Corporate,Partner,2021,7
+2297,Kimberly White,Corporate,Partner,2022,6
+2298,Eric Martinez,Corporate,Partner,2021,4
+2299,Christopher Johnson,Consumer,Online,2023,9
+2300,Carol Johnson,Corporate,Online,2024,2
+2301,Charles Clark,Consumer,Online,2023,17
+2302,Lisa Hernandez,Consumer,Online,2021,14
+2303,William Davis,Home Office,In-Store,2022,18
+2304,Jeffrey Rodriguez,Home Office,Partner,2021,16
+2305,Jacob Taylor,Consumer,In-Store,2022,20
+2306,Richard Walker,Consumer,Partner,2022,5
+2307,Mark Allen,Consumer,Direct Sales,2021,3
+2308,Richard Rivera,Consumer,Direct Sales,2021,8
+2309,Steven Lopez,Corporate,Online,2023,15
+2310,Pamela King,Consumer,Direct Sales,2021,5
+2311,Carol Ramirez,Consumer,Online,2023,2
+2312,Deborah Green,Consumer,Online,2021,5
+2313,Robert Thomas,Consumer,Online,2022,16
+2314,Brian Gonzalez,Corporate,Partner,2022,15
+2315,Margaret Robinson,Corporate,In-Store,2021,9
+2316,Angela Perez,Consumer,Direct Sales,2021,16
+2317,Jonathan Robinson,Corporate,In-Store,2022,17
+2318,Emily Jones,Corporate,Online,2021,18
+2319,Thomas Miller,Consumer,In-Store,2021,18
+2320,Kimberly Rodriguez,Home Office,Online,2022,3
+2321,Nicholas Lopez,Consumer,Direct Sales,2024,7
+2322,Charles Baker,Consumer,Online,2023,12
+2323,Shirley Hill,Corporate,In-Store,2022,2
+2324,Stephen White,Corporate,In-Store,2024,6
+2325,Melissa Hernandez,Consumer,Online,2023,20
+2326,Mark Carter,Corporate,In-Store,2024,14
+2327,Betty Moore,Consumer,Direct Sales,2022,13
+2328,Eric Clark,Home Office,In-Store,2021,10
+2329,James Jones,Consumer,In-Store,2022,24
+2330,William Brown,Corporate,Online,2022,6
+2331,Ashley Sanchez,Corporate,In-Store,2022,7
+2332,Ashley Thompson,Consumer,Direct Sales,2021,13
+2333,Jessica Campbell,Corporate,Direct Sales,2021,15
+2334,Charles Baker,Consumer,Online,2023,17
+2335,Donna King,Consumer,In-Store,2022,22
+2336,Jeffrey Martin,Corporate,In-Store,2023,5
+2337,Barbara Carter,Home Office,Online,2021,2
+2338,Timothy Taylor,Consumer,In-Store,2023,23
+2339,Gary Carter,Consumer,In-Store,2021,24
+2340,George Thomas,Home Office,In-Store,2024,14
+2341,Rebecca Brown,Corporate,Partner,2021,24
+2342,Dorothy Taylor,Corporate,Online,2023,9
+2343,Amanda Garcia,Consumer,Partner,2022,19
+2344,Amy Anderson,Corporate,In-Store,2021,25
+2345,Gary Scott,Corporate,In-Store,2023,22
+2346,Timothy Williams,Corporate,In-Store,2023,4
+2347,Anna Miller,Consumer,Partner,2022,22
+2348,Rebecca Sanchez,Corporate,Online,2023,15
+2349,Ryan Torres,Home Office,Online,2022,21
+2350,Sharon Nelson,Home Office,Online,2021,21
+2351,Kevin Miller,Consumer,Online,2021,15
+2352,Steven Thompson,Corporate,Online,2024,8
+2353,Dorothy Lewis,Corporate,Online,2023,21
+2354,Emily Roberts,Corporate,Online,2023,18
+2355,Carol Mitchell,Consumer,Online,2023,16
+2356,Elizabeth Perez,Consumer,In-Store,2023,8
+2357,Kenneth Martin,Consumer,Partner,2023,11
+2358,Amy Green,Consumer,Online,2021,23
+2359,Gary Thompson,Consumer,Online,2022,6
+2360,Lisa Lee,Consumer,Online,2022,17
+2361,Emma Jackson,Corporate,In-Store,2022,23
+2362,Barbara Gonzalez,Consumer,Partner,2024,22
+2363,Stephanie Taylor,Consumer,Online,2022,5
+2364,Deborah Miller,Home Office,Partner,2024,10
+2365,Larry Garcia,Consumer,Online,2023,8
+2366,Jonathan Martinez,Corporate,Online,2022,23
+2367,Mark Thomas,Home Office,Online,2023,5
+2368,Mary Jackson,Consumer,Online,2023,15
+2369,Rebecca Scott,Corporate,In-Store,2022,17
+2370,Scott Sanchez,Corporate,Direct Sales,2024,24
+2371,Emily Rivera,Corporate,Online,2023,14
+2372,Melissa White,Home Office,Direct Sales,2022,12
+2373,Barbara Hall,Consumer,Partner,2024,8
+2374,Stephen Nguyen,Consumer,Direct Sales,2023,17
+2375,Jacob Wright,Consumer,Partner,2023,24
+2376,Brian Rivera,Corporate,Direct Sales,2023,8
+2377,Cynthia Moore,Corporate,Online,2023,16
+2378,Pamela Ramirez,Consumer,Direct Sales,2021,15
+2379,Emma Adams,Consumer,Online,2024,5
+2380,William Baker,Consumer,Direct Sales,2021,9
+2381,Patricia Rivera,Corporate,Online,2023,5
+2382,Ronald Wilson,Corporate,Online,2023,10
+2383,Kevin Anderson,Corporate,Partner,2024,5
+2384,Brenda Baker,Corporate,Partner,2024,2
+2385,Amanda Nguyen,Consumer,Direct Sales,2023,17
+2386,Edward Campbell,Consumer,Online,2024,25
+2387,Daniel Lopez,Consumer,Direct Sales,2023,11
+2388,Elizabeth Miller,Home Office,In-Store,2024,13
+2389,Edward Harris,Corporate,Online,2022,4
+2390,Donna Thompson,Consumer,Online,2021,3
+2391,Nancy Taylor,Consumer,Online,2024,21
+2392,David Perez,Consumer,Online,2021,20
+2393,Linda Scott,Consumer,Online,2021,17
+2394,Mary Smith,Consumer,Online,2023,19
+2395,Larry White,Home Office,Direct Sales,2021,20
+2396,Amy Lopez,Corporate,Direct Sales,2021,22
+2397,Karen Hill,Consumer,Online,2022,25
+2398,Daniel Allen,Consumer,Partner,2021,2
+2399,Stephen Davis,Corporate,Online,2021,12
+2400,Nancy Nguyen,Consumer,Direct Sales,2022,20
+2401,Karen Flores,Home Office,Direct Sales,2024,18
+2402,Deborah Lewis,Home Office,In-Store,2021,8
+2403,George Martinez,Consumer,Partner,2021,13
+2404,Jennifer Thompson,Consumer,Direct Sales,2022,22
+2405,Pamela Miller,Home Office,Online,2023,17
+2406,Larry Torres,Corporate,In-Store,2023,21
+2407,Betty Jackson,Consumer,Online,2021,21
+2408,Jason Sanchez,Consumer,Online,2021,4
+2409,Carol Scott,Consumer,Online,2022,25
+2410,Andrew Roberts,Corporate,Online,2024,7
+2411,Elizabeth Martin,Home Office,Partner,2022,6
+2412,Kenneth Mitchell,Consumer,Online,2024,13
+2413,Matthew Thompson,Home Office,Online,2023,14
+2414,Angela King,Home Office,In-Store,2023,2
+2415,Margaret Miller,Consumer,Online,2021,11
+2416,Barbara Rivera,Consumer,Online,2023,1
+2417,Jennifer Harris,Consumer,In-Store,2024,1
+2418,Donald Nelson,Corporate,Partner,2024,13
+2419,Sandra White,Home Office,Online,2021,20
+2420,Ashley Flores,Corporate,Direct Sales,2022,19
+2421,Donna Wilson,Home Office,In-Store,2024,14
+2422,Mary Clark,Corporate,Online,2024,7
+2423,Gary Taylor,Corporate,In-Store,2022,23
+2424,Laura Rodriguez,Corporate,Online,2023,4
+2425,Christopher Young,Consumer,In-Store,2021,24
+2426,Steven Baker,Corporate,In-Store,2021,10
+2427,Andrew Torres,Consumer,Partner,2022,7
+2428,Elizabeth Scott,Home Office,Online,2022,2
+2429,Jacob Walker,Consumer,Online,2024,6
+2430,David Carter,Corporate,Online,2022,12
+2431,Jeffrey Mitchell,Consumer,In-Store,2021,17
+2432,Matthew Roberts,Consumer,Online,2022,5
+2433,Michelle Taylor,Home Office,Online,2021,21
+2434,Linda Sanchez,Consumer,Direct Sales,2022,8
+2435,Nancy Green,Consumer,In-Store,2022,15
+2436,William Thomas,Corporate,Online,2021,18
+2437,Kenneth Brown,Consumer,Online,2022,1
+2438,Lisa Campbell,Home Office,Online,2021,4
+2439,Sandra Smith,Consumer,In-Store,2023,25
+2440,Larry Davis,Home Office,Partner,2021,18
+2441,Barbara Johnson,Corporate,Direct Sales,2024,21
+2442,Deborah Jackson,Corporate,Online,2024,8
+2443,Gary Flores,Consumer,Direct Sales,2023,16
+2444,Karen Robinson,Corporate,Online,2021,21
+2445,Daniel Harris,Home Office,Direct Sales,2022,1
+2446,Sharon Martin,Consumer,In-Store,2023,18
+2447,Sandra Sanchez,Consumer,In-Store,2021,13
+2448,Rebecca Clark,Consumer,In-Store,2024,15
+2449,George Perez,Consumer,Online,2023,7
+2450,Ashley Wilson,Corporate,In-Store,2024,24
+2451,George Robinson,Corporate,Partner,2022,21
+2452,Donna Wilson,Consumer,In-Store,2022,15
+2453,Joshua Roberts,Home Office,Online,2021,11
+2454,Jonathan Hernandez,Corporate,Direct Sales,2022,15
+2455,Patricia Hall,Consumer,In-Store,2021,24
+2456,Larry Roberts,Consumer,Online,2023,7
+2457,Karen Clark,Consumer,Online,2023,25
+2458,Gary Lee,Corporate,Partner,2022,21
+2459,Robert Baker,Consumer,Online,2021,2
+2460,Kevin Garcia,Consumer,Direct Sales,2021,5
+2461,Margaret Martin,Home Office,Online,2024,19
+2462,Laura Walker,Consumer,Online,2022,18
+2463,Christopher Martinez,Consumer,Online,2024,14
+2464,Christopher Scott,Corporate,In-Store,2024,23
+2465,Ashley Davis,Corporate,Online,2022,25
+2466,Jennifer Rodriguez,Home Office,In-Store,2022,25
+2467,John Nguyen,Corporate,Partner,2024,19
+2468,Anna Lopez,Consumer,Online,2022,22
+2469,Larry Thompson,Home Office,Direct Sales,2024,3
+2470,Daniel Rodriguez,Corporate,In-Store,2024,4
+2471,Betty Green,Consumer,Partner,2024,3
+2472,Amanda Hill,Home Office,In-Store,2023,19
+2473,Rebecca Hernandez,Consumer,Online,2022,17
+2474,Patricia Young,Consumer,Online,2023,23
+2475,Donna Taylor,Consumer,Online,2021,24
+2476,Ryan Nelson,Consumer,In-Store,2021,20
+2477,Mary Mitchell,Corporate,Online,2021,16
+2478,Timothy Harris,Consumer,In-Store,2023,11
+2479,George Allen,Home Office,Partner,2022,11
+2480,Thomas Thompson,Corporate,In-Store,2022,9
+2481,David Lewis,Home Office,Online,2023,11
+2482,Angela Davis,Consumer,Online,2023,8
+2483,Barbara Lopez,Consumer,Online,2023,25
+2484,Elizabeth Jones,Consumer,Online,2023,20
+2485,Barbara Martinez,Corporate,Direct Sales,2024,21
+2486,Kevin Nelson,Consumer,Online,2023,7
+2487,David Lopez,Consumer,Direct Sales,2021,22
+2488,Sandra Wilson,Consumer,Online,2022,17
+2489,Matthew Walker,Corporate,Partner,2022,23
+2490,Nancy Walker,Consumer,In-Store,2024,2
+2491,Jeffrey Lopez,Consumer,Online,2024,9
+2492,Charles Wright,Corporate,Online,2021,25
+2493,Barbara Gonzalez,Consumer,Online,2024,6
+2494,Ronald Green,Corporate,Online,2022,21
+2495,Andrew Wilson,Consumer,Partner,2023,17
+2496,James Adams,Home Office,In-Store,2021,6
+2497,William Brown,Consumer,Online,2023,20
+2498,Sharon Garcia,Corporate,Direct Sales,2022,24
+2499,Elizabeth Lee,Corporate,Direct Sales,2022,22
+2500,William Torres,Consumer,Partner,2022,24
+2501,Kathleen White,Consumer,Partner,2022,24
+2502,Matthew Anderson,Corporate,Online,2022,15
+2503,Cynthia Lee,Home Office,Partner,2024,15
+2504,Cynthia Lewis,Consumer,Partner,2022,1
+2505,Sarah Lee,Consumer,Partner,2021,12
+2506,Mary Ramirez,Corporate,In-Store,2021,19
+2507,Nancy Wilson,Consumer,Online,2021,11
+2508,Betty Johnson,Consumer,Online,2023,18
+2509,Dorothy Anderson,Consumer,In-Store,2022,14
+2510,Christopher Young,Home Office,Online,2024,3
+2511,Carol Rivera,Consumer,Online,2021,16
+2512,Margaret Clark,Consumer,Direct Sales,2023,11
+2513,Donna Baker,Corporate,In-Store,2023,17
+2514,Andrew Perez,Corporate,Partner,2024,12
+2515,Larry Walker,Consumer,Online,2022,7
+2516,Carol Hall,Consumer,Partner,2022,16
+2517,Dorothy Scott,Consumer,Partner,2023,5
+2518,Carol Green,Corporate,Direct Sales,2023,20
+2519,Donald Thomas,Consumer,In-Store,2021,17
+2520,Richard Harris,Corporate,In-Store,2021,16
+2521,Cynthia Hill,Home Office,Direct Sales,2023,3
+2522,Laura Harris,Corporate,Partner,2021,5
+2523,George Roberts,Consumer,Online,2023,11
+2524,Amanda Flores,Consumer,Online,2021,11
+2525,Gary Lee,Corporate,In-Store,2023,21
+2526,Matthew Hill,Corporate,Online,2021,7
+2527,Shirley Allen,Consumer,Partner,2022,1
+2528,Joshua Taylor,Consumer,Online,2021,21
+2529,Rebecca Garcia,Consumer,Partner,2024,15
+2530,Timothy Scott,Consumer,Online,2022,9
+2531,Ryan Moore,Consumer,In-Store,2021,19
+2532,Thomas Lee,Home Office,Online,2024,18
+2533,Kathleen White,Consumer,Partner,2022,1
+2534,Sharon Adams,Consumer,Online,2023,25
+2535,Robert Adams,Consumer,In-Store,2022,17
+2536,Linda Campbell,Corporate,Online,2021,3
+2537,Sarah Martinez,Consumer,Online,2023,3
+2538,George Thompson,Consumer,Online,2023,16
+2539,Stephanie Wright,Consumer,Online,2023,23
+2540,Karen Scott,Corporate,Partner,2022,4
+2541,Emily Anderson,Consumer,In-Store,2022,2
+2542,Mark Walker,Consumer,Online,2021,5
+2543,Sarah Allen,Consumer,Online,2023,13
+2544,John Allen,Corporate,In-Store,2023,23
+2545,Rebecca Scott,Consumer,Online,2021,8
+2546,Scott Young,Consumer,Partner,2023,12
+2547,Angela Hernandez,Consumer,Online,2021,21
+2548,Andrew Moore,Corporate,In-Store,2021,7
+2549,Steven Perez,Consumer,Direct Sales,2022,21
+2550,Andrew Lewis,Consumer,In-Store,2023,17
+2551,Stephanie Wilson,Consumer,Online,2023,24
+2552,Anthony Gonzalez,Corporate,Partner,2021,23
+2553,Margaret Nguyen,Corporate,Online,2021,21
+2554,Sandra Torres,Home Office,Partner,2021,1
+2555,Donna Smith,Consumer,Online,2022,16
+2556,Deborah Campbell,Consumer,Direct Sales,2023,6
+2557,Gary Walker,Corporate,Online,2024,8
+2558,Barbara Flores,Consumer,Online,2021,2
+2559,Mary Moore,Home Office,Online,2022,19
+2560,Christopher Miller,Consumer,Online,2021,14
+2561,Melissa Jones,Consumer,In-Store,2021,2
+2562,Jessica Martin,Consumer,In-Store,2024,7
+2563,Jessica Green,Corporate,In-Store,2021,16
+2564,Daniel Smith,Consumer,Partner,2022,19
+2565,Emma Moore,Consumer,Partner,2022,24
+2566,Karen Wilson,Consumer,In-Store,2021,16
+2567,Sharon Robinson,Consumer,Direct Sales,2022,2
+2568,William Roberts,Home Office,Partner,2023,7
+2569,Paul Johnson,Corporate,Direct Sales,2021,23
+2570,Laura Smith,Home Office,Online,2022,14
+2571,Emma Hall,Consumer,Online,2024,2
+2572,Andrew White,Consumer,Online,2023,18
+2573,Christopher White,Corporate,Online,2022,5
+2574,Carol Mitchell,Corporate,Online,2023,12
+2575,Cynthia Thompson,Corporate,Online,2023,16
+2576,Brenda Clark,Consumer,Online,2023,5
+2577,Kevin Thompson,Corporate,In-Store,2022,22
+2578,Lisa Williams,Consumer,Direct Sales,2024,5
+2579,Michelle Wright,Corporate,Partner,2024,19
+2580,Sarah Wilson,Corporate,Online,2023,4
+2581,Nicholas Wright,Consumer,Online,2021,18
+2582,Lisa Mitchell,Consumer,Partner,2022,4
+2583,Carol Campbell,Corporate,Online,2024,17
+2584,Ronald Anderson,Corporate,Partner,2023,4
+2585,Mark Green,Corporate,Online,2023,25
+2586,Matthew Rivera,Consumer,Partner,2022,4
+2587,Amy Martinez,Home Office,In-Store,2022,25
+2588,Stephanie Martin,Corporate,In-Store,2021,7
+2589,Patricia Johnson,Consumer,Online,2021,25
+2590,Barbara Jones,Consumer,Direct Sales,2022,12
+2591,Stephanie Smith,Corporate,Online,2022,7
+2592,Joshua Ramirez,Corporate,Direct Sales,2023,19
+2593,Jennifer Baker,Consumer,Online,2022,1
+2594,Steven Hall,Consumer,Partner,2023,25
+2595,Richard Ramirez,Corporate,In-Store,2022,22
+2596,Gary Johnson,Consumer,Direct Sales,2023,3
+2597,Jacob Taylor,Corporate,Online,2023,23
+2598,Richard Robinson,Consumer,Online,2023,16
+2599,Robert Lee,Consumer,Partner,2024,7
+2600,Edward Miller,Consumer,Online,2024,25
+2601,Patricia Allen,Consumer,In-Store,2022,23
+2602,Larry Harris,Corporate,In-Store,2023,9
+2603,Scott Davis,Corporate,In-Store,2024,10
+2604,Christopher Williams,Consumer,Online,2021,5
+2605,Barbara Gonzalez,Consumer,Online,2022,24
+2606,Daniel Roberts,Consumer,Online,2021,22
+2607,Scott Young,Consumer,Online,2023,4
+2608,Richard Hernandez,Consumer,Partner,2024,19
+2609,Patricia Lewis,Consumer,Partner,2022,23
+2610,Shirley Hall,Consumer,In-Store,2022,2
+2611,Dorothy Ramirez,Corporate,Online,2021,9
+2612,Amanda Walker,Consumer,Direct Sales,2024,5
+2613,Jessica Johnson,Consumer,In-Store,2023,15
+2614,Brenda White,Corporate,In-Store,2024,22
+2615,Nancy Nguyen,Consumer,In-Store,2021,5
+2616,Joshua Rodriguez,Corporate,Online,2022,17
+2617,Mary Davis,Corporate,Online,2022,10
+2618,Sarah Lee,Home Office,Partner,2023,7
+2619,Jacob Walker,Consumer,Online,2022,21
+2620,Brenda Jones,Consumer,Online,2022,25
+2621,William Walker,Consumer,Direct Sales,2022,8
+2622,Edward Green,Consumer,Online,2021,2
+2623,Sharon Williams,Home Office,Partner,2021,22
+2624,Melissa Sanchez,Consumer,Partner,2021,5
+2625,Kathleen Flores,Home Office,In-Store,2022,25
+2626,Christopher Thomas,Corporate,Online,2023,14
+2627,Patricia Clark,Consumer,Online,2024,5
+2628,Jennifer White,Consumer,Online,2023,11
+2629,Joshua Wright,Corporate,Direct Sales,2024,16
+2630,Angela Young,Consumer,Partner,2023,23
+2631,Emma Baker,Corporate,In-Store,2022,16
+2632,Michelle Garcia,Corporate,Direct Sales,2022,20
+2633,William Taylor,Corporate,Direct Sales,2024,20
+2634,Angela Anderson,Consumer,Direct Sales,2024,19
+2635,Matthew Thompson,Home Office,Online,2022,22
+2636,Edward Moore,Consumer,Online,2023,25
+2637,Sarah Roberts,Corporate,Online,2023,23
+2638,Brenda Scott,Consumer,Partner,2023,6
+2639,Jessica Campbell,Corporate,Online,2021,20
+2640,Michelle Lopez,Home Office,Partner,2022,13
+2641,Kathleen Rivera,Consumer,In-Store,2022,5
+2642,Steven Hill,Consumer,Online,2022,18
+2643,Ronald Smith,Consumer,Partner,2021,16
+2644,Ryan Scott,Corporate,Online,2022,7
+2645,Paul Brown,Home Office,In-Store,2022,4
+2646,Jacob Ramirez,Consumer,Online,2021,12
+2647,Michael Williams,Home Office,Online,2022,9
+2648,Thomas Miller,Home Office,In-Store,2021,22
+2649,Larry Brown,Consumer,Online,2023,9
+2650,Andrew Ramirez,Consumer,Online,2023,25
+2651,Paul Scott,Consumer,Online,2021,19
+2652,Kenneth Carter,Consumer,Partner,2023,7
+2653,Brenda Flores,Consumer,Online,2022,20
+2654,Paul Young,Consumer,Online,2022,8
+2655,Ryan Flores,Consumer,Online,2021,4
+2656,James Thomas,Corporate,Online,2024,13
+2657,Laura Wilson,Consumer,Partner,2022,15
+2658,Jeffrey Martinez,Corporate,Online,2023,13
+2659,John Wright,Corporate,Online,2023,14
+2660,Shirley Perez,Consumer,In-Store,2023,15
+2661,Anthony White,Consumer,Online,2024,22
+2662,Timothy Hernandez,Corporate,Online,2022,13
+2663,Dorothy Thomas,Corporate,Direct Sales,2022,16
+2664,Patricia Baker,Home Office,Online,2023,15
+2665,John Harris,Corporate,Online,2021,14
+2666,Laura Ramirez,Consumer,Online,2021,12
+2667,Emily Walker,Consumer,Online,2023,17
+2668,Shirley Gonzalez,Home Office,Direct Sales,2022,25
+2669,Sandra Garcia,Corporate,Online,2023,18
+2670,Michael Taylor,Consumer,Direct Sales,2022,10
+2671,Charles Ramirez,Consumer,Direct Sales,2021,10
+2672,Lisa King,Consumer,Partner,2023,19
+2673,Daniel Jackson,Corporate,Direct Sales,2024,8
+2674,John Gonzalez,Corporate,Online,2023,9
+2675,Daniel Wright,Consumer,In-Store,2023,24
+2676,Daniel Martinez,Corporate,Online,2023,11
+2677,Lisa Roberts,Consumer,Partner,2022,2
+2678,Ronald Rodriguez,Consumer,In-Store,2024,8
+2679,Melissa Torres,Corporate,In-Store,2022,23
+2680,Joseph Rivera,Consumer,In-Store,2023,3
+2681,Timothy Rodriguez,Consumer,In-Store,2023,22
+2682,Ronald Scott,Corporate,Online,2022,21
+2683,Eric Thompson,Corporate,In-Store,2024,13
+2684,Steven King,Home Office,Online,2024,5
+2685,Robert Wilson,Consumer,Direct Sales,2024,4
+2686,Edward Harris,Consumer,Online,2022,7
+2687,John Wilson,Consumer,In-Store,2021,19
+2688,Sarah Adams,Corporate,Online,2021,8
+2689,Jeffrey Taylor,Consumer,In-Store,2022,7
+2690,Cynthia Rodriguez,Consumer,Online,2024,21
+2691,Richard Jackson,Consumer,Online,2024,21
+2692,Sharon Jones,Corporate,Online,2022,16
+2693,Jennifer Walker,Consumer,Online,2022,17
+2694,Lisa Smith,Home Office,Online,2023,9
+2695,Linda Johnson,Consumer,In-Store,2022,15
+2696,Stephanie Perez,Corporate,In-Store,2023,10
+2697,Melissa Brown,Corporate,In-Store,2024,25
+2698,Gary Ramirez,Corporate,Online,2023,24
+2699,Larry Allen,Consumer,Direct Sales,2024,13
+2700,Kevin Nelson,Corporate,Partner,2023,5
+2701,Charles Carter,Home Office,Online,2022,13
+2702,Mark Williams,Consumer,Online,2021,14
+2703,Larry Gonzalez,Consumer,Partner,2021,18
+2704,Larry Taylor,Home Office,Online,2024,6
+2705,Robert Taylor,Corporate,Partner,2021,6
+2706,Amy Davis,Consumer,In-Store,2024,20
+2707,Melissa Walker,Home Office,Online,2022,24
+2708,Kevin Green,Corporate,In-Store,2023,23
+2709,Pamela King,Corporate,Partner,2023,8
+2710,Mark Johnson,Consumer,Online,2024,10
+2711,Amy Campbell,Home Office,Online,2023,9
+2712,Susan Martinez,Corporate,Partner,2021,8
+2713,Cynthia Martinez,Home Office,In-Store,2022,14
+2714,Stephanie Clark,Corporate,Online,2021,20
+2715,Kathleen Nelson,Consumer,Online,2024,14
+2716,Stephanie Ramirez,Consumer,In-Store,2021,12
+2717,Jessica Martin,Consumer,Partner,2022,13
+2718,Pamela Wilson,Consumer,Partner,2021,20
+2719,Lisa Perez,Consumer,Online,2022,3
+2720,Richard Garcia,Consumer,Partner,2021,14
+2721,Amy Garcia,Home Office,Partner,2023,5
+2722,Michael Smith,Consumer,Online,2021,12
+2723,Amanda Nelson,Corporate,Online,2024,11
+2724,Richard Williams,Home Office,Online,2021,1
+2725,Matthew Hernandez,Home Office,Partner,2022,9
+2726,Pamela Jackson,Corporate,In-Store,2024,10
+2727,Sarah Jones,Consumer,Partner,2021,25
+2728,Angela Miller,Consumer,Online,2021,13
+2729,Michelle Nelson,Consumer,In-Store,2022,17
+2730,Donna Jackson,Corporate,Partner,2022,8
+2731,Donna Nelson,Consumer,Online,2021,5
+2732,Robert Garcia,Consumer,Partner,2021,15
+2733,Thomas Martinez,Corporate,Online,2022,11
+2734,Scott Thomas,Corporate,Online,2021,21
+2735,Jonathan Campbell,Corporate,Direct Sales,2021,16
+2736,Robert White,Consumer,Online,2021,2
+2737,Steven Harris,Consumer,In-Store,2023,13
+2738,Carol Lewis,Consumer,Online,2024,14
+2739,Kenneth Carter,Corporate,In-Store,2021,6
+2740,Steven Clark,Consumer,Partner,2022,2
+2741,Sarah Thomas,Consumer,In-Store,2021,7
+2742,Nancy Clark,Consumer,Online,2022,11
+2743,Melissa Perez,Consumer,In-Store,2023,17
+2744,Betty Wilson,Consumer,In-Store,2024,24
+2745,Nicholas Moore,Corporate,Direct Sales,2024,20
+2746,Betty Ramirez,Corporate,Partner,2021,24
+2747,Pamela Scott,Consumer,Direct Sales,2022,10
+2748,Kevin Johnson,Consumer,In-Store,2023,16
+2749,Rebecca Robinson,Home Office,In-Store,2021,11
+2750,Pamela Anderson,Consumer,Online,2023,2
+2751,Sandra Nelson,Home Office,Online,2021,17
+2752,Sandra Williams,Consumer,Partner,2021,1
+2753,Sharon Brown,Home Office,Partner,2021,18
+2754,Rebecca Johnson,Consumer,Direct Sales,2023,21
+2755,Donna Roberts,Corporate,Online,2024,7
+2756,Stephen Nelson,Corporate,Partner,2024,13
+2757,Emma Campbell,Consumer,In-Store,2021,22
+2758,Jason Garcia,Consumer,Online,2022,4
+2759,Thomas Mitchell,Corporate,Online,2021,9
+2760,Rebecca Hernandez,Home Office,Online,2021,4
+2761,Andrew Martin,Home Office,In-Store,2023,3
+2762,Karen Davis,Home Office,Online,2021,25
+2763,Paul Lopez,Consumer,In-Store,2021,25
+2764,Stephen Robinson,Consumer,In-Store,2023,3
+2765,Amanda Garcia,Consumer,Online,2021,9
+2766,John Flores,Corporate,Partner,2021,3
+2767,Christopher Martinez,Consumer,In-Store,2023,7
+2768,Kathleen Carter,Corporate,Online,2024,25
+2769,Sharon Miller,Corporate,Partner,2022,6
+2770,Matthew Flores,Corporate,Partner,2023,3
+2771,Sandra Nelson,Home Office,Partner,2022,15
+2772,Deborah Lee,Corporate,Online,2021,15
+2773,Matthew Smith,Corporate,Online,2023,12
+2774,Michelle Clark,Corporate,Online,2022,15
+2775,David Rodriguez,Home Office,In-Store,2022,4
+2776,Pamela Rodriguez,Consumer,In-Store,2022,25
+2777,Michelle Davis,Corporate,Online,2024,11
+2778,Ashley Martin,Corporate,Online,2021,4
+2779,Linda Martin,Corporate,Direct Sales,2023,13
+2780,Karen Moore,Consumer,Online,2021,17
+2781,George Jones,Consumer,Partner,2022,1
+2782,Andrew Lee,Consumer,Online,2021,17
+2783,Richard White,Consumer,Direct Sales,2023,11
+2784,Jessica Lopez,Corporate,In-Store,2021,2
+2785,Dorothy Martin,Home Office,In-Store,2022,3
+2786,Jonathan Torres,Home Office,In-Store,2024,22
+2787,Joshua Miller,Home Office,Partner,2021,14
+2788,Elizabeth Nelson,Consumer,Partner,2021,4
+2789,Pamela Smith,Consumer,In-Store,2022,12
+2790,Stephanie Wright,Consumer,Online,2024,8
+2791,David Perez,Consumer,In-Store,2022,4
+2792,John Walker,Consumer,Partner,2021,22
+2793,Angela Thomas,Home Office,Online,2022,9
+2794,Anna Campbell,Corporate,Online,2022,2
+2795,Sharon Wilson,Corporate,Online,2023,10
+2796,Brian Rodriguez,Consumer,In-Store,2024,10
+2797,Paul Thomas,Corporate,Direct Sales,2023,9
+2798,Amy Smith,Home Office,Online,2021,9
+2799,Thomas Torres,Consumer,In-Store,2021,22
+2800,Ashley Rodriguez,Corporate,Online,2021,2
+2801,Barbara Baker,Consumer,Direct Sales,2021,4
+2802,Anna Smith,Corporate,Partner,2023,1
+2803,Edward Miller,Consumer,Online,2021,21
+2804,Jessica White,Consumer,Online,2023,22
+2805,Dorothy Lewis,Corporate,Partner,2021,13
+2806,Amanda Gonzalez,Home Office,Partner,2023,16
+2807,Gary Moore,Consumer,Online,2022,6
+2808,Linda Brown,Corporate,In-Store,2021,4
+2809,Andrew Martinez,Consumer,Online,2023,16
+2810,Shirley Jones,Corporate,Online,2023,15
+2811,Betty Hall,Home Office,Partner,2024,9
+2812,Christopher Walker,Consumer,Direct Sales,2021,8
+2813,Gary Harris,Consumer,Direct Sales,2022,5
+2814,Joseph Moore,Corporate,In-Store,2023,9
+2815,Eric Martin,Corporate,Online,2022,4
+2816,Donald Jackson,Consumer,Online,2024,18
+2817,Anna King,Home Office,In-Store,2024,1
+2818,Karen Johnson,Consumer,In-Store,2022,19
+2819,Michelle Smith,Consumer,Online,2023,24
+2820,Jason Taylor,Corporate,Online,2021,13
+2821,Larry Torres,Consumer,Online,2023,8
+2822,Carol Williams,Home Office,Online,2023,18
+2823,Kevin Young,Consumer,Direct Sales,2021,3
+2824,Susan Torres,Home Office,Online,2024,7
+2825,Cynthia Clark,Corporate,Partner,2021,18
+2826,Jeffrey Rivera,Consumer,Partner,2021,4
+2827,Robert Taylor,Consumer,In-Store,2021,9
+2828,Pamela Lewis,Home Office,Online,2024,20
+2829,Jessica Garcia,Corporate,Partner,2022,21
+2830,Donald Williams,Consumer,Online,2021,25
+2831,James Young,Corporate,Online,2022,11
+2832,Richard Garcia,Consumer,Online,2022,1
+2833,Jason Hall,Consumer,Online,2022,23
+2834,Lisa Johnson,Corporate,Direct Sales,2022,22
+2835,Dorothy Gonzalez,Consumer,Online,2023,24
+2836,Daniel Gonzalez,Corporate,Online,2021,2
+2837,Laura Anderson,Corporate,Online,2023,24
+2838,Anthony White,Corporate,Direct Sales,2021,22
+2839,Sharon Martinez,Corporate,Partner,2021,13
+2840,James Hernandez,Consumer,In-Store,2023,14
+2841,Susan Garcia,Corporate,Online,2021,4
+2842,Sharon Anderson,Corporate,Online,2023,23
+2843,Emma Baker,Corporate,Direct Sales,2023,19
+2844,Kevin Lewis,Consumer,Direct Sales,2022,19
+2845,Margaret Lewis,Consumer,In-Store,2023,9
+2846,Kenneth Taylor,Corporate,Direct Sales,2023,1
+2847,Betty Sanchez,Consumer,Partner,2022,3
+2848,Scott Davis,Corporate,Online,2021,24
+2849,Stephen Davis,Corporate,Online,2023,23
+2850,Sarah Brown,Consumer,In-Store,2021,5
+2851,Donald Brown,Consumer,In-Store,2024,8
+2852,Stephen Scott,Consumer,In-Store,2021,9
+2853,Kevin Scott,Consumer,Online,2022,7
+2854,Sarah Anderson,Corporate,Online,2021,15
+2855,Barbara Ramirez,Corporate,In-Store,2023,11
+2856,Ryan Hernandez,Corporate,Direct Sales,2022,2
+2857,Mary Roberts,Consumer,In-Store,2021,24
+2858,Patricia Garcia,Consumer,Partner,2023,19
+2859,David Garcia,Corporate,In-Store,2023,15
+2860,Stephen Adams,Consumer,Partner,2023,20
+2861,Patricia Campbell,Consumer,Online,2022,4
+2862,Nicholas Adams,Consumer,Online,2021,18
+2863,Charles Hill,Corporate,In-Store,2021,17
+2864,Barbara Martinez,Consumer,Partner,2022,2
+2865,Kenneth Harris,Consumer,In-Store,2022,2
+2866,Michael Smith,Corporate,Direct Sales,2022,21
+2867,Michelle Garcia,Consumer,In-Store,2022,13
+2868,Timothy Torres,Consumer,Online,2023,17
+2869,Sandra Lee,Consumer,Online,2022,6
+2870,Anna Harris,Corporate,In-Store,2021,16
+2871,Michael Clark,Consumer,Online,2024,18
+2872,Ryan Flores,Consumer,Direct Sales,2023,25
+2873,Shirley Lopez,Consumer,Online,2023,4
+2874,Ronald Taylor,Corporate,Online,2022,17
+2875,James Taylor,Corporate,Online,2024,6
+2876,Jonathan Walker,Consumer,Direct Sales,2022,13
+2877,Matthew King,Corporate,Online,2021,22
+2878,William Martinez,Corporate,In-Store,2021,6
+2879,Eric Torres,Corporate,In-Store,2022,10
+2880,Christopher Johnson,Consumer,Online,2023,12
+2881,Shirley Ramirez,Consumer,Online,2023,3
+2882,Cynthia Williams,Corporate,Online,2024,13
+2883,Christopher Thompson,Home Office,Online,2021,2
+2884,Nancy Sanchez,Corporate,Partner,2022,18
+2885,Nancy Jackson,Consumer,Partner,2023,22
+2886,David Walker,Consumer,Online,2021,10
+2887,Angela Torres,Home Office,In-Store,2024,1
+2888,Mark Campbell,Consumer,Online,2023,17
+2889,Daniel Moore,Consumer,Direct Sales,2022,23
+2890,Linda Baker,Corporate,Online,2023,2
+2891,Kimberly Thomas,Consumer,Online,2024,12
+2892,Matthew King,Consumer,Online,2023,13
+2893,Mark Martinez,Corporate,Online,2023,15
+2894,Shirley Robinson,Corporate,Partner,2022,20
+2895,Betty Thomas,Corporate,In-Store,2021,7
+2896,Sarah Sanchez,Corporate,Direct Sales,2021,14
+2897,Robert Campbell,Consumer,Online,2023,25
+2898,Nicholas Young,Corporate,Online,2022,15
+2899,Nicholas Clark,Corporate,Partner,2022,1
+2900,Mary Lopez,Consumer,Online,2023,19
+2901,Susan Perez,Corporate,Online,2021,20
+2902,Shirley Smith,Consumer,Online,2022,23
+2903,Amy Taylor,Corporate,Partner,2023,24
+2904,Rebecca Smith,Home Office,In-Store,2022,20
+2905,Brian Rodriguez,Home Office,Online,2023,4
+2906,Shirley Green,Corporate,Online,2022,8
+2907,Sandra Sanchez,Corporate,Online,2021,5
+2908,Edward Gonzalez,Consumer,Partner,2024,20
+2909,Nicholas Martinez,Consumer,In-Store,2022,14
+2910,Barbara Garcia,Consumer,Online,2023,24
+2911,Kimberly Rodriguez,Consumer,Online,2023,12
+2912,John Roberts,Corporate,Online,2024,14
+2913,Sharon Mitchell,Consumer,In-Store,2021,5
+2914,Jason Roberts,Home Office,Direct Sales,2024,2
+2915,Eric Wilson,Consumer,Online,2023,25
+2916,Patricia Harris,Consumer,In-Store,2022,24
+2917,Margaret Miller,Home Office,Partner,2021,11
+2918,Amanda Brown,Corporate,In-Store,2021,19
+2919,Susan Young,Corporate,In-Store,2023,21
+2920,Charles Flores,Consumer,In-Store,2021,24
+2921,Jennifer Davis,Consumer,Direct Sales,2021,17
+2922,Laura Roberts,Consumer,Online,2022,22
+2923,Jonathan Mitchell,Home Office,Online,2021,8
+2924,Melissa Flores,Corporate,Online,2023,15
+2925,John Hill,Corporate,In-Store,2024,19
+2926,William Jackson,Consumer,Online,2021,15
+2927,Steven Nguyen,Corporate,Online,2023,19
+2928,Rebecca Roberts,Corporate,Partner,2024,22
+2929,Kimberly Scott,Corporate,Partner,2023,22
+2930,Ryan Garcia,Home Office,Online,2022,12
+2931,Scott Harris,Corporate,In-Store,2021,19
+2932,Susan Jackson,Consumer,In-Store,2022,20
+2933,Matthew Lopez,Home Office,Online,2024,8
+2934,Kimberly Roberts,Consumer,Direct Sales,2022,18
+2935,Linda Clark,Corporate,Online,2022,5
+2936,Ronald Green,Consumer,Partner,2024,1
+2937,Jeffrey Lopez,Corporate,Online,2024,24
+2938,Sandra King,Corporate,Online,2023,12
+2939,Ashley King,Consumer,Direct Sales,2023,10
+2940,James Thompson,Home Office,Direct Sales,2021,5
+2941,Larry Flores,Consumer,Online,2023,5
+2942,Stephanie Nguyen,Corporate,In-Store,2021,22
+2943,Paul Garcia,Corporate,Online,2022,14
+2944,Barbara Wilson,Consumer,In-Store,2022,22
+2945,Charles Roberts,Consumer,In-Store,2022,25
+2946,Jessica Taylor,Home Office,Partner,2022,5
+2947,Donald Nguyen,Corporate,Online,2022,21
+2948,Jennifer Johnson,Corporate,Online,2023,1
+2949,James Nelson,Home Office,Online,2022,13
+2950,William Brown,Consumer,Direct Sales,2022,7
+2951,Barbara Garcia,Corporate,Partner,2022,1
+2952,Michael Jones,Consumer,Online,2023,3
+2953,Kimberly Green,Corporate,Partner,2022,15
+2954,Edward Roberts,Consumer,In-Store,2021,19
+2955,Jeffrey Adams,Consumer,Online,2023,8
+2956,Dorothy Moore,Consumer,In-Store,2022,10
+2957,Ronald Hernandez,Consumer,Direct Sales,2024,24
+2958,Stephanie Carter,Home Office,In-Store,2023,12
+2959,John Scott,Corporate,Partner,2022,21
+2960,Jacob Harris,Home Office,Direct Sales,2022,20
+2961,William Roberts,Corporate,Online,2024,22
+2962,Stephen Taylor,Consumer,Online,2021,8
+2963,Elizabeth Rodriguez,Home Office,Online,2023,6
+2964,Betty Thompson,Home Office,Online,2022,3
+2965,Cynthia Smith,Consumer,Direct Sales,2024,22
+2966,Susan Garcia,Corporate,Online,2021,25
+2967,Jason Thomas,Corporate,Direct Sales,2022,15
+2968,Amy Wright,Corporate,Online,2021,7
+2969,Laura Jones,Home Office,In-Store,2022,19
+2970,Michael Campbell,Home Office,Partner,2022,5
+2971,Ronald Jackson,Consumer,Direct Sales,2021,9
+2972,Andrew Brown,Consumer,Online,2021,4
+2973,Ronald Walker,Corporate,Direct Sales,2024,24
+2974,Amy Nelson,Consumer,Direct Sales,2021,6
+2975,Elizabeth Young,Home Office,In-Store,2023,4
+2976,Matthew Taylor,Consumer,Direct Sales,2021,18
+2977,Michelle Mitchell,Corporate,Partner,2023,15
+2978,Sandra Carter,Consumer,Partner,2024,18
+2979,Ashley Davis,Home Office,Online,2023,11
+2980,Edward Johnson,Consumer,In-Store,2022,24
+2981,John Young,Corporate,In-Store,2023,14
+2982,Stephanie Baker,Home Office,Online,2022,2
+2983,Stephanie Young,Consumer,Online,2023,5
+2984,Mary White,Corporate,Online,2021,22
+2985,Lisa Lopez,Consumer,Online,2023,3
+2986,Ronald Baker,Home Office,Online,2023,18
+2987,Laura Miller,Corporate,Online,2021,3
+2988,Eric Adams,Corporate,Online,2024,5
+2989,Carol Torres,Consumer,In-Store,2023,2
+2990,Emma Nguyen,Corporate,In-Store,2021,20
+2991,Brenda Jackson,Corporate,Partner,2024,5
+2992,Robert Perez,Corporate,Direct Sales,2023,8
+2993,Brenda Ramirez,Home Office,In-Store,2023,17
+2994,Kimberly Adams,Consumer,Direct Sales,2022,24
+2995,Angela Scott,Corporate,In-Store,2021,15
+2996,Brenda Allen,Consumer,Partner,2024,23
+2997,Jeffrey Garcia,Consumer,Online,2024,13
+2998,Laura Harris,Consumer,In-Store,2024,6
+2999,Patricia Flores,Consumer,Online,2021,20
+3000,William Campbell,Corporate,Direct Sales,2022,18
+3001,Amy Harris,Corporate,Partner,2022,14
+3002,Nicholas Young,Corporate,Online,2024,11
+3003,Eric Torres,Consumer,Direct Sales,2021,21
+3004,Stephen Lee,Corporate,Online,2023,22
+3005,Donald White,Consumer,Online,2021,12
+3006,Deborah Harris,Corporate,Online,2022,2
+3007,Patricia Baker,Consumer,Online,2022,25
+3008,Michelle White,Consumer,Online,2022,15
+3009,Pamela Sanchez,Consumer,Online,2023,10
+3010,Nancy Green,Consumer,Direct Sales,2023,24
+3011,Anna Moore,Corporate,Partner,2021,7
+3012,Brenda Torres,Home Office,Online,2021,3
+3013,Carol Lopez,Corporate,Online,2024,16
+3014,Daniel Perez,Consumer,Direct Sales,2021,19
+3015,Mark Hall,Consumer,In-Store,2023,12
+3016,Susan Anderson,Home Office,Direct Sales,2021,23
+3017,Ronald White,Consumer,Direct Sales,2022,9
+3018,Deborah Scott,Consumer,In-Store,2023,25
+3019,Andrew Taylor,Consumer,Online,2023,4
+3020,Angela Torres,Consumer,Partner,2024,20
+3021,Kathleen Hernandez,Consumer,In-Store,2023,19
+3022,Donald Moore,Corporate,Online,2022,13
+3023,Donna Garcia,Consumer,In-Store,2022,11
+3024,Betty Miller,Consumer,Online,2023,7
+3025,Rebecca Walker,Corporate,Direct Sales,2021,14
+3026,Laura Lee,Consumer,Direct Sales,2021,5
+3027,Susan Jackson,Home Office,Partner,2021,12
+3028,Daniel Robinson,Consumer,In-Store,2024,23
+3029,Pamela King,Consumer,Online,2023,5
+3030,Kathleen Smith,Consumer,Online,2024,17
+3031,Emma Roberts,Consumer,Online,2021,11
+3032,Emma Roberts,Consumer,Online,2022,25
+3033,Scott Allen,Consumer,Partner,2022,9
+3034,Joshua Hernandez,Consumer,Partner,2022,24
+3035,Dorothy Wright,Corporate,Partner,2022,12
+3036,Kenneth Rivera,Home Office,Online,2022,10
+3037,Jessica Garcia,Corporate,Online,2022,5
+3038,James Williams,Consumer,Partner,2022,8
+3039,Pamela Adams,Home Office,Online,2021,21
+3040,Joseph Lee,Home Office,Online,2021,11
+3041,Kathleen Williams,Corporate,In-Store,2022,24
+3042,Nancy Baker,Consumer,Online,2024,17
+3043,Deborah Harris,Corporate,Direct Sales,2022,16
+3044,Mark Ramirez,Consumer,In-Store,2022,10
+3045,Edward Martinez,Corporate,Online,2024,24
+3046,Lisa White,Consumer,Direct Sales,2021,7
+3047,Daniel Rivera,Corporate,Partner,2023,7
+3048,William Rodriguez,Consumer,Online,2024,1
+3049,Donna Flores,Consumer,Online,2021,3
+3050,Eric Thomas,Consumer,In-Store,2021,18
+3051,Cynthia Thompson,Consumer,Online,2022,17
+3052,Elizabeth Nelson,Consumer,Partner,2024,16
+3053,Cynthia Lee,Consumer,Direct Sales,2022,9
+3054,Kathleen Rodriguez,Consumer,Partner,2024,11
+3055,Charles Flores,Consumer,Partner,2024,24
+3056,Ryan Harris,Home Office,In-Store,2023,13
+3057,Michael Scott,Home Office,Partner,2024,21
+3058,Jacob Lopez,Consumer,In-Store,2021,23
+3059,Margaret Torres,Corporate,Direct Sales,2024,1
+3060,Carol Lopez,Consumer,In-Store,2022,20
+3061,Margaret Mitchell,Consumer,Online,2021,14
+3062,Carol Nelson,Home Office,Online,2022,18
+3063,Jonathan Martinez,Consumer,Online,2023,23
+3064,Ashley Torres,Home Office,In-Store,2022,10
+3065,Paul Clark,Consumer,Partner,2022,24
+3066,Amy Anderson,Consumer,Online,2021,1
+3067,Anna Perez,Consumer,Online,2023,25
+3068,Amy Flores,Corporate,Online,2024,20
+3069,Scott Lewis,Consumer,In-Store,2022,6
+3070,Linda Perez,Consumer,Direct Sales,2022,17
+3071,Amy Campbell,Consumer,In-Store,2024,11
+3072,Sarah Nguyen,Home Office,Direct Sales,2022,5
+3073,Karen Johnson,Corporate,Partner,2021,12
+3074,Ronald Campbell,Corporate,Partner,2022,6
+3075,Robert Williams,Consumer,In-Store,2023,22
+3076,Cynthia King,Consumer,Partner,2022,22
+3077,Anthony Hall,Corporate,Partner,2022,17
+3078,Amanda Lopez,Consumer,In-Store,2024,25
+3079,Jennifer Gonzalez,Consumer,Direct Sales,2021,13
+3080,David Torres,Home Office,In-Store,2021,3
+3081,Brian Hernandez,Home Office,Partner,2022,3
+3082,John Roberts,Consumer,In-Store,2023,24
+3083,Pamela Mitchell,Consumer,Online,2022,16
+3084,Dorothy Adams,Home Office,In-Store,2021,7
+3085,James Torres,Consumer,In-Store,2021,19
+3086,Amy Garcia,Corporate,Online,2022,21
+3087,Karen Campbell,Consumer,Online,2021,22
+3088,Ryan Clark,Consumer,In-Store,2021,20
+3089,Elizabeth Davis,Consumer,Online,2021,6
+3090,Jennifer Davis,Corporate,Online,2021,11
+3091,Shirley Carter,Consumer,Online,2024,24
+3092,Margaret Williams,Consumer,Online,2022,7
+3093,Stephen Smith,Corporate,In-Store,2024,10
+3094,Eric Miller,Consumer,Partner,2021,3
+3095,Andrew Johnson,Corporate,In-Store,2023,5
+3096,Michelle Smith,Corporate,Online,2021,20
+3097,Andrew Harris,Consumer,Partner,2023,23
+3098,George Thompson,Corporate,Partner,2021,24
+3099,James Wilson,Corporate,In-Store,2022,25
+3100,Scott Young,Corporate,Partner,2021,15
+3101,Jessica Martinez,Consumer,Online,2022,11
+3102,Brenda White,Consumer,Partner,2021,1
+3103,Emily Jones,Home Office,Partner,2021,16
+3104,Michael Ramirez,Consumer,In-Store,2022,18
+3105,Amy Moore,Consumer,In-Store,2021,24
+3106,David Ramirez,Consumer,In-Store,2022,5
+3107,Thomas Jackson,Corporate,Direct Sales,2021,11
+3108,Emily Hernandez,Corporate,In-Store,2023,8
+3109,Andrew Williams,Consumer,Online,2023,13
+3110,Amy Torres,Home Office,In-Store,2022,10
+3111,William White,Consumer,In-Store,2024,12
+3112,Andrew Ramirez,Home Office,Direct Sales,2021,4
+3113,Sarah Taylor,Consumer,Online,2021,2
+3114,Jessica Allen,Consumer,Online,2023,24
+3115,Edward Scott,Consumer,Online,2021,3
+3116,Gary Hernandez,Consumer,Online,2021,4
+3117,George Lewis,Consumer,In-Store,2024,4
+3118,Michelle Rivera,Consumer,Online,2022,14
+3119,Laura Miller,Consumer,In-Store,2021,3
+3120,Michael Jackson,Consumer,In-Store,2021,10
+3121,Betty Sanchez,Consumer,Partner,2021,19
+3122,Sharon Lopez,Consumer,Partner,2023,15
+3123,Jason Rivera,Consumer,Online,2021,4
+3124,Emma Smith,Consumer,Direct Sales,2023,25
+3125,Betty Hill,Consumer,Partner,2024,15
+3126,Steven Ramirez,Home Office,Online,2021,12
+3127,Scott Jones,Corporate,Partner,2023,16
+3128,John Williams,Consumer,Online,2022,4
+3129,Donna Perez,Corporate,Online,2021,4
+3130,Michael Lewis,Corporate,In-Store,2021,9
+3131,Robert Johnson,Corporate,Online,2021,25
+3132,Jonathan Jones,Corporate,In-Store,2023,23
+3133,Paul Torres,Consumer,Online,2024,3
+3134,Kenneth Lopez,Consumer,In-Store,2022,19
+3135,Joshua Adams,Corporate,Partner,2024,13
+3136,Shirley Young,Corporate,In-Store,2021,19
+3137,Jeffrey Baker,Consumer,Online,2023,24
+3138,Kimberly Miller,Consumer,Online,2021,7
+3139,Gary Jackson,Home Office,In-Store,2022,8
+3140,Sandra Lopez,Corporate,Online,2021,23
+3141,Angela Nelson,Corporate,Online,2022,4
+3142,Laura Smith,Consumer,Partner,2021,14
+3143,Sarah Johnson,Consumer,Online,2022,18
+3144,Lisa Miller,Consumer,Online,2021,22
+3145,Patricia Green,Corporate,In-Store,2021,18
+3146,David Thomas,Consumer,Partner,2023,17
+3147,Nicholas Roberts,Corporate,Direct Sales,2024,3
+3148,Jeffrey Johnson,Corporate,In-Store,2023,10
+3149,Angela Johnson,Corporate,Partner,2024,13
+3150,Emily Martin,Corporate,Online,2021,12
+3151,Eric Allen,Corporate,Online,2024,17
+3152,Melissa Lewis,Home Office,In-Store,2021,1
+3153,Emily Wright,Consumer,In-Store,2022,3
+3154,Nancy Gonzalez,Consumer,Online,2023,3
+3155,David Hernandez,Consumer,In-Store,2023,9
+3156,Lisa Hill,Corporate,In-Store,2022,15
+3157,Ronald Nguyen,Home Office,In-Store,2024,22
+3158,Michael Moore,Consumer,Online,2023,9
+3159,Elizabeth Nguyen,Consumer,Online,2021,18
+3160,Ashley Lopez,Consumer,In-Store,2023,18
+3161,Emma Anderson,Consumer,Online,2021,15
+3162,Scott Nelson,Corporate,Online,2021,2
+3163,Rebecca Hall,Corporate,Partner,2022,18
+3164,Ashley Campbell,Consumer,In-Store,2021,15
+3165,Angela Martin,Consumer,Online,2021,11
+3166,Susan Harris,Consumer,Direct Sales,2022,25
+3167,Ashley Green,Consumer,In-Store,2021,17
+3168,Anna Roberts,Consumer,In-Store,2022,17
+3169,Sandra Flores,Consumer,Online,2024,13
+3170,Kathleen Martinez,Home Office,Partner,2022,19
+3171,William Ramirez,Consumer,Partner,2021,3
+3172,Margaret Davis,Corporate,Partner,2023,12
+3173,Christopher Wilson,Corporate,Online,2021,24
+3174,Edward Smith,Consumer,Direct Sales,2021,9
+3175,Carol Scott,Consumer,Online,2023,23
+3176,John Hernandez,Consumer,Direct Sales,2023,16
+3177,Charles Taylor,Consumer,Online,2022,2
+3178,Matthew Hall,Consumer,Online,2022,13
+3179,William Walker,Corporate,In-Store,2024,24
+3180,William Roberts,Consumer,Partner,2023,19
+3181,Brenda Green,Consumer,In-Store,2024,1
+3182,Stephanie Robinson,Corporate,Online,2021,15
+3183,Paul Clark,Consumer,Direct Sales,2023,11
+3184,Nancy Sanchez,Corporate,Direct Sales,2022,20
+3185,Stephen Flores,Corporate,Online,2024,13
+3186,Jonathan Lewis,Consumer,In-Store,2022,23
+3187,Elizabeth Lee,Consumer,Online,2022,22
+3188,Michael Davis,Consumer,Online,2023,6
+3189,Linda Baker,Corporate,Direct Sales,2021,13
+3190,Jennifer Thompson,Consumer,In-Store,2022,24
+3191,Linda Anderson,Corporate,In-Store,2023,13
+3192,Anthony Clark,Consumer,Online,2023,5
+3193,Richard Allen,Corporate,Online,2023,13
+3194,Gary Smith,Consumer,In-Store,2023,10
+3195,Sarah Martin,Corporate,In-Store,2021,10
+3196,Timothy Harris,Corporate,Online,2024,18
+3197,Sharon Ramirez,Consumer,Online,2023,9
+3198,Christopher Smith,Corporate,Direct Sales,2022,12
+3199,Gary Carter,Consumer,In-Store,2021,15
+3200,Donna Roberts,Consumer,Online,2023,20
+3201,Patricia Ramirez,Consumer,Partner,2022,13
+3202,Timothy Rodriguez,Home Office,Online,2022,23
+3203,Kimberly Brown,Consumer,In-Store,2023,12
+3204,Sandra Brown,Consumer,Direct Sales,2022,6
+3205,Jessica Lopez,Consumer,Online,2023,15
+3206,Jason Walker,Corporate,In-Store,2022,25
+3207,Kenneth Flores,Consumer,Online,2021,9
+3208,Richard Garcia,Consumer,Direct Sales,2022,9
+3209,Stephen King,Corporate,Direct Sales,2021,18
+3210,Mary Miller,Consumer,In-Store,2022,23
+3211,Amy Scott,Consumer,Partner,2021,20
+3212,Amanda Lewis,Home Office,Direct Sales,2024,9
+3213,Laura Rodriguez,Home Office,Online,2021,6
+3214,Jason Jones,Consumer,Online,2021,7
+3215,Shirley Taylor,Consumer,Partner,2022,8
+3216,Sharon Thompson,Corporate,Partner,2024,18
+3217,Michael Robinson,Corporate,Direct Sales,2023,12
+3218,Emily Allen,Consumer,Online,2023,23
+3219,Sandra Allen,Consumer,Online,2023,9
+3220,Michael Williams,Corporate,Online,2022,12
+3221,Andrew Adams,Consumer,Partner,2024,3
+3222,Joseph Rodriguez,Home Office,Online,2023,15
+3223,Andrew Roberts,Corporate,Partner,2023,16
+3224,David Lewis,Consumer,Partner,2023,8
+3225,Kimberly Adams,Corporate,Partner,2022,1
+3226,Matthew Scott,Corporate,In-Store,2023,16
+3227,Amanda Rivera,Consumer,In-Store,2023,3
+3228,Deborah Thomas,Corporate,Online,2023,7
+3229,Robert Harris,Corporate,Partner,2021,24
+3230,Brenda Allen,Corporate,Online,2024,11
+3231,Sandra Martin,Consumer,Partner,2024,21
+3232,Susan Allen,Consumer,Partner,2022,17
+3233,Andrew Allen,Home Office,Partner,2022,6
+3234,Dorothy Taylor,Consumer,In-Store,2022,9
+3235,Jason Brown,Corporate,Online,2022,12
+3236,William Walker,Corporate,Online,2023,18
+3237,Susan Smith,Corporate,In-Store,2024,24
+3238,Carol Thomas,Corporate,Online,2022,17
+3239,Angela Nelson,Consumer,In-Store,2022,20
+3240,Larry Nguyen,Consumer,In-Store,2022,5
+3241,Linda Martin,Home Office,Online,2022,5
+3242,Kathleen Miller,Consumer,Online,2021,13
+3243,Sandra Williams,Corporate,Partner,2024,18
+3244,Timothy Rivera,Consumer,Online,2024,18
+3245,Mark Nguyen,Consumer,In-Store,2021,4
+3246,Karen Davis,Home Office,In-Store,2022,13
+3247,Christopher Torres,Consumer,Online,2024,2
+3248,Anna Scott,Home Office,Online,2021,4
+3249,Mary Lopez,Consumer,Direct Sales,2021,23
+3250,Eric Harris,Consumer,Online,2021,1
+3251,Angela Green,Corporate,Partner,2024,22
+3252,Kathleen Rivera,Consumer,Online,2021,10
+3253,Matthew White,Consumer,Online,2021,24
+3254,Donald Scott,Consumer,Online,2021,3
+3255,Pamela Allen,Corporate,Partner,2021,25
+3256,Jonathan Adams,Consumer,Online,2022,19
+3257,Kenneth Baker,Corporate,Online,2021,25
+3258,John Robinson,Corporate,Online,2021,12
+3259,Dorothy Perez,Home Office,In-Store,2022,3
+3260,Kevin Johnson,Home Office,Online,2022,22
+3261,Deborah Ramirez,Consumer,Online,2024,13
+3262,Melissa Martin,Home Office,Partner,2023,8
+3263,Andrew Smith,Corporate,In-Store,2021,20
+3264,Pamela Moore,Corporate,In-Store,2022,1
+3265,Melissa Roberts,Corporate,Online,2022,7
+3266,Kimberly Scott,Consumer,In-Store,2022,20
+3267,Stephanie Hernandez,Consumer,In-Store,2021,8
+3268,Brenda Ramirez,Corporate,In-Store,2023,4
+3269,Jacob King,Home Office,In-Store,2022,20
+3270,Barbara White,Consumer,Partner,2022,12
+3271,Ryan Jones,Corporate,Direct Sales,2021,20
+3272,Donald Rodriguez,Consumer,Online,2022,23
+3273,Amanda Robinson,Home Office,In-Store,2022,6
+3274,Timothy Smith,Consumer,Online,2024,25
+3275,Anna White,Home Office,Direct Sales,2023,12
+3276,Kevin Allen,Consumer,Direct Sales,2022,15
+3277,Kimberly Rivera,Consumer,Partner,2022,13
+3278,Nancy Jones,Consumer,In-Store,2024,18
+3279,Charles Moore,Consumer,Partner,2022,5
+3280,Sharon Moore,Consumer,Online,2024,11
+3281,Angela Nguyen,Consumer,Online,2023,9
+3282,George Moore,Home Office,Online,2022,22
+3283,Kimberly White,Consumer,Partner,2022,25
+3284,Nicholas Rodriguez,Consumer,In-Store,2021,12
+3285,Amy Smith,Corporate,Online,2023,3
+3286,Stephanie Anderson,Home Office,Direct Sales,2022,2
+3287,Ryan Hernandez,Consumer,Online,2024,16
+3288,Daniel Allen,Consumer,In-Store,2022,24
+3289,Dorothy Smith,Consumer,In-Store,2023,17
+3290,Nancy Hernandez,Corporate,Partner,2021,5
+3291,Rebecca Jones,Consumer,Direct Sales,2024,25
+3292,Melissa Smith,Consumer,Online,2022,18
+3293,Linda Garcia,Consumer,Online,2021,6
+3294,Cynthia Miller,Home Office,In-Store,2022,14
+3295,David Mitchell,Home Office,Partner,2021,15
+3296,Michael Torres,Consumer,Online,2022,14
+3297,Pamela Lee,Corporate,Online,2022,23
+3298,Elizabeth Allen,Corporate,Online,2023,23
+3299,Kimberly Anderson,Corporate,Online,2022,15
+3300,Edward Nguyen,Corporate,Online,2024,12
+3301,Thomas Hill,Consumer,Direct Sales,2023,14
+3302,Elizabeth Flores,Corporate,In-Store,2021,16
+3303,Betty Martin,Corporate,Online,2024,24
+3304,Barbara Williams,Consumer,Online,2022,18
+3305,Stephanie Anderson,Corporate,Online,2024,7
+3306,George Lewis,Consumer,Partner,2023,11
+3307,Karen Clark,Corporate,Online,2021,18
+3308,Sharon Williams,Corporate,Online,2023,8
+3309,Steven Martin,Home Office,In-Store,2022,6
+3310,Kenneth Anderson,Consumer,Direct Sales,2024,10
+3311,Stephanie Rodriguez,Corporate,Online,2021,15
+3312,Dorothy Rivera,Consumer,Online,2023,12
+3313,David White,Home Office,Online,2022,24
+3314,Mary Hill,Consumer,Direct Sales,2024,11
+3315,Susan Williams,Consumer,In-Store,2023,22
+3316,Susan Anderson,Consumer,Online,2021,25
+3317,Nicholas Harris,Consumer,Direct Sales,2021,11
+3318,Kimberly Rivera,Home Office,In-Store,2021,23
+3319,Daniel Hernandez,Corporate,Online,2023,8
+3320,Kenneth Moore,Corporate,Online,2021,1
+3321,David Nelson,Consumer,Online,2022,19
+3322,Amanda Brown,Consumer,Partner,2023,23
+3323,Michael Garcia,Consumer,Online,2024,6
+3324,Brian Adams,Corporate,In-Store,2022,20
+3325,Michelle Williams,Consumer,Online,2024,4
+3326,Jeffrey Rivera,Consumer,Online,2023,2
+3327,Amanda Rivera,Corporate,In-Store,2023,8
+3328,William Brown,Consumer,Online,2024,20
+3329,Margaret Martin,Corporate,Online,2023,19
+3330,Jessica Smith,Consumer,Online,2021,7
+3331,Jason Williams,Consumer,In-Store,2023,3
+3332,Barbara Wright,Consumer,In-Store,2021,8
+3333,Michelle Flores,Corporate,Online,2022,12
+3334,Ashley White,Corporate,Online,2021,13
+3335,Barbara Williams,Consumer,Direct Sales,2022,19
+3336,Mary Adams,Consumer,In-Store,2024,18
+3337,Linda Jones,Corporate,Partner,2022,2
+3338,Donald Walker,Consumer,In-Store,2021,7
+3339,Matthew Torres,Home Office,Online,2023,12
+3340,Mark Johnson,Consumer,In-Store,2022,6
+3341,Kevin Lee,Consumer,Online,2022,1
+3342,Barbara Young,Consumer,Online,2021,13
+3343,Nancy Jackson,Consumer,In-Store,2021,2
+3344,Nancy Nelson,Home Office,Partner,2021,8
+3345,Donna Perez,Home Office,Online,2023,2
+3346,Anna Williams,Corporate,Direct Sales,2024,2
+3347,Amanda Thomas,Consumer,Partner,2022,14
+3348,Angela Taylor,Consumer,Online,2024,3
+3349,Deborah Sanchez,Consumer,Partner,2023,1
+3350,Andrew Baker,Consumer,Direct Sales,2024,11
+3351,Larry Scott,Corporate,In-Store,2022,19
+3352,Nancy Garcia,Consumer,Partner,2023,10
+3353,Lisa Sanchez,Consumer,Direct Sales,2021,22
+3354,Daniel Smith,Home Office,Online,2022,17
+3355,Nancy Jones,Consumer,Direct Sales,2024,23
+3356,Thomas Smith,Home Office,Online,2023,6
+3357,Mark Rivera,Corporate,Online,2021,23
+3358,Lisa Miller,Corporate,In-Store,2023,3
+3359,Amanda King,Corporate,In-Store,2024,24
+3360,James Baker,Consumer,Online,2021,4
+3361,Nicholas Ramirez,Consumer,Online,2022,3
+3362,Pamela Lee,Corporate,In-Store,2024,6
+3363,Richard Harris,Corporate,Online,2021,25
+3364,Michelle Thomas,Consumer,Partner,2023,7
+3365,William Scott,Home Office,In-Store,2021,19
+3366,Kathleen Lopez,Corporate,Online,2024,10
+3367,Michael Nelson,Consumer,In-Store,2021,25
+3368,Kathleen Hernandez,Consumer,Online,2021,10
+3369,Stephen Rodriguez,Corporate,Partner,2021,22
+3370,Karen Brown,Consumer,Online,2022,9
+3371,Margaret Campbell,Consumer,Partner,2022,4
+3372,William Clark,Home Office,Direct Sales,2022,23
+3373,Betty Hall,Consumer,Online,2023,1
+3374,Thomas Williams,Corporate,Direct Sales,2021,23
+3375,Karen Anderson,Home Office,Online,2022,12
+3376,Thomas Hall,Home Office,Online,2023,2
+3377,Thomas Allen,Consumer,Online,2021,9
+3378,Ronald Gonzalez,Consumer,Direct Sales,2021,23
+3379,Sandra Lewis,Consumer,Online,2024,4
+3380,Stephen Anderson,Consumer,Online,2021,6
+3381,Elizabeth Clark,Corporate,Partner,2024,3
+3382,Jacob Martin,Consumer,In-Store,2024,6
+3383,Scott Mitchell,Home Office,Online,2024,1
+3384,Emily Thomas,Home Office,Partner,2023,3
+3385,Deborah Sanchez,Consumer,In-Store,2023,7
+3386,Jessica Clark,Consumer,In-Store,2022,18
+3387,Melissa Clark,Home Office,Direct Sales,2022,25
+3388,Jennifer Harris,Consumer,Online,2021,19
+3389,Angela Sanchez,Consumer,Online,2023,25
+3390,Steven Martin,Corporate,Online,2022,7
+3391,Donna Hill,Corporate,Partner,2022,12
+3392,Mary Martin,Corporate,Online,2022,5
+3393,Lisa Harris,Consumer,Direct Sales,2021,10
+3394,Charles Taylor,Consumer,Online,2021,24
+3395,Michelle Adams,Corporate,Online,2023,4
+3396,Angela Allen,Corporate,Direct Sales,2022,16
+3397,Richard Mitchell,Corporate,Online,2023,24
+3398,Donna Rivera,Consumer,In-Store,2023,9
+3399,Mark Gonzalez,Corporate,Partner,2024,24
+3400,Andrew Robinson,Home Office,Online,2022,2
+3401,George Wright,Consumer,Online,2024,2
+3402,Donald Jones,Consumer,Partner,2024,17
+3403,Amy Sanchez,Consumer,Direct Sales,2021,15
+3404,Deborah Hall,Corporate,Online,2022,15
+3405,Stephanie Nguyen,Corporate,Partner,2024,24
+3406,Kevin Gonzalez,Consumer,Online,2022,16
+3407,Paul Sanchez,Consumer,Partner,2023,13
+3408,William Ramirez,Consumer,Online,2021,11
+3409,Andrew White,Consumer,In-Store,2021,11
+3410,Donna Allen,Consumer,Online,2023,20
+3411,Charles Lee,Corporate,Online,2022,10
+3412,Laura Lopez,Consumer,Direct Sales,2021,9
+3413,Sarah Thomas,Consumer,Partner,2024,9
+3414,Nancy Harris,Consumer,Partner,2021,22
+3415,Emily Adams,Corporate,Online,2023,6
+3416,Rebecca Davis,Consumer,Online,2022,23
+3417,Linda Lewis,Corporate,Online,2023,8
+3418,Susan Baker,Home Office,Online,2023,24
+3419,Jessica Young,Home Office,Partner,2024,5
+3420,Jessica Garcia,Consumer,In-Store,2021,18
+3421,Dorothy Lee,Consumer,Online,2024,9
+3422,Daniel Ramirez,Home Office,In-Store,2022,9
+3423,Amy Brown,Consumer,Online,2024,21
+3424,Patricia Hall,Corporate,Partner,2024,5
+3425,Mark Lewis,Consumer,Online,2022,22
+3426,Carol Clark,Consumer,In-Store,2021,2
+3427,Jennifer Carter,Corporate,Online,2021,15
+3428,Stephen Jones,Consumer,Direct Sales,2022,17
+3429,Jennifer Williams,Consumer,Online,2024,6
+3430,Thomas Jones,Consumer,Online,2023,7
+3431,Jessica Ramirez,Consumer,Online,2024,23
+3432,Jessica Roberts,Home Office,Partner,2022,21
+3433,Elizabeth Young,Home Office,Direct Sales,2021,7
+3434,Timothy Flores,Consumer,Partner,2022,13
+3435,Daniel Campbell,Consumer,In-Store,2022,21
+3436,Gary Thomas,Consumer,Partner,2024,12
+3437,Margaret Thomas,Consumer,Online,2023,15
+3438,Sandra Hall,Corporate,Direct Sales,2023,6
+3439,James Jackson,Consumer,In-Store,2023,8
+3440,Amanda Anderson,Consumer,Online,2021,12
+3441,Robert Walker,Consumer,Direct Sales,2022,15
+3442,Jennifer Allen,Consumer,In-Store,2023,4
+3443,Nicholas Hernandez,Corporate,Online,2021,1
+3444,Gary Davis,Consumer,Online,2023,18
+3445,Mark Scott,Corporate,In-Store,2021,3
+3446,Amy Nelson,Corporate,In-Store,2024,25
+3447,Emily Wright,Home Office,Partner,2022,11
+3448,Jeffrey Carter,Consumer,Online,2024,7
+3449,Karen Martinez,Home Office,Direct Sales,2022,21
+3450,Susan Carter,Corporate,Online,2021,18
+3451,Larry Martinez,Corporate,In-Store,2023,6
+3452,Daniel Campbell,Home Office,Online,2022,20
+3453,Michelle Wilson,Consumer,Online,2022,21
+3454,Kathleen Thomas,Consumer,In-Store,2022,9
+3455,Ronald Baker,Corporate,Online,2023,1
+3456,Gary Nelson,Consumer,Partner,2024,25
+3457,Jessica Adams,Corporate,Online,2024,3
+3458,Mark Roberts,Consumer,Online,2021,10
+3459,Stephanie Anderson,Corporate,Partner,2023,13
+3460,William Lee,Corporate,Partner,2021,11
+3461,Steven Torres,Consumer,Online,2023,3
+3462,Melissa Garcia,Consumer,Partner,2021,19
+3463,Michelle Perez,Consumer,Online,2024,3
+3464,Anna Campbell,Consumer,Direct Sales,2023,15
+3465,Jonathan Young,Consumer,Online,2022,1
+3466,Sarah Johnson,Consumer,Online,2021,1
+3467,Barbara Flores,Home Office,In-Store,2021,22
+3468,Elizabeth Martinez,Consumer,Direct Sales,2022,25
+3469,Sharon Flores,Consumer,In-Store,2023,13
+3470,Robert Torres,Home Office,In-Store,2021,14
+3471,Gary Walker,Consumer,Partner,2024,6
+3472,Thomas Lewis,Corporate,In-Store,2021,11
+3473,Anna King,Corporate,In-Store,2022,12
+3474,Donald Green,Home Office,Direct Sales,2023,23
+3475,Donna Gonzalez,Consumer,Online,2023,11
+3476,Donna Gonzalez,Consumer,In-Store,2023,19
+3477,Kevin Lopez,Consumer,Online,2021,19
+3478,William Thompson,Home Office,Partner,2022,13
+3479,Paul Jackson,Corporate,In-Store,2024,16
+3480,James Rivera,Consumer,Online,2024,15
+3481,Ronald Martin,Consumer,In-Store,2022,13
+3482,Joshua Torres,Consumer,In-Store,2022,3
+3483,Rebecca Gonzalez,Consumer,Online,2023,2
+3484,Steven Perez,Consumer,Online,2022,23
+3485,Mark Walker,Consumer,In-Store,2022,9
+3486,Larry Ramirez,Corporate,Direct Sales,2022,4
+3487,Larry Adams,Consumer,In-Store,2022,11
+3488,Anthony Brown,Corporate,In-Store,2023,6
+3489,Melissa Thompson,Consumer,In-Store,2022,22
+3490,Anthony Ramirez,Consumer,Direct Sales,2024,20
+3491,Kimberly King,Corporate,In-Store,2022,11
+3492,Ronald Thompson,Home Office,Online,2022,10
+3493,Kevin Carter,Consumer,Direct Sales,2024,24
+3494,Mark Martin,Corporate,Partner,2023,10
+3495,Jessica Sanchez,Corporate,In-Store,2021,20
+3496,Ashley Rivera,Home Office,Online,2022,10
+3497,Mark Torres,Home Office,Partner,2021,17
+3498,Emma Hernandez,Consumer,Online,2022,14
+3499,Thomas Hill,Corporate,Partner,2021,19
+3500,Stephen Adams,Corporate,In-Store,2024,9

@@ -1,0 +1,63 @@
+ProductKey,ProductName,Category,SubCategory,UnitPrice,UnitCost,GrossMargin%
+1,"ProBook Laptop 15""",Technology,Laptops & Computers,1199,720,39.9
+2,UltraSlim Notebook,Technology,Laptops & Computers,949,560,41.0
+3,Gaming Rig X1,Technology,Laptops & Computers,1599,990,38.1
+4,Chromebook Flex,Technology,Laptops & Computers,399,220,44.9
+5,Desktop Workstation,Technology,Laptops & Computers,1899,1200,36.8
+6,SmartPhone Pro Max,Technology,Phones & Tablets,999,590,40.9
+7,BudgetPhone Lite,Technology,Phones & Tablets,299,160,46.5
+8,"Tablet Pro 12.9""",Technology,Phones & Tablets,799,460,42.4
+9,E-Reader Slim,Technology,Phones & Tablets,149,80,46.3
+10,Smartwatch Series 5,Technology,Phones & Tablets,349,190,45.6
+11,Wireless Mouse,Technology,Accessories,35,12,65.7
+12,Mechanical Keyboard,Technology,Accessories,129,55,57.4
+13,USB-C Hub 7-port,Technology,Accessories,65,28,56.9
+14,"4K Monitor 27""",Technology,Accessories,449,260,42.1
+15,Noise-Cancel Headset,Technology,Accessories,199,90,54.8
+16,Webcam 4K,Technology,Accessories,119,52,56.3
+17,Portable SSD 1TB,Technology,Accessories,109,48,56.0
+18,Premium Copy Paper A4,Office Supplies,Paper & Stationery,18,7,61.1
+19,Sticky Notes 12-pack,Office Supplies,Paper & Stationery,12,4,66.7
+20,Ballpoint Pen Set,Office Supplies,Paper & Stationery,9,3,66.7
+21,Highlighter Set 8-col,Office Supplies,Paper & Stationery,11,4,63.6
+22,Binder Clips Assorted,Office Supplies,Paper & Stationery,6,2,66.7
+23,Ergonomic Office Chair,Office Supplies,Furniture & Storage,399,210,47.4
+24,Standing Desk Converter,Office Supplies,Furniture & Storage,249,130,47.8
+25,4-Drawer Filing Cabinet,Office Supplies,Furniture & Storage,189,95,49.7
+26,Bookshelf 5-tier,Office Supplies,Furniture & Storage,149,72,51.7
+27,Desk Organizer Set,Office Supplies,Furniture & Storage,49,22,55.1
+28,Heavy-Duty 3-Ring Binder,Office Supplies,Binders & Files,14,5,64.3
+29,Hanging File Folders,Office Supplies,Binders & Files,19,7,63.2
+30,Laminator Machine,Office Supplies,Binders & Files,89,40,55.1
+31,Label Maker Pro,Office Supplies,Binders & Files,59,28,52.5
+32,Executive Leather Chair,Furniture,Chairs,699,380,45.6
+33,Mesh Task Chair,Furniture,Chairs,299,155,48.2
+34,Stacking Conference Chair,Furniture,Chairs,99,48,51.5
+35,Recliner Lounge Chair,Furniture,Chairs,549,295,46.3
+36,Bar Stool Adjustable,Furniture,Chairs,149,72,51.7
+37,L-Shaped Office Desk,Furniture,Tables & Desks,599,320,46.6
+38,Round Meeting Table,Furniture,Tables & Desks,449,240,46.5
+39,Folding Training Table,Furniture,Tables & Desks,249,125,49.8
+40,Reception Desk Modern,Furniture,Tables & Desks,899,490,45.5
+41,Modular Bookcase,Furniture,Storage,349,180,48.4
+42,Mobile Pedestal 3-drawer,Furniture,Storage,199,98,50.8
+43,Lateral File Cabinet 2dr,Furniture,Storage,269,138,48.7
+44,N95 Respirator (50pk),Health & Safety,Personal Protection,45,18,60.0
+45,Safety Goggles,Health & Safety,Personal Protection,18,7,61.1
+46,Nitrile Gloves (100pk),Health & Safety,Personal Protection,22,9,59.1
+47,First Aid Kit Deluxe,Health & Safety,Personal Protection,55,25,54.5
+48,Hand Sanitizer 1L,Health & Safety,Personal Protection,12,4,66.7
+49,Ergonomic Wrist Rest,Health & Safety,Wellness,29,11,62.1
+50,Anti-Fatigue Mat,Health & Safety,Wellness,59,27,54.2
+51,Blue Light Filter Screen,Health & Safety,Wellness,49,21,57.1
+52,Air Purifier HEPA,Health & Safety,Wellness,199,95,52.3
+53,Desk Plant Package,Health & Safety,Wellness,39,16,59.0
+54,Office Coffee Maker,Appliances,Kitchen,99,45,54.5
+55,Compact Microwave,Appliances,Kitchen,129,62,51.9
+56,Mini Fridge 1.7cu,Appliances,Kitchen,149,72,51.7
+57,Water Dispenser Hot/Cold,Appliances,Kitchen,179,87,51.4
+58,Electric Kettle 1.7L,Appliances,Kitchen,45,19,57.8
+59,Robot Vacuum Cleaner,Appliances,Cleaning,399,198,50.4
+60,Cordless Vacuum,Appliances,Cleaning,249,118,52.6
+61,Steam Mop Pro,Appliances,Cleaning,149,70,53.0
+62,Air Compressor Mini,Appliances,Cleaning,129,59,54.3

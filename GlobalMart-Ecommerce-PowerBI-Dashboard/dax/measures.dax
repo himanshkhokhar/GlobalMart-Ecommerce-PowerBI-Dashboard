@@ -1,0 +1,403 @@
+// ============================================================
+// GlobalMart Power BI Dashboard — Complete DAX Measures
+// Measures Table: _Measures
+// Author: GlobalMart Analytics Team
+// Last Updated: 2024
+// ============================================================
+
+// ────────────────────────────────────────────────────────────
+// SECTION 1: CORE REVENUE & PROFIT MEASURES
+// ────────────────────────────────────────────────────────────
+
+// Total Revenue — sum of all order revenue (net of discounts)
+Total Revenue =
+    SUM ( FactOrders[Revenue] )
+
+// Total Cost — sum of all cost of goods
+Total Cost =
+    SUM ( FactOrders[Cost] )
+
+// Total Profit — Revenue minus Cost
+Total Profit =
+    [Total Revenue] - [Total Cost]
+
+// Gross Profit Margin % — what % of revenue is profit
+Profit Margin % =
+    DIVIDE (
+        [Total Profit],
+        [Total Revenue],
+        0
+    )
+
+// Total Orders — distinct order count
+Total Orders =
+    DISTINCTCOUNT ( FactOrders[OrderID] )
+
+// Average Order Value
+Avg Order Value =
+    DIVIDE (
+        [Total Revenue],
+        [Total Orders],
+        0
+    )
+
+// Total Quantity Sold
+Total Units Sold =
+    SUM ( FactOrders[Quantity] )
+
+// Total Shipping Cost
+Total Shipping Cost =
+    SUM ( FactOrders[ShippingCost] )
+
+// Return Rate %
+Return Rate % =
+    DIVIDE (
+        CALCULATE ( [Total Orders], FactOrders[ReturnFlag] = 1 ),
+        [Total Orders],
+        0
+    )
+
+// Returned Orders
+Returned Orders =
+    CALCULATE ( [Total Orders], FactOrders[ReturnFlag] = 1 )
+
+// ────────────────────────────────────────────────────────────
+// SECTION 2: TIME INTELLIGENCE MEASURES
+// ────────────────────────────────────────────────────────────
+
+// Revenue — Month-to-Date
+Revenue MTD =
+    TOTALMTD ( [Total Revenue], DimDate[Date] )
+
+// Revenue — Year-to-Date
+Revenue YTD =
+    TOTALYTD ( [Total Revenue], DimDate[Date] )
+
+// Revenue — Quarter-to-Date
+Revenue QTD =
+    TOTALQTD ( [Total Revenue], DimDate[Date] )
+
+// Revenue — Previous Month
+Revenue PM =
+    CALCULATE (
+        [Total Revenue],
+        DATEADD ( DimDate[Date], -1, MONTH )
+    )
+
+// Revenue — Previous Quarter
+Revenue PQ =
+    CALCULATE (
+        [Total Revenue],
+        DATEADD ( DimDate[Date], -1, QUARTER )
+    )
+
+// Revenue — Previous Year (same period)
+Revenue PY =
+    CALCULATE (
+        [Total Revenue],
+        SAMEPERIODLASTYEAR ( DimDate[Date] )
+    )
+
+// Revenue — Previous Year YTD
+Revenue PY YTD =
+    TOTALYTD (
+        [Total Revenue],
+        SAMEPERIODLASTYEAR ( DimDate[Date] )
+    )
+
+// Year-over-Year Growth %
+YoY Growth % =
+    DIVIDE (
+        [Total Revenue] - [Revenue PY],
+        [Revenue PY],
+        BLANK ()
+    )
+
+// Month-over-Month Growth %
+MoM Growth % =
+    DIVIDE (
+        [Total Revenue] - [Revenue PM],
+        [Revenue PM],
+        BLANK ()
+    )
+
+// YoY Absolute Change
+YoY Revenue Change =
+    [Total Revenue] - [Revenue PY]
+
+// Profit — Previous Year
+Profit PY =
+    CALCULATE (
+        [Total Profit],
+        SAMEPERIODLASTYEAR ( DimDate[Date] )
+    )
+
+// Profit YoY Growth %
+Profit YoY % =
+    DIVIDE (
+        [Total Profit] - [Profit PY],
+        ABS ( [Profit PY] ),
+        BLANK ()
+    )
+
+// Orders — Previous Year
+Orders PY =
+    CALCULATE (
+        [Total Orders],
+        SAMEPERIODLASTYEAR ( DimDate[Date] )
+    )
+
+// Orders YoY Growth %
+Orders YoY % =
+    DIVIDE (
+        [Total Orders] - [Orders PY],
+        [Orders PY],
+        BLANK ()
+    )
+
+// Rolling 3-Month Revenue Average
+Revenue 3M Rolling Avg =
+    AVERAGEX (
+        DATESINPERIOD ( DimDate[Date], LASTDATE ( DimDate[Date] ), -3, MONTH ),
+        [Total Revenue]
+    )
+
+// Rolling 12-Month Revenue (LTM)
+Revenue LTM =
+    CALCULATE (
+        [Total Revenue],
+        DATESINPERIOD ( DimDate[Date], LASTDATE ( DimDate[Date] ), -12, MONTH )
+    )
+
+// ────────────────────────────────────────────────────────────
+// SECTION 3: CONTRIBUTION & SHARE MEASURES
+// ────────────────────────────────────────────────────────────
+
+// Revenue % of Grand Total (ignores all filters on categories/products)
+Revenue % of Total =
+    DIVIDE (
+        [Total Revenue],
+        CALCULATE ( [Total Revenue], ALL ( DimProduct ), ALL ( DimCustomer ), ALL ( DimRegion ) ),
+        0
+    )
+
+// Revenue % of Category Total
+Revenue % of Category =
+    DIVIDE (
+        [Total Revenue],
+        CALCULATE ( [Total Revenue], ALL ( DimProduct[ProductName] ), ALL ( DimProduct[SubCategory] ) ),
+        0
+    )
+
+// Profit % of Total
+Profit % of Total =
+    DIVIDE (
+        [Total Profit],
+        CALCULATE ( [Total Profit], ALL ( DimProduct ), ALL ( DimCustomer ), ALL ( DimRegion ) ),
+        0
+    )
+
+// ────────────────────────────────────────────────────────────
+// SECTION 4: RANKING MEASURES
+// ────────────────────────────────────────────────────────────
+
+// Product Revenue Rank (1 = highest)
+Product Revenue Rank =
+    RANKX (
+        ALL ( DimProduct[ProductName] ),
+        [Total Revenue],
+        ,
+        DESC,
+        Dense
+    )
+
+// Category Revenue Rank
+Category Revenue Rank =
+    RANKX (
+        ALL ( DimProduct[Category] ),
+        [Total Revenue],
+        ,
+        DESC,
+        Dense
+    )
+
+// Sales Rep Revenue Rank
+SalesRep Revenue Rank =
+    RANKX (
+        ALL ( DimSalesRep[RepName] ),
+        [Total Revenue],
+        ,
+        DESC,
+        Dense
+    )
+
+// Customer Revenue Rank
+Customer Revenue Rank =
+    RANKX (
+        ALL ( DimCustomer[CustomerName] ),
+        [Total Revenue],
+        ,
+        DESC,
+        Dense
+    )
+
+// Top N Product Filter (used with What-If parameter TopN)
+Is Top N Product =
+    IF (
+        [Product Revenue Rank] <= [TopN Value],
+        1,
+        0
+    )
+
+// ────────────────────────────────────────────────────────────
+// SECTION 5: KPI INDICATOR MEASURES
+// ────────────────────────────────────────────────────────────
+
+// Revenue Target (static baseline — adjust to actual targets)
+Revenue Target =
+    CALCULATE (
+        [Revenue PY],
+        ALLEXCEPT ( DimDate, DimDate[Year] )
+    ) * 1.10
+
+// Revenue vs Target Variance
+Revenue vs Target =
+    [Total Revenue] - [Revenue Target]
+
+// Revenue vs Target % 
+Revenue vs Target % =
+    DIVIDE (
+        [Revenue vs Target],
+        [Revenue Target],
+        0
+    )
+
+// Margin Health Indicator (returns "Good", "Watch", "Alert")
+Margin Health =
+    SWITCH (
+        TRUE (),
+        [Profit Margin %] >= 0.35, "Good",
+        [Profit Margin %] >= 0.20, "Watch",
+        "Alert"
+    )
+
+// Growth Indicator Arrow (for KPI visuals)
+YoY Growth Icon =
+    SWITCH (
+        TRUE (),
+        [YoY Growth %] > 0.05,  "Up",
+        [YoY Growth %] < -0.05, "Down",
+        "Flat"
+    )
+
+// ────────────────────────────────────────────────────────────
+// SECTION 6: CUSTOMER ANALYTICS MEASURES
+// ────────────────────────────────────────────────────────────
+
+// Unique Customers
+Unique Customers =
+    DISTINCTCOUNT ( FactOrders[CustomerKey] )
+
+// Revenue per Customer
+Revenue per Customer =
+    DIVIDE (
+        [Total Revenue],
+        [Unique Customers],
+        0
+    )
+
+// New Customers (customers who placed first order in selected period)
+New Customers =
+    VAR _CurrentPeriod = VALUES ( DimDate[Date] )
+    VAR _AllCustomers  = CALCULATETABLE (
+            VALUES ( FactOrders[CustomerKey] ),
+            REMOVEFILTERS ( DimDate )
+        )
+    RETURN
+    COUNTROWS (
+        FILTER (
+            _AllCustomers,
+            VAR _FirstOrder = CALCULATE (
+                MIN ( FactOrders[OrderID] ),
+                REMOVEFILTERS ( DimDate ),
+                FactOrders[CustomerKey] = EARLIER ( FactOrders[CustomerKey] )
+            )
+            RETURN
+            CALCULATE (
+                COUNTROWS ( FactOrders ),
+                FactOrders[CustomerKey] = EARLIER ( FactOrders[CustomerKey] ),
+                DimDate[Date] IN _CurrentPeriod,
+                FactOrders[OrderID] = _FirstOrder
+            ) > 0
+        )
+    )
+
+// Avg Discount Given
+Avg Discount % =
+    AVERAGEX ( FactOrders, FactOrders[Discount] )
+
+// ────────────────────────────────────────────────────────────
+// SECTION 7: OPERATIONAL MEASURES
+// ────────────────────────────────────────────────────────────
+
+// Average Days to Ship
+Avg Days to Ship =
+    AVERAGEX (
+        FactOrders,
+        DATEDIFF (
+            DATE (
+                LEFT ( FactOrders[OrderDate], 4 ),
+                MID  ( FactOrders[OrderDate], 6, 2 ),
+                RIGHT ( FactOrders[OrderDate], 2 )
+            ),
+            DATE (
+                LEFT ( FactOrders[ShipDate], 4 ),
+                MID  ( FactOrders[ShipDate], 6, 2 ),
+                RIGHT ( FactOrders[ShipDate], 2 )
+            ),
+            DAY
+        )
+    )
+
+// Net Revenue (after shipping)
+Net Revenue =
+    [Total Revenue] - [Total Shipping Cost]
+
+// ────────────────────────────────────────────────────────────
+// SECTION 8: DYNAMIC TITLE MEASURES
+// ────────────────────────────────────────────────────────────
+
+// Dynamic Page Title for Overview
+Overview Title =
+    VAR _Year    = SELECTEDVALUE ( DimDate[Year], "All Years" )
+    VAR _Cat     = SELECTEDVALUE ( DimProduct[Category], "All Categories" )
+    VAR _Seg     = SELECTEDVALUE ( DimCustomer[Segment], "All Segments" )
+    RETURN
+    "Executive Overview  |  " & _Year & "  |  " & _Cat & "  |  " & _Seg
+
+// Dynamic Chart Title — Revenue Trend
+Revenue Trend Title =
+    VAR _Year = SELECTEDVALUE ( DimDate[Year], "2021–2024" )
+    RETURN
+    "Monthly Revenue Trend — " & _Year
+
+// Dynamic KPI Subtitle
+YoY Subtitle =
+    VAR _Growth = [YoY Growth %]
+    VAR _Sign   = IF ( _Growth >= 0, "+", "" )
+    RETURN
+    _Sign & FORMAT ( _Growth, "0.0%" ) & " vs Prior Year"
+
+// ────────────────────────────────────────────────────────────
+// SECTION 9: WHAT-IF PARAMETER PLACEHOLDER
+// ────────────────────────────────────────────────────────────
+
+// NOTE: Create this parameter in Power BI via Modeling > New Parameter
+// Name: TopN
+// Data Type: Whole Number
+// Min: 3, Max: 30, Increment: 1, Default: 10
+// This creates [TopN Value] and [TopN] table automatically.
+
+// ────────────────────────────────────────────────────────────
+// END OF MEASURES FILE
+// ────────────────────────────────────────────────────────────

@@ -1,0 +1,26 @@
+RegionKey,City,State,Country,Region,Latitude,Longitude
+1,New York,New York,USA,East,40.71,-74.01
+2,Los Angeles,California,USA,West,34.05,-118.24
+3,Chicago,Illinois,USA,Central,41.88,-87.63
+4,Houston,Texas,USA,South,29.76,-95.37
+5,Phoenix,Arizona,USA,West,33.45,-112.07
+6,Philadelphia,Pennsylvania,USA,East,39.95,-75.17
+7,San Antonio,Texas,USA,South,29.42,-98.49
+8,San Diego,California,USA,West,32.72,-117.16
+9,Dallas,Texas,USA,South,32.78,-96.8
+10,San Jose,California,USA,West,37.34,-121.89
+11,Austin,Texas,USA,South,30.27,-97.74
+12,Jacksonville,Florida,USA,South,30.33,-81.66
+13,Fort Worth,Texas,USA,South,32.75,-97.33
+14,Columbus,Ohio,USA,Central,39.96,-82.99
+15,Charlotte,North Carolina,USA,East,35.23,-80.84
+16,Seattle,Washington,USA,West,47.61,-122.33
+17,Denver,Colorado,USA,West,39.74,-104.98
+18,Boston,Massachusetts,USA,East,42.36,-71.06
+19,Nashville,Tennessee,USA,South,36.17,-86.78
+20,Portland,Oregon,USA,West,45.52,-122.68
+21,Toronto,Ontario,Canada,North America,43.65,-79.38
+22,Vancouver,British Columbia,Canada,North America,49.28,-123.12
+23,London,England,UK,Europe,51.51,-0.13
+24,Manchester,England,UK,Europe,53.48,-2.24
+25,Sydney,New South Wales,Australia,Asia-Pacific,-33.87,151.21
